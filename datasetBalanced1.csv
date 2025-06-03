@@ -1,0 +1,1192 @@
+Category,Subcategory,Action,Sentence,Response
+Music,Ambient,Check,Check the status of ambient music,Ambient music is currently playing
+Music,Ambient,Check,Is ambient music playing?,Ambient music status: active
+Music,Ambient,Check,What's the ambient music status?,Ambient music is on
+Music,Ambient,Play,Play ambient music,Playing ambient music now
+Music,Ambient,Play,Start ambient music,Ambient music started
+Music,Ambient,Play,Put on some ambient music,Ambient music is playing
+Music,Ambient,Stop,Stop ambient music,Ambient music stopped
+Music,Ambient,Stop,Turn off ambient music,Ambient music has been stopped
+Music,Ambient,Stop,Pause ambient music,Ambient music paused
+Music,Artist,Check,Check the current artist,Current artist is playing
+Music,Artist,Check,Who's the artist playing?,Artist information retrieved
+Music,Artist,Check,What artist is this?,Displaying artist details
+Music,Artist,Play,Play music by this artist,Playing artist’s music
+Music,Artist,Play,Start artist’s songs,Artist’s music started
+Music,Device,Check,Check music device status,Device is active
+Music,Device,Check,What's the music device status?,Music device is connected
+Music,Device,Check,Is the music device on?,Device status: on
+Music,Device,Multi_room,Play music in all rooms,Multi-room music enabled
+Music,Device,Multi_room,Sync music across rooms,Multi-room sync activated
+Music,Device,Multi_room,Start multi-room music,Music playing in all rooms
+Music,Device,Switch_device,Switch to another music device,Switched to new device
+Music,Device,Switch_device,Change music device,Device changed successfully
+Music,Device,Volume_sync,Sync volume across devices,Volume synchronized
+Music,Device,Volume_sync,Set volume for all music devices,All devices volume adjusted
+Music,Equalizer,Adjust,Adjust equalizer settings,Equalizer updated
+Music,Equalizer,Adjust,Change equalizer for music,Equalizer settings changed
+Music,Multi_source,Check,Check music sources,Available sources listed
+Music,Multi_source,Check,What music sources are active?,Source status retrieved
+Music,Multi_source,Check,List music sources,Sources displayed
+Music,Multi_source,Play,Play from multiple sources,Playing from all sources
+Music,Multi_source,Play,Start multi-source music,Music from multiple sources started
+Music,Multi_source,Play,Combine music sources,Multi-source playback active
+Music,Multi_source,Sync,Sync music sources,Sources synchronized
+Music,Multi_source,Sync,Align music sources,Source sync complete
+Music,Multi_source,Sync,Unify music sources,Sources unified
+Music,Playback,Check,Check playback status,Playback is active
+Music,Playback,Check,What's playing now?,Current track displayed
+Music,Playback,Check,Is music playing?,Playback status: on
+Music,Playback,Loop,Loop current track,Track looping enabled
+Music,Playback,Loop,Repeat this song,Song set to loop
+Music,Playback,Loop,Enable song loop,Loop mode activated
+Music,Playback,Pause,Pause the music,Music paused
+Music,Playback,Pause,Hold music playback,Music is paused.
+Music,Playback,Pause,Stop music temporarily,Music temporarily stopped
+Music,Playback,Play,Play the current track,Track playing
+Music,Playback,Play,Start music playback,Music started
+Music,Playback,Play,Resume music now,Playback resumed
+Music,Playback,Previous,Play previous track,Previous track playing
+Music,Playback,Previous,Go back to last song,Last song started
+Music,Playback,Previous,Replay previous song,Playing previous song
+Music,Playback,Repeat,Repeat current playlist,Playlist repeat enabled
+Music,Playback,Repeat,Set playlist to repeat,Playlist repeating
+Music,Playback,Repeat,Enable repeat mode,Repeat mode on
+Music,Playback,Restart,Restart current song,Song restarted
+Music,Playback,Restart,Play song from start,Song playing from beginning
+Music,Playback,Restart,Reset current track,Track reset
+Music,Playback,Resume,Resume music playback,Music resumed
+Music,Playback,Resume,Continue playing music,music continued.
+Music,Playback,Resume,Start music again,music resumed.
+Music,Playback,Skip,Skip to next track,Next track playing
+Music,Playback,Skip,Play next song,Next song started
+Music,Playback,Skip,Go to next track,Track skipped
+Music,Playback,Stop,Stop music playback,Music stopped
+Music,Playback,Stop,Turn off music,Music turned off
+Music,Playback,Stop,Halt music playback,Playback halted
+Music,Playback_speed,Adjust_speed,Change music speed,Speed adjusted
+Music,Playback_speed,Adjust_speed,Set playback speed,Playback speed updated
+Music,Playback_speed,Adjust_speed,Modify music tempo,Tempo changed
+Music,Playback_speed,Check,Check playback speed,Current speed displayed
+Music,Playback_speed,Check,What's the music speed?,Playback speed retrieved
+Music,Playback_speed,Check,Show playback speed,Speed information shown
+Music,Playback_speed,Reset_speed,Reset music speed,Speed reset to default
+Music,Playback_speed,Reset_speed,Set speed to normal,Playback speed normalized
+Music,Playback_speed,Reset_speed,Restore default speed,Default speed restored
+Music,Playlist,Add_song,Add song to playlist,Song added
+Music,Playlist,Add_song,Put song in playlist,Playlist updated with song
+Music,Playlist,Check,Check current playlist,Playlist details displayed
+Music,Playlist,Check,Show playlist contents,Playlist shown
+Music,Playlist,Create,Create new playlist,New playlist created
+Music,Playlist,Create,Start a new playlist,Playlist started
+Music,Playlist,Create,Make a playlist,Playlist created
+Music,Playlist,Delete,Delete playlist,Playlist removed
+Music,Playlist,Delete,Remove playlist,Playlist deleted
+Music,Playlist,Delete,Erase playlist,Playlist erased
+Music,Playlist,Remove_song,Remove song from playlist,Song removed from playlist.
+Music,Playlist,Remove_song,Delete song from playlist,Song deleted from playlist
+Music,Playlist,Remove_song,Take song off playlist,Song removed from playlist
+Music,Playlist,Reorder,Reorder playlist songs,Playlist reordered
+Music,Playlist,Reorder,Change playlist order,Playlist order updated
+Music,Playlist,Reorder,Shuffle playlist songs,Playlist rearranged
+Music,Playlist,Select_playlist,Select a playlist,Playlist selected
+Music,Playlist,Select_playlist,Choose playlist,Playlist chosen
+Music,Playlist,Select_playlist,Switch to playlist,Switched to playlist
+Music,Playlist,Shuffle,Shuffle playlist,Playlist shuffled
+Music,Playlist,Shuffle,Randomize playlist,Playlist randomized
+Music,Playlist,Shuffle,Mix playlist songs,Playlist mixed
+Music,Podcast,Play,Play podcast,Podcast playing
+Music,Podcast,Play,Start podcast,Podcast started
+Music,Podcast,Play,Listen to podcast,Podcast playback active
+Music,Podcast,Skip,Next podcast episode,Podcast skipped
+Music,Podcast,Skip,Go to next podcast,Next podcast started
+Music,Power,Turn_off,Turn off music system,System powered off
+Music,Power,Turn_off,Shut down music device,Music device off
+Music,Power,Turn_off,Power off music,Music system turned off
+Music,Power,Turn_on,Turn on music system,music System powered on.
+Music,Power,Turn_on,Start music device,Music device on
+Music,Power,Turn_on,Power on music,Music system activated
+Music,Queue,Add,Add song to queue,Song added to queue
+Music,Queue,Add,Queue this song,Song queued
+Music,Queue,Add,Put song in queue,Queue updated
+Music,Queue,Check,Show queue status,Queue shown
+Music,Queue,Clear,Clear music queue,Queue cleared
+Music,Queue,Clear,Empty queue,Queue emptied
+Music,Queue,Clear,Remove all from queue,Queue reset
+Music,Radio,Play,Play radio,Radio playing
+Music,Radio,Play,Start radio station,Radio started
+Music,Schedule,Cancel,Cancel music schedule,Schedule canceled
+Music,Schedule,Cancel,Stop scheduled music,Scheduled music stopped
+Music,Schedule,Cancel,Remove music schedule,Schedule removed
+Music,Schedule,Check,Check music schedule,Schedule details displayed
+Music,Schedule,Check,Show music schedule,Schedule shown
+Music,Schedule,Check,What's the music schedule?,Schedule retrieved
+Music,Schedule,Play,Play scheduled music,Music schedule started
+Music,Schedule,Play,Start music schedule,Schedule activated
+Music,Schedule,Stop,Stop scheduled music,Scheduled music stopped
+Music,Schedule,Stop,Halt music schedule,Schedule halted
+Music,Schedule,Stop,End music schedule,Schedule ended
+Music,Sleep_timer,Check,Check sleep timer status,Sleep timer details shown
+Music,Sleep_timer,Check,What's the sleep timer?,Sleep timer status retrieved
+Music,Sleep_timer,Check,Show sleep timer,Sleep timer displayed
+Music,Sleep_timer,Set,Set sleep timer,Sleep timer set
+Music,Sleep_timer,Set,Activate sleep timer,Sleep timer activated
+Music,Song,Check,Check current song,Song details displayed
+Music,Song,Check,What's the current song?,Song information shown
+Music,Song,Play,Play this song,Song playing
+Music,Song,Play,Start this song,Song started
+Music,Source,Check,Check music source,Source details displayed
+Music,Source,Check,What's the current source?,Source information shown
+Music,Source,Check,Show music source,Source displayed
+Music,Source,Switch_source,Switch music source,Source switched
+Music,Source,Switch_source,Change music source,Source changed
+Music,Status,Check,Check music status,Music status displayed
+Music,Status,Check,Show music system status,Status shown
+Music,Voice_control,Check,Check voice control status,Voice control is active
+Music,Voice_control,Check,Is voice control on?,Voice control status: on
+Music,Voice_control,Check,Show voice control settings,Voice control settings displayed
+Music,Voice_control,Disable,Disable voice control,Voice control disabled
+Music,Voice_control,Disable,Turn off voice control,Voice control turned off
+Music,Voice_control,Disable,Stop voice control,Voice control stopped
+Music,Voice_control,Enable,Enable voice control,Voice control enabled
+Music,Voice_control,Enable,Turn on voice control,Voice control activated
+Music,Voice_control,Enable,Start voice control,Voice control started
+Music,Volume,Adjust_volume,Adjust music volume,Volume adjusted
+Music,Volume,Check,Check volume level,Volume level displayed
+Music,Volume,Check,What's the volume?,Volume status shown
+Music,Volume,Check,Show volume level,Volume displayed
+Music,Volume,Mute,Mute music,Music muted
+Music,Volume,Mute,Turn off sound,Sound muted
+Music,Volume,Mute,Silence music,Music is turned off.
+Music,Volume,Unmute,Unmute music,Music unmuted
+Music,Volume,Unmute,Restore sound,Sound restored
+Music,Volume,Unmute,Turn sound back on,Music sound on
+Camera,all,on,Turn on all cameras,All cameras activated
+Camera,all,on,Activate all cameras,All cameras turned on
+Camera,all,on,Start all cameras,Cameras started
+Camera,all,on,Enable all cameras,All cameras enabled
+Camera,all,on,Power on all cameras,All cameras powered on
+Camera,all,on,Switch on all cameras,Cameras switched on
+Camera,all,on,Turn all cameras on,All cameras on
+Camera,all,on,Activate camera system,Camera system activated
+Camera,attic,no_action,Check attic camera status,Attic camera status retrieved
+Camera,attic,no_action,Show attic camera,Attic camera status shown
+Camera,attic,no_action,What's the attic camera status?,Attic camera details displayed
+Camera,attic,no_action,Attic camera check,Status checked
+Camera,attic,no_action,View attic camera,Attic camera view active
+Camera,attic,no_action,Monitor attic camera,Camera monitored
+Camera,attic,no_action,Display attic camera,Attic camera displayed
+Camera,attic,no_action,Check attic camera feed,Feed checked
+Camera,attic,no_action,Show attic camera feed,Attic feed shown
+Camera,attic,no_action,Attic camera status check,Status retrieved
+Camera,attic,on,Turn on attic camera,Attic camera activated
+Camera,attic,on,Activate attic camera,Attic camera turned on
+Camera,attic,on,Start attic camera,Attic camera started
+Camera,attic,on,Enable attic camera,Attic camera enabled
+Camera,attic,on,Power on attic camera,Attic camera powered on
+Camera,attic,on,Switch on attic camera,Attic camera switched on
+Camera,attic,on,Turn attic camera on,Attic camera on
+Camera,attic,on,Activate attic camera system,Attic camera system activated
+Camera,attic,on,Start attic surveillance,Surveillance started
+Camera,attic,on,Enable attic monitoring,Monitoring enabled
+Camera,backyard,no_action,Check backyard camera status,Backyard camera status retrieved
+Camera,backyard,no_action,Show backyard camera,Backyard camera status shown
+Camera,backyard,no_action,What's the backyard camera status?,Backyard camera details displayed
+Camera,backyard,no_action,Backyard camera check,Status checked
+Camera,backyard,no_action,View backyard camera,Backyard camera view active
+Camera,backyard,no_action,Monitor backyard camera,Camera monitored
+Camera,backyard,on,Turn on backyard camera,Backyard camera activated
+Camera,backyard,on,Activate backyard camera,Backyard camera turned on
+Camera,backyard,on,Start backyard camera,Backyard camera started
+Camera,backyard,on,Enable backyard camera,Backyard camera enabled
+Camera,backyard,on,Power on backyard camera,Backyard camera powered on
+Camera,backyard,on,Switch on backyard camera,Backyard camera switched on
+Camera,backyard,on,Turn backyard camera on,Backyard camera on
+Camera,backyard,on,Activate backyard camera system,Backyard camera system activated
+Camera,backyard,on,Start backyard surveillance,Surveillance started
+Camera,basement,no_action,Check basement camera status,Basement camera status retrieved
+Camera,basement,no_action,Show basement camera,Basement camera status shown
+Camera,basement,no_action,What's the basement camera status?,Basement camera details displayed
+Camera,basement,no_action,Basement camera check,Status checked
+Camera,basement,no_action,View basement camera,Basement camera view active
+Camera,basement,no_action,Monitor basement camera,Basement camera monitoring.
+Camera,basement,no_action,Display basement camera,Basement camera displayed
+Camera,basement,no_action,Check basement camera feed,Feed checked
+Camera,basement,no_action,Show basement camera feed,Basement feed shown
+Camera,basement,no_action,Basement camera status check,Status retrieved
+Camera,basement,on,Turn on basement camera,Basement camera activated
+Camera,basement,on,Activate basement camera,Basement camera turned on
+Camera,basement,on,Start basement camera,Basement camera started
+Camera,basement,on,Enable basement camera,Basement camera enabled
+Camera,basement,on,Power on basement camera,Basement camera powered on
+Camera,basement,on,Switch on basement camera,Basement camera switched on
+Camera,bathroom,no_action,Check bathroom camera status,Bathroom camera status retrieved
+Camera,bathroom,no_action,Show bathroom camera,Bathroom camera status shown
+Camera,bathroom,no_action,What's the bathroom camera status?,Bathroom camera details displayed
+Camera,bathroom,no_action,Bathroom camera check,Status checked
+Camera,bathroom,no_action,View bathroom camera,Bathroom camera view active
+Camera,bathroom,no_action,Monitor bathroom camera,Camera monitored
+Camera,bathroom,no_action,Display bathroom camera,Bathroom camera displayed
+Camera,bathroom,no_action,Check bathroom camera feed,Feed checked
+Camera,bathroom,no_action,Show bathroom camera feed,Bathroom feed shown
+Camera,bathroom,on,Turn on bathroom camera,Bathroom camera activated
+Camera,bathroom,on,Activate bathroom camera,Bathroom camera turned on
+Camera,bathroom,on,Start bathroom camera,Bathroom camera started
+Camera,bathroom,on,Enable bathroom camera,Bathroom camera enabled
+Camera,bathroom,on,Power on bathroom camera,Bathroom camera powered on
+Camera,bathroom,on,Switch on bathroom camera,Bathroom camera switched on
+Camera,bathroom,on,Turn bathroom camera on,Bathroom camera on
+Camera,bathroom,on,Activate bathroom camera system,Bathroom camera system activated
+Camera,bathroom,on,Start bathroom surveillance,Surveillance started
+Camera,bathroom,on,Enable bathroom monitoring,Monitoring enabled
+Camera,cellar,no_action,Check cellar camera status,Cellar camera status retrieved
+Camera,cellar,no_action,Show cellar camera,Cellar camera status shown
+Camera,cellar,no_action,What's the cellar camera status?,Cellar camera details displayed
+Camera,cellar,no_action,Cellar camera check,Status checked
+Camera,cellar,no_action,View cellar camera,Cellar camera view active
+Camera,cellar,no_action,Monitor cellar camera,Camera monitored
+Camera,cellar,no_action,Display cellar camera,Cellar camera displayed
+Camera,cellar,no_action,Check cellar camera feed,Cellar feed status retrieved.
+Camera,cellar,no_action,Show cellar camera feed,Cellar feed shown
+Camera,cellar,on,Turn on cellar camera,Cellar camera activated
+Camera,cellar,on,Activate cellar camera,Cellar camera turned on
+Camera,cellar,on,Start cellar camera,Cellar camera started
+Camera,cellar,on,Enable cellar camera,Cellar camera enabled
+Camera,cellar,on,Power on cellar camera,Cellar camera powered on
+Camera,cellar,on,Switch on cellar camera,Cellar camera switched on
+Camera,cellar,on,Turn cellar camera on,Cellar camera on
+Camera,cellar,on,Activate cellar camera system,Cellar camera system activated
+Camera,cellar,on,Start cellar surveillance,Surveillance started
+Camera,dining room,no_action,Check dining room camera status,Dining room camera status retrieved
+Camera,dining room,no_action,Show dining room camera,Dining room camera status shown
+Camera,dining room,no_action,What's the dining room camera status?,Dining room camera details displayed
+Camera,dining room,no_action,Dining room camera check,Status checked
+Camera,dining room,no_action,View dining room camera,Dining room camera view active
+Camera,dining room,no_action,Monitor dining room camera,Camera monitored
+Camera,dining room,no_action,Display dining room camera,Dining room camera displayed
+Camera,dining room,no_action,Check dining room camera feed,Feed checked
+Camera,dining room,no_action,Show dining room camera feed,Dining room feed shown
+Camera,dining room,no_action,Dining room camera status check,Status retrieved
+Camera,dining room,no_action,View dining room surveillance,Surveillance view active
+Camera,kitchen,no_action,Check kitchen camera status,Kitchen camera status retrieved
+Camera,kitchen,no_action,Show kitchen camera,Kitchen camera status shown
+Camera,kitchen,no_action,What's the kitchen camera status?,Kitchen camera details displayed
+Camera,kitchen,no_action,Kitchen camera check,Status checked
+Camera,kitchen,no_action,View kitchen camera,Kitchen camera view active
+Camera,kitchen,no_action,Monitor kitchen camera,Camera monitored
+Camera,kitchen,no_action,Display kitchen camera,Kitchen camera displayed
+Camera,kitchen,on,Turn on kitchen camera,Kitchen camera activated
+Camera,kitchen,on,Activate kitchen camera,Kitchen camera turned on
+Camera,kitchen,on,Start kitchen camera,Kitchen camera started
+Camera,kitchen,on,Enable kitchen camera,Kitchen camera enabled
+Camera,kitchen,on,Power on kitchen camera,Kitchen camera powered on
+Camera,kitchen,on,Switch on kitchen camera,Kitchen camera switched on
+Camera,kitchen,on,Turn kitchen camera on,Kitchen camera on
+Camera,kitchen,on,Activate kitchen camera system,Kitchen camera system activated
+Camera,library,no_action,Check library camera status,Library camera status retrieved
+Camera,library,no_action,Show library camera,Library camera status shown
+Camera,library,no_action,What's the library camera status?,Library camera details displayed
+Camera,library,no_action,Library camera check,Status checked
+Camera,library,no_action,View library camera,Library camera view active
+Camera,library,no_action,Monitor library camera,library Camera monitoring
+Camera,library,no_action,Display library camera,Library camera displaying
+Camera,library,no_action,Check library camera feed,library camera Feed checking
+Camera,library,no_action,Show library camera feed,Library feed camera showning
+Camera,library,no_action,Library camera status check,Status retrieved
+Camera,library,on,Turn on library camera,Library camera activated
+Camera,library,on,Activate library camera,Library camera turned on
+Camera,library,on,Start library camera,Library camera started
+Camera,library,on,Enable library camera,Library camera enabled
+Camera,library,on,Power on library camera,Library camera powered on
+Camera,library,on,Switch on library camera,Library camera switched on
+Camera,library,on,Turn library camera on,Library camera on
+Camera,library,on,Activate library camera system,Library camera system activated
+Camera,library,on,Start library surveillance,Surveillance started in the library.
+Camera,library,on,Enable library monitoring,Monitoring enabled
+Camera,living room,no_action,Show living room camera,Living room camera status shown
+Camera,living room,no_action,What's the living room camera status?,Living room camera details displayed
+Camera,living room,no_action,Living room camera check,Status checked
+Camera,living room,no_action,View living room camera,Living room camera view active
+Camera,living room,no_action,Monitor living room camera,Camera monitoring living room
+Camera,living room,no_action,Display living room camera,Living room camera displayed
+Camera,living room,on,Turn on living room camera,Living room camera activated
+Camera,living room,on,Activate living room camera,Living room camera turned on
+Camera,living room,on,Start living room camera,Living room camera started
+Camera,living room,on,Enable living room camera,Living room camera enabled
+Camera,living room,on,Power on living room camera,Living room camera powered on
+Camera,living room,on,Switch on living room camera,Living room camera switched on
+Camera,living room,on,Turn living room camera on,Living room camera on
+Camera,living room,on,Activate living room camera system,Living room camera system activated
+Camera,living room,on,Start living room surveillance,Surveillance started in the living room.
+Camera,living room,on,Enable living room monitoring,Monitoring enabled
+Camera,none,no_action,Check camera system status,Camera system status retrieved
+Camera,none,no_action,Show all cameras,All cameras status shown
+Camera,none,no_action,What's the camera system status?,Camera system details displayed
+Camera,none,no_action,Camera system check,Status checked
+Camera,none,no_action,View all cameras,All cameras view active
+Camera,none,on,Turn on camera system,Camera system activated
+Camera,none,on,Activate all cameras,All cameras turned on
+Camera,none,on,Start camera system,Camera system started
+Camera,none,on,Enable all cameras,All cameras enabled
+Camera,none,on,Power on camera system,Camera system powered on
+Camera,none,on,Switch on all cameras,Cameras switched on
+Camera,none,on,Turn all cameras on,All cameras on
+Camera,outside,no_action,Check outside camera status,Outside camera status retrieved
+Camera,outside,no_action,Show outside camera,Outside camera status shown
+Camera,outside,no_action,What's the outside camera status?,Outside camera details displayed
+Camera,outside,on,Turn on outside camera,Outside camera activated
+Camera,outside,on,Activate outside camera,Outside camera turned on
+Camera,outside,on,Start outside camera,Outside camera started
+Camera,outside,on,Enable outside camera,Outside camera enabled
+Camera,outside,on,Power on outside camera,Outside camera powered on
+Camera,outside,on,Switch on outside camera,Outside camera switched on
+Camera,outside,on,Turn outside camera on,Outside camera on
+Camera,outside,on,Activate outside camera system,Outside camera system activated
+Camera,toilet,on,Turn on toilet camera,Toilet camera activated
+Camera,toilet,on,Start toilet camera,Toilet camera started
+Camera,toilet,on,Enable toilet camera,Toilet camera enabled
+Camera,toilet,on,Power on toilet camera,Toilet camera powered on
+Camera,toilet,on,Switch on toilet camera,Toilet camera switched on
+Camera,toilet,on,Turn toilet camera on,Toilet camera on
+Camera,toilet,on,Activate toilet camera system,Toilet camera system activated
+Lights,all,on,Turn on all lights,All lights turned on
+Lights,all,on,Activate all lights,All lights activated
+Lights,all,on,Switch on all lights,All lights switched on
+Lights,all,on,Enable all lights,All lights enabled
+Lights,all,on,Power on all lights,All lights powered on
+Lights,all,on,Start all lights,All lights started
+Lights,all,on,Light up all rooms,All rooms lit
+Lights,all,on,Turn all lights on,All lights on
+Lights,all,on,Activate lighting system,Lighting system activated
+Lights,all,on,Enable all lighting,All lighting enabled
+Lights,all,on,Switch on entire lighting,Entire lighting switched on
+Lights,all,on,Turn on whole house lights,Whole house lights turned on
+Lights,all,on,Activate all room lights,All room lights activated
+Lights,all,on,Start all lighting,All lighting started
+Lights,all,on,Enable house-wide lights,House-wide lights enabled
+Lights,all,on,Power on all lighting,All lighting powered on
+Lights,all,on,Switch on all house lights,All house lights switched on
+Lights,all,on,Turn on every light,Every light turned on
+Lights,all,on,Activate entire lighting,Entire lighting activated
+Lights,all,on,Enable all home lights,All home lights enabled
+Lights,all,on,Switch on all room lights,All room lights switched on
+Lights,all,on,Turn on full lighting,Full lighting turned on
+Lights,attic,off,Turn off attic lights,Attic lights turned off
+Lights,attic,off,Switch off attic lights,Attic lights switched off
+Lights,attic,off,Deactivate attic lights,Attic lights deactivated
+Lights,attic,off,Power off attic lights,Attic lights powered off
+Lights,attic,off,Shut off attic lights,Attic lights shut off
+Lights,attic,off,Turn attic lights off,Attic lights off
+Lights,attic,off,Disable attic lighting,Attic lighting disabled
+Lights,attic,off,Stop attic lights,Attic lights stopped
+Lights,attic,off,Extinguish attic lights,Attic lights extinguished
+Lights,attic,off,Turn off attic lighting,Attic lighting turned off
+Lights,attic,off,Switch off attic lighting,Attic lighting switched off
+Lights,attic,off,Deactivate attic lighting,Attic lighting deactivated
+Lights,attic,off,Power off attic lighting,Attic lighting powered off
+Lights,attic,off,Shut off attic lighting,Attic lighting shut off
+Lights,attic,off,Disable attic lights,Attic lights disabled
+Lights,attic,off,Stop attic lighting,Attic lighting stopped
+Lights,attic,off,Extinguish attic lighting,Attic lighting extinguished
+Lights,attic,off,Turn off all attic lights,All attic lights turned off
+Lights,attic,off,Switch off all attic lights,All attic lights switched off
+Lights,attic,off,Deactivate all attic lights,All attic lights deactivated
+Lights,attic,on,Turn on attic lights,Attic lights turned on
+Lights,attic,on,Activate attic lights,Attic lights activated
+Lights,attic,on,Switch on attic lights,Attic lights switched on
+Lights,attic,on,Enable attic lights,Attic lights enabled
+Lights,attic,on,Power on attic lights,Attic lights powered on
+Lights,attic,on,Start attic lights,Attic lights started
+Lights,attic,on,Light up attic,Attic lit up
+Lights,attic,on,Turn attic lights on,Attic lights on
+Lights,attic,on,Activate attic lighting,Attic lighting activated
+Lights,attic,on,Enable attic lighting,Attic lighting enabled
+Lights,attic,on,Switch on attic lighting,Attic lighting switched on
+Lights,attic,on,Turn on attic lighting,Attic lighting turned on
+Lights,attic,on,Activate all attic lights,All attic lights activated
+Lights,attic,on,Switch on all attic lights,All attic lights switched on
+Lights,attic,on,Enable all attic lights,All attic lights enabled
+Lights,attic,on,Power on all attic lights,All attic lights powered on
+Lights,basement,off,Turn off basement lights,Basement lights turned off
+Lights,basement,off,Switch off basement lights,Basement lights switched off
+Lights,basement,off,Deactivate basement lights,Basement lights deactivated
+Lights,basement,off,Power off basement lights,Basement lights powered off
+Lights,basement,off,Shut off basement lights,Basement lights shut off
+Lights,basement,off,Turn basement lights off,Basement lights off
+Lights,basement,off,Disable basement lighting,Basement lighting disabled
+Lights,basement,off,Stop basement lights,Basement lights stopped
+Lights,basement,off,Extinguish basement lights,Basement lights extinguished
+Lights,basement,off,Turn off basement lighting,Basement lighting turned off
+Lights,basement,off,Switch off basement lighting,Basement lighting switched off
+Lights,basement,off,Deactivate basement lighting,Basement lighting deactivated
+Lights,basement,off,Power off basement lighting,Basement lighting powered off
+Lights,basement,off,Shut off basement lighting,Basement lighting shut off
+Lights,basement,off,Disable basement lights,Basement lights disabled
+Lights,basement,off,Stop basement lighting,Basement lighting stopped
+Lights,basement,off,Extinguish basement lighting,Basement lighting extinguished
+Lights,basement,off,Turn off all basement lights,All basement lights turned off
+Lights,basement,off,Switch off all basement lights,All basement lights switched off
+Lights,basement,on,Turn on basement lights,Basement lights turned on
+Lights,basement,on,Activate basement lights,Basement lights activated
+Lights,basement,on,Switch on basement lights,Basement lights switched on
+Lights,basement,on,Enable basement lights,Basement lights enabled
+Lights,basement,on,Power on basement lights,Basement lights powered on
+Lights,basement,on,Start basement lights,Basement lights started
+Lights,basement,on,Light up basement,Basement lit up
+Lights,basement,on,Turn basement lights on,Basement lights on
+Lights,basement,on,Activate basement lighting,Basement lighting activated
+Lights,basement,on,Enable basement lighting,Basement lighting enabled
+Lights,basement,on,Switch on basement lighting,Basement lighting switched on
+Lights,basement,on,Turn on basement lighting,Basement lighting turned on
+Lights,basement,on,Activate all basement lights,All basement lights activated
+Lights,basement,on,Switch on all basement lights,All basement lights switched on
+Lights,basement,on,Enable all basement lights,All basement lights enabled
+Lights,basement,on,Power on all basement lights,All basement lights powered on
+Lights,basement,on,Start all basement lights,All basement lights started
+Lights,basement,on,Light up all basement,All basement lit up
+Lights,basement,on,Turn on all basement lights,All basement lights on
+Lights,basement,on,Activate entire basement lighting,Entire basement lighting activated
+Lights,bathroom,off,Turn off bathroom lights,Bathroom lights turned off
+Lights,bathroom,off,Switch off bathroom lights,Bathroom lights switched off
+Lights,bathroom,off,Deactivate bathroom lights,Bathroom lights deactivated
+Lights,bathroom,off,Power off bathroom lights,Bathroom lights powered off
+Lights,bathroom,off,Shut off bathroom lights,Bathroom lights shut off
+Lights,bathroom,off,Turn bathroom lights off,Bathroom lights off
+Lights,bathroom,off,Disable bathroom lighting,Bathroom lighting disabled
+Lights,bathroom,off,Stop bathroom lights,Bathroom lights stopped
+Lights,bathroom,off,Extinguish bathroom lights,Bathroom lights extinguished
+Lights,bathroom,off,Turn off bathroom lighting,Bathroom lighting turned off
+Lights,bathroom,off,Switch off bathroom lighting,Bathroom lighting switched off
+Lights,bathroom,off,Deactivate bathroom lighting,Bathroom lighting deactivated
+Lights,bathroom,off,Power off bathroom lighting,Bathroom lighting powered off
+Lights,bathroom,off,Shut off bathroom lighting,Bathroom lighting shut off
+Lights,bathroom,off,Disable bathroom lights,Bathroom lights disabled
+Lights,bathroom,off,Stop bathroom lighting,Bathroom lighting stopped
+Lights,bathroom,off,Extinguish bathroom lighting,Bathroom lighting extinguished
+Lights,bathroom,off,Turn off all bathroom lights,All bathroom lights turned off
+Lights,bathroom,off,Switch off all bathroom lights,All bathroom lights switched off
+Lights,bathroom,off,Deactivate all bathroom lights,All bathroom lights deactivated
+Lights,bathroom,off,Power off all bathroom lights,All bathroom lights powered off
+Lights,bathroom,off,Shut off all bathroom lights,All bathroom lights shut off
+Lights,bathroom,on,Turn on bathroom lights,Bathroom lights turned on
+Lights,bathroom,on,Activate bathroom lights,Bathroom lights activated
+Lights,bathroom,on,Switch on bathroom lights,Bathroom lights switched on
+Lights,bathroom,on,Enable bathroom lights,Bathroom lights enabled
+Lights,bathroom,on,Power on bathroom lights,Bathroom lights powered on
+Lights,bathroom,on,Start bathroom lights,Bathroom lights started
+Lights,bathroom,on,Light up bathroom,Bathroom lit up
+Lights,bathroom,on,Turn bathroom lights on,Bathroom lights on
+Lights,bathroom,on,Activate bathroom lighting,Bathroom lighting activated
+Lights,bathroom,on,Enable bathroom lighting,Bathroom lighting enabled
+Lights,bathroom,on,Switch on bathroom lighting,Bathroom lighting switched on
+Lights,bathroom,on,Turn on bathroom lighting,Bathroom lighting turned on
+Lights,bathroom,on,Activate all bathroom lights,All bathroom lights activated
+Lights,bathroom,on,Switch on all bathroom lights,All bathroom lights switched on
+Lights,bathroom,on,Enable all bathroom lights,All bathroom lights enabled
+Lights,bathroom,on,Power on all bathroom lights,All bathroom lights powered on
+Lights,cellar,off,Turn off cellar lights,Cellar lights turned off
+Lights,cellar,off,Switch off cellar lights,Cellar lights switched off
+Lights,cellar,off,Deactivate cellar lights,Cellar lights deactivated
+Lights,cellar,off,Power off cellar lights,Cellar lights powered off
+Lights,cellar,off,Shut off cellar lights,Cellar lights shut off
+Lights,cellar,off,Turn cellar lights off,Cellar lights off
+Lights,cellar,off,Disable cellar lighting,Cellar lighting disabled
+Lights,cellar,off,Stop cellar lights,Cellar lights stopped
+Lights,cellar,off,Extinguish cellar lights,Cellar lights extinguished
+Lights,cellar,off,Turn off cellar lighting,Cellar lighting turned off
+Lights,cellar,off,Switch off cellar lighting,Cellar lighting switched off
+Lights,cellar,off,Deactivate cellar lighting,Cellar lighting deactivated
+Lights,cellar,off,Power off cellar lighting,Cellar lighting powered off
+Lights,cellar,off,Shut off cellar lighting,Cellar lighting shut off
+Lights,cellar,off,Disable cellar lights,Cellar lights disabled
+Lights,cellar,off,Stop cellar lighting,Cellar lighting stopped
+Lights,cellar,off,Extinguish cellar lighting,Cellar lighting extinguished
+Lights,cellar,off,Turn off all cellar lights,All cellar lights turned off
+Lights,cellar,off,Switch off all cellar lights,All cellar lights switched off
+Lights,cellar,on,Turn on cellar lights,Cellar lights turned on
+Lights,cellar,on,Activate cellar lights,Cellar lights activated
+Lights,cellar,on,Switch on cellar lights,Cellar lights switched on
+Lights,cellar,on,Enable cellar lights,Cellar lights enabled
+Lights,cellar,on,Power on cellar lights,Cellar lights powered on
+Lights,cellar,on,Start cellar lights,Cellar lights started
+Lights,cellar,on,Light up cellar,Cellar lit up
+Lights,cellar,on,Turn cellar lights on,Cellar lights on
+Lights,cellar,on,Activate cellar lighting,Cellar lighting activated
+Lights,cellar,on,Enable cellar lighting,Cellar lighting enabled
+Lights,cellar,on,Switch on cellar lighting,Cellar lighting switched on
+Lights,cellar,on,Turn on cellar lighting,Cellar lighting turned on
+Lights,cellar,on,Activate all cellar lights,All cellar lights activated
+Lights,cellar,on,Switch on all cellar lights,All cellar lights switched on
+Lights,cellar,on,Enable all cellar lights,All cellar lights enabled
+Lights,cellar,on,Power on all cellar lights,All cellar lights powered on
+Lights,cellar,on,Start all cellar lights,All cellar lights started
+Lights,cellar,on,Light up all cellar,All cellar lit up
+Lights,cellar,on,Turn on all cellar lights,All cellar lights on
+Lights,cellar,on,Activate entire cellar lighting,Entire cellar lighting activated
+Lights,dining room,no_action,Check dining room lights status,Dining room lights status retrieved
+Lights,dining room,no_action,Show dining room lights,Dining room lights status shown
+Lights,dining room,no_action,What's the dining room lights status?,Dining room lights details displayed
+Lights,dining room,no_action,Dining room lights check,Status checked
+Lights,dining room,no_action,View dining room lights,Dining room lights view active
+Lights,dining room,no_action,Monitor dining room lights,Lights monitored
+Lights,dining room,no_action,Display dining room lights,Dining room lights displayed
+Lights,dining room,no_action,Check dining room lighting,Lights checked
+Lights,dining room,no_action,Show dining room lighting,Dining room lighting shown
+Lights,dining room,no_action,Dining room lights status check,Lights status checked.
+Lights,dining room,no_action,View dining room lighting,Lighting view active
+Lights,dining room,no_action,Monitor dining room lighting,Lighting monitored
+Lights,dining room,no_action,Display dining room lighting,Dining room lighting displayed
+Lights,dining room,no_action,Check dining room lights feed,Feed checked
+Lights,dining room,no_action,Show dining room lights feed,Lights feed shown
+Lights,dining room,no_action,Dining room lighting status check,Status retrieved
+Lights,dining room,no_action,View dining room lights status,Lights status view active
+Lights,dining room,no_action,Monitor dining room lights status,Lights status monitored
+Lights,dining room,no_action,Display dining room lights status,Lights status displayed
+Lights,dining room,no_action,Check dining room lighting status,Lighting status checked
+Lights,dining room,no_action,Show dining room lighting status,Dining room lighting status shown
+Lights,dining room,no_action,Dining room lights check status,Status checked.
+Lights,dining room,no_action,Verify dining room lights status,Dining room lights status verified
+Lights,dining room,off,Turn off dining room lights,Dining room lights turned off
+Lights,dining room,off,Switch off dining room lights,Dining room lights switched off
+Lights,dining room,off,Deactivate dining room lights,Dining room lights deactivated
+Lights,dining room,off,Power off dining room lights,Dining room lights powered off
+Lights,dining room,off,Shut off dining room lights,Dining room lights shut off
+Lights,dining room,off,Turn dining room lights off,Dining room lights off
+Lights,dining room,off,Disable dining room lighting,Dining room lighting disabled
+Lights,dining room,off,Stop dining room lights,Dining room lights stopped
+Lights,dining room,off,Extinguish dining room lights,Dining room lights extinguished
+Lights,dining room,off,Turn off dining room lighting,Dining room lighting turned off
+Lights,dining room,off,Switch off dining room lighting,Dining room lighting switched off
+Lights,dining room,off,Deactivate dining room lighting,Dining room lighting deactivated
+Lights,dining room,off,Power off dining room lighting,Dining room lighting powered off
+Lights,dining room,off,Shut off dining room lighting,Dining room lighting shut off
+Lights,dining room,off,Disable dining room lights,Dining room lights disabled
+Lights,dining room,off,Stop dining room lighting,Dining room lighting stopped
+Lights,dining room,off,Extinguish dining room lighting,Dining room lighting extinguished
+Lights,dining room,off,Turn off all dining room lights,All dining room lights turned off
+Lights,dining room,on,Turn on dining room lights,Dining room lights turned on
+Lights,dining room,on,Activate dining room lights,Dining room lights activated
+Lights,dining room,on,Switch on dining room lights,Dining room lights switched on
+Lights,dining room,on,Enable dining room lights,Dining room lights enabled
+Lights,dining room,on,Power on dining room lights,Dining room lights powered on
+Lights,dining room,on,Start dining room lights,Dining room lights started
+Lights,dining room,on,Light up dining room,Dining room lit up
+Lights,dining room,on,Turn dining room lights on,Dining room lights on
+Lights,dining room,on,Activate dining room lighting,Dining room lighting activated
+Lights,dining room,on,Enable dining room lighting,Dining room lighting enabled
+Lights,dining room,on,Switch on dining room lighting,Dining room lighting switched on
+Lights,dining room,on,Turn on dining room lighting,Dining room lighting turned on
+Lights,dining room,on,Activate all dining room lights,All dining room lights activated
+Lights,dining room,on,Switch on all dining room lights,All dining room lights switched on
+Lights,dining room,on,Enable all dining room lights,All dining room lights enabled
+Lights,dining room,on,Power on all dining room lights,All dining room lights powered on
+Lights,kitchen,no_action,Check kitchen lights status,Kitchen lights status retrieved
+Lights,kitchen,no_action,Show kitchen lights,Kitchen lights status shown
+Lights,kitchen,no_action,What's the kitchen lights status?,Kitchen lights details displayed
+Lights,kitchen,no_action,Kitchen lights check,Status checked
+Lights,kitchen,no_action,View kitchen lights,Kitchen lights view active
+Lights,kitchen,no_action,Monitor kitchen lights,Lights monitored
+Lights,kitchen,no_action,Display kitchen lights,Kitchen lights displayed
+Lights,kitchen,no_action,Check kitchen lighting,Lights checked
+Lights,kitchen,no_action,Show kitchen lighting,Kitchen lighting shown
+Lights,kitchen,no_action,Kitchen lights status check,Status retrieved
+Lights,kitchen,no_action,View kitchen lighting,Lighting view active
+Lights,kitchen,no_action,Monitor kitchen lighting,Lighting monitored
+Lights,kitchen,no_action,Display kitchen lighting,Kitchen lighting displayed
+Lights,kitchen,no_action,Check kitchen lights feed,Feed checked
+Lights,kitchen,no_action,Show kitchen lights feed,Lights feed shown
+Lights,kitchen,no_action,Kitchen lighting status check,Status retrieved
+Lights,kitchen,no_action,View kitchen lights status,Lights status view active
+Lights,kitchen,no_action,Monitor kitchen lights status,Lights status monitored
+Lights,kitchen,no_action,Display kitchen lights status,Lights status displayed
+Lights,kitchen,no_action,Check kitchen lighting status,Lighting status checked
+Lights,kitchen,no_action,Show kitchen lighting status,Kitchen lighting status shown
+Lights,kitchen,no_action,Kitchen lights check status,Kitchen lights Status checking
+Lights,kitchen,off,Turn off kitchen lights,Kitchen lights turned off
+Lights,kitchen,off,Switch off kitchen lights,Kitchen lights switched off
+Lights,kitchen,off,Deactivate kitchen lights,Kitchen lights deactivated
+Lights,kitchen,off,Power off kitchen lights,Kitchen lights powered off
+Lights,kitchen,off,Shut off kitchen lights,Kitchen lights shut off
+Lights,kitchen,off,Turn kitchen lights off,Kitchen lights off
+Lights,kitchen,off,Disable kitchen lighting,Kitchen lighting disabled
+Lights,kitchen,off,Stop kitchen lights,Kitchen lights stopped
+Lights,kitchen,off,Extinguish kitchen lights,Kitchen lights extinguished
+Lights,kitchen,off,Turn off kitchen lighting,Kitchen lighting turned off
+Lights,kitchen,off,Switch off kitchen lighting,Kitchen lighting switched off
+Lights,kitchen,off,Deactivate kitchen lighting,Kitchen lighting deactivated
+Lights,kitchen,off,Power off kitchen lighting,Kitchen lighting powered off
+Lights,kitchen,off,Shut off kitchen lighting,Kitchen lighting shut off
+Lights,kitchen,off,Disable kitchen lights,Kitchen lights disabled
+Lights,kitchen,off,Stop kitchen lighting,Kitchen lighting stopped
+Lights,kitchen,off,Extinguish kitchen lighting,Kitchen lighting extinguished
+Lights,kitchen,off,Turn off all kitchen lights,All kitchen lights turned off
+Lights,kitchen,on,Turn on kitchen lights,Kitchen lights turned on
+Lights,kitchen,on,Activate kitchen lights,Kitchen lights activated
+Lights,kitchen,on,Switch on kitchen lights,Kitchen lights switched on
+Lights,kitchen,on,Enable kitchen lights,Kitchen lights enabled
+Lights,kitchen,on,Power on kitchen lights,Kitchen lights powered on
+Lights,kitchen,on,Start kitchen lights,Kitchen lights started
+Lights,kitchen,on,Light up kitchen,Kitchen lit up
+Lights,kitchen,on,Turn kitchen lights on,Kitchen lights on
+Lights,kitchen,on,Activate kitchen lighting,Kitchen lighting activated
+Lights,kitchen,on,Enable kitchen lighting,Kitchen lighting enabled
+Lights,kitchen,on,Switch on kitchen lighting,Kitchen lighting switched on
+Lights,kitchen,on,Turn on kitchen lighting,Kitchen lighting turned on
+Lights,kitchen,on,Activate all kitchen lights,All kitchen lights activated
+Lights,kitchen,on,Switch on all kitchen lights,All kitchen lights switched on
+Lights,kitchen,on,Enable all kitchen lights,All kitchen lights enabled
+Lights,kitchen,on,Power on all kitchen lights,All kitchen lights powered on
+Lights,library,off,Turn off library lights,Library lights turned off
+Lights,library,off,Switch off library lights,Library lights switched off
+Lights,library,off,Deactivate library lights,Library lights deactivated
+Lights,library,off,Power off library lights,Library lights powered off
+Lights,library,off,Shut off library lights,Library lights shut off
+Lights,library,off,Turn library lights off,Library lights off
+Lights,library,off,Disable library lighting,Library lighting disabled
+Lights,library,off,Stop library lights,Library lights stopped
+Lights,library,off,Extinguish library lights,Library lights extinguished
+Lights,library,off,Turn off library lighting,Library lighting turned off
+Lights,library,off,Switch off library lighting,Library lighting switched off
+Lights,library,off,Deactivate library lighting,Library lighting deactivated
+Lights,library,off,Power off library lighting,Library lighting powered off
+Lights,library,off,Shut off library lighting,Library lighting shut off
+Lights,library,off,Disable library lights,Library lights disabled
+Lights,library,off,Stop library lighting,Library lighting stopped
+Lights,library,off,Extinguish library lighting,Library lighting extinguished
+Lights,library,off,Turn off all library lights,All library lights turned off
+Lights,library,off,Switch off all library lights,All library lights switched off
+Lights,library,off,Deactivate all library lights,All library lights deactivated
+Lights,library,on,Turn on library lights,Library lights turned on
+Lights,library,on,Activate library lights,Library lights activated
+Lights,library,on,Switch on library lights,Library lights switched on
+Lights,library,on,Enable library lights,Library lights enabled
+Lights,library,on,Power on library lights,Library lights powered on
+Lights,library,on,Start library lights,Library lights started
+Lights,library,on,Light up library,Library lit up
+Lights,library,on,Turn library lights on,Library lights on
+Lights,library,on,Activate library lighting,Library lighting activated
+Lights,library,on,Enable library lighting,Library lighting enabled
+Lights,library,on,Switch on library lighting,Library lighting switched on
+Lights,library,on,Turn on library lighting,Library lighting turned on
+Lights,library,on,Activate all library lights,All library lights activated
+Lights,library,on,Switch on all library lights,All library lights switched on
+Lights,library,on,Enable all library lights,All library lights enabled
+Lights,library,on,Power on all library lights,All library lights powered on
+Lights,library,on,Start all library lights,All library lights started
+Lights,library,on,Light up all library,All library lit up
+Lights,library,on,Turn on all library lights,All library lights on
+Lights,library,on,Activate entire library lighting,Entire library lighting activated
+Lights,living room,off,Turn off living room lights,Living room lights turned off
+Lights,living room,off,Switch off living room lights,Living room lights switched off
+Lights,living room,off,Deactivate living room lights,Living room lights deactivated
+Lights,living room,off,Power off living room lights,Living room lights powered off
+Lights,living room,off,Shut off living room lights,Living room lights shut off
+Lights,living room,off,Turn living room lights off,Living room lights off
+Lights,living room,off,Disable living room lighting,Living room lighting disabled
+Lights,living room,off,Stop living room lights,Living room lights stopped
+Lights,living room,off,Extinguish living room lights,Living room lights extinguished
+Lights,living room,off,Turn off living room lighting,Living room lighting turned off
+Lights,living room,off,Switch off living room lighting,Living room lighting switched off
+Lights,living room,off,Deactivate living room lighting,Living room lighting deactivated
+Lights,living room,off,Power off living room lighting,Living room lighting powered off
+Lights,living room,off,Shut off living room lighting,Living room lighting shut off
+Lights,living room,off,Disable living room lights,Living room lights disabled
+Lights,living room,off,Stop living room lighting,Living room lighting stopped
+Lights,living room,off,Extinguish living room lighting,Living room lighting extinguished
+Lights,living room,off,Turn off all living room lights,All living room lights turned off
+Lights,living room,off,Switch off all living room lights,All living room lights switched off
+Lights,living room,off,Deactivate all living room lights,All living room lights deactivated
+Lights,living room,off,Power off all living room lights,All living room lights powered off
+Lights,living room,off,Shut off all living room lights,All living room lights shut off
+Lights,living room,on,Turn on living room lights,Living room lights turned on
+Lights,living room,on,Activate living room lights,Living room lights activated
+Lights,living room,on,Switch on living room lights,Living room lights switched on
+Lights,living room,on,Enable living room lights,Living room lights enabled
+Lights,living room,on,Power on living room lights,Living room lights powered on
+Lights,living room,on,Start living room lights,Living room lights started
+Lights,living room,on,Light up living room,Living room lit up
+Lights,living room,on,Turn living room lights on,Living room lights on
+Lights,living room,on,Activate living room lighting,Living room lighting activated
+Lights,living room,on,Enable living room lighting,Living room lighting enabled
+Lights,living room,on,Switch on living room lighting,Living room lighting switched on
+Lights,living room,on,Turn on living room lighting,Living room lighting turned on
+Lights,living room,on,Activate all living room lights,All living room lights activated
+Lights,living room,on,Switch on all living room lights,All living room lights switched on
+Lights,living room,on,Enable all living room lights,All living room lights enabled
+Lights,living room,on,Power on all living room lights,All living room lights powered on
+Lights,living room,on,Start all living room lights,All living room lights started
+Lights,living room,on,Light up all living room,All living room lit up
+Lights,living room,on,Turn on all living room lights,All living room lights on
+Lights,living room,on,Activate entire living room lighting,Entire living room lighting activated
+Lights,none,no_action,Check lights status,Lights status retrieved
+Lights,none,no_action,Show all lights,All lights status shown
+Lights,none,no_action,What's the lights status?,Lights details displayed
+Lights,none,no_action,Lights system check,Status checked
+Lights,none,no_action,View all lights,Lights view active
+Lights,none,no_action,Monitor lights system,Lights monitored
+Lights,none,no_action,Display lights system,Lights system displayed
+Lights,none,no_action,Check lighting status,Lighting status checked
+Lights,none,no_action,Show lighting status,Lights status shown
+Lights,none,no_action,Lights status check,Status retrieved
+Lights,none,no_action,View lights status,Lights status view active
+Lights,none,no_action,Monitor lighting status,Lighting status monitored
+Lights,none,no_action,Display lighting status,Lights status displayed
+Lights,none,no_action,Check lights system status,System status checked
+Lights,none,no_action,Show lights system status,System status shown
+Lights,none,no_action,Lights system status check,Status retrieved
+Lights,none,no_action,View lights system,Lights system view active
+Lights,none,off,Turn off all lights,All lights turned off
+Lights,none,off,Switch off all lights,All lights switched off
+Lights,none,off,Deactivate all lights,All lights deactivated
+Lights,none,off,Power off all lights,All lights powered off
+Lights,none,off,Shut off all lights,All lights shut off
+Lights,none,off,Turn all lights off,All lights off
+Lights,none,off,Disable all lighting,All lighting disabled
+Lights,none,off,Stop all lights,All lights stopped
+Lights,none,off,Extinguish all lights,All lights extinguished
+Lights,none,off,Turn off entire lighting,Entire lighting turned off
+Lights,none,off,Switch off entire lighting,Entire lighting switched off
+Lights,none,off,Deactivate entire lighting,Entire lighting deactivated
+Lights,none,off,Power off entire lighting,Entire lighting powered off
+Lights,none,off,Shut off entire lighting,Entire lighting shut off
+Lights,none,off,Disable all lights,All lights disabled
+Lights,none,off,Stop all lighting,All lighting stopped
+Lights,none,off,Extinguish entire lighting,Entire lighting extinguished
+Lights,none,off,Turn off all house lights,All house lights turned off
+Lights,none,off,Switch off all house lights,All house lights switched off
+Lights,none,off,Deactivate all house lights,All house lights deactivated
+Lights,random,off,Turn off random lights,Random lights turned off
+Lights,random,off,Switch off random lights,Random lights switched off
+Lights,random,off,Deactivate random lights,Random lights deactivated
+Lights,random,off,Power off random lights,Random lights powered off
+Lights,random,off,Shut off random lights,Random lights shut off
+Lights,random,off,Turn random lights off,Random lights off
+Lights,random,off,Disable random lighting,Random lighting disabled
+Lights,random,off,Stop random lights,Random lights stopped
+Lights,random,off,Extinguish random lights,Random lights extinguished
+Lights,random,off,Turn off random lighting,Random lighting turned off
+Lights,random,off,Switch off random lighting,Random lighting switched off
+Lights,random,off,Deactivate random lighting,Random lighting deactivated
+Lights,random,off,Power off random lighting,Random lighting powered off
+Lights,random,off,Shut off random lighting,Random lighting shut off
+Lights,random,off,Disable random lights,Random lights disabled
+Lights,random,off,Stop random lighting,Random lighting stopped
+Lights,random,off,Extinguish random lighting,Random lighting extinguished
+Lights,random,off,Turn off all random lights,All random lights turned off
+Lights,random,off,Switch off all random lights,All random lights switched off
+Lights,random,off,Deactivate all random lights,All random lights deactivated
+Lights,random,off,Power off all random lights,All random lights powered off
+Lights,random,off,Shut off all random lights,All random lights shut off
+Lights,random,on,Turn on random lights,Random lights turned on
+Lights,random,on,Activate random lights,Random lights activated
+Lights,random,on,Switch on random lights,Random lights switched on
+Lights,random,on,Enable random lights,Random lights enabled
+Lights,random,on,Power on random lights,Random lights powered on
+Lights,random,on,Start random lights,Random lights started
+Lights,random,on,Light up random areas,Random areas lit up
+Lights,random,on,Turn random lights on,Random lights on
+Lights,random,on,Activate random lighting,Random lighting activated
+Lights,random,on,Enable random lighting,Random lighting enabled
+Lights,random,on,Switch on random lighting,Random lighting switched on
+Lights,random,on,Turn on random lighting,Random lighting turned on
+Lights,random,on,Activate all random lights,All random lights activated
+Lights,random,on,Switch on all random lights,All random lights switched on
+Lights,random,on,Enable all random lights,All random lights enabled
+Lights,random,on,Power on all random lights,All random lights powered on
+Lights,random,on,Start all random lights,All random lights started
+Lights,random,on,Turn on all random lights,All random lights on
+Lights,random,on,Activate entire random lighting,Entire random lighting activated
+Lights,random,on,Enable all random lighting,All random lighting enabled
+Lights,toilet,off,Turn off toilet lights,Toilet lights turned off
+Lights,toilet,off,Switch off toilet lights,Toilet lights switched off
+Lights,toilet,off,Deactivate toilet lights,Toilet lights deactivated
+Lights,toilet,off,Power off toilet lights,Toilet lights powered off
+Lights,toilet,off,Shut off toilet lights,Toilet lights shut off
+Lights,toilet,off,Turn toilet lights off,Toilet lights off
+Lights,toilet,off,Disable toilet lighting,Toilet lighting disabled
+Lights,toilet,off,Stop toilet lights,Toilet lights stopped
+Lights,toilet,off,Extinguish toilet lights,Toilet lights extinguished
+Lights,toilet,off,Turn off toilet lighting,Toilet lighting turned off
+Lights,toilet,off,Switch off toilet lighting,Toilet lighting switched off
+Lights,toilet,off,Deactivate toilet lighting,Toilet lighting deactivated
+Lights,toilet,off,Power off toilet lighting,Toilet lighting powered off
+Lights,toilet,off,Shut off toilet lighting,Toilet lighting shut off
+Lights,toilet,off,Disable toilet lights,Toilet lights disabled
+Lights,toilet,off,Stop toilet lighting,Toilet lighting stopped
+Lights,toilet,off,Extinguish toilet lighting,Toilet lighting extinguished
+Lights,toilet,off,Turn off all toilet lights,All toilet lights turned off
+Lights,toilet,off,Switch off all toilet lights,All toilet lights switched off
+Lights,toilet,off,Deactivate all toilet lights,All toilet lights deactivated
+Lights,toilet,off,Power off all toilet lights,All toilet lights powered off
+Lights,toilet,off,Shut off all toilet lights,All toilet lights shut off
+Lights,toilet,on,Turn on toilet lights,Toilet lights turned on
+Lights,toilet,on,Activate toilet lights,Toilet lights activated
+Lights,toilet,on,Switch on toilet lights,Toilet lights switched on
+Lights,toilet,on,Enable toilet lights,Toilet lights enabled
+Lights,toilet,on,Power on toilet lights,Toilet lights powered on
+Lights,toilet,on,Start toilet lights,Toilet lights started
+Lights,toilet,on,Light up toilet,Toilet lit up
+Lights,toilet,on,Turn toilet lights on,Toilet lights on
+Lights,toilet,on,Activate toilet lighting,Toilet lighting activated
+Lights,toilet,on,Enable toilet lighting,Toilet lighting enabled
+Lights,toilet,on,Switch on toilet lighting,Toilet lighting switched on
+Lights,toilet,on,Turn on toilet lighting,Toilet lighting turned on
+Lights,toilet,on,Activate all toilet lights,All toilet lights activated
+Lights,toilet,on,Switch on all toilet lights,All toilet lights switched on
+Lights,toilet,on,Enable all toilet lights,All toilet lights enabled
+Lights,toilet,on,Power on all toilet lights,All toilet lights powered on
+Lights,toilet,on,Start all toilet lights,All toilet lights started
+Lights,toilet,on,Light up all toilet,All toilet lit up
+Lights,toilet,on,Turn on all toilet lights,All toilet lights on
+Shutters,basement,down,Lower basement shutters,Basement shutters lowered
+Shutters,basement,up,Raise basement shutters,Basement shutters raised
+Shutters,basement,up,Lift basement shutters,Basement shutters lifted
+Shutters,basement,up,Open basement shutters,Basement shutters opened
+Shutters,bathroom,down,Lower bathroom shutters,Bathroom shutters lowered
+Shutters,bathroom,down,Close bathroom shutters,Bathroom shutters closed
+Shutters,bathroom,down,Bring down bathroom shutters,Bathroom shutters brought down
+Shutters,bathroom,no_action,Check bathroom shutters status,Bathroom shutters status retrieved
+Shutters,bathroom,no_action,Show bathroom shutters status,Bathroom shutters status shown
+Shutters,bathroom,no_action,What's the bathroom shutters status?,Bathroom shutters details displayed
+Shutters,bathroom,no_action,Bathroom shutters check,Status checked
+Shutters,bathroom,up,Raise bathroom shutters,Bathroom shutters raised
+Shutters,bathroom,up,Lift bathroom shutters,Bathroom shutters lifted
+Shutters,bathroom,up,Open bathroom shutters,Bathroom shutters opened
+Shutters,bathroom,up,Bring up bathroom shutters,Bathroom shutters brought up
+Shutters,cellar,down,Lower cellar shutters,Cellar shutters lowered
+Shutters,cellar,down,Close cellar shutters,Cellar shutters closed
+Shutters,cellar,down,Bring down cellar shutters,Cellar shutters brought down
+Shutters,cellar,down,Shut cellar shutters,Cellar shutters shut
+Shutters,cellar,no_action,Check cellar shutters status,Cellar shutters status retrieved
+Shutters,cellar,no_action,Show cellar shutters status,Cellar shutters status shown
+Shutters,cellar,no_action,What's the cellar shutters status?,Cellar shutters details displayed
+Shutters,cellar,no_action,Cellar shutters check,Status checked
+Shutters,cellar,up,Raise cellar shutters,Cellar shutters raised
+Shutters,cellar,up,Lift cellar shutters,Cellar shutters lifted
+Shutters,cellar,up,Open cellar shutters,Cellar shutters opened
+Shutters,cellar,up,Bring up cellar shutters,Cellar shutters brought up
+Shutters,kitchen,down,Lower kitchen shutters,Kitchen shutters lowered
+Shutters,kitchen,down,Close kitchen shutters,Kitchen shutters closed
+Shutters,kitchen,no_action,Check kitchen shutters status,Kitchen shutters status retrieved
+Shutters,kitchen,no_action,Show kitchen shutters status,Kitchen shutters status shown
+Shutters,kitchen,no_action,What's the kitchen shutters status?,Kitchen shutters details displayed
+Shutters,kitchen,up,Raise kitchen shutters,Kitchen shutters raised
+Shutters,kitchen,up,Lift kitchen shutters,Kitchen shutters lifted
+Shutters,kitchen,up,Open kitchen shutters,Kitchen shutters opened
+Shutters,kitchen,up,Bring up kitchen shutters,Kitchen shutters brought up
+Shutters,library,down,Lower library shutters,Library shutters lowered
+Shutters,library,down,Close library shutters,Library shutters closed
+Shutters,library,down,Bring down library shutters,Library shutters brought down
+Shutters,library,up,Raise library shutters,Library shutters raised
+Shutters,library,up,Lift library shutters,Library shutters lifted
+Shutters,living room,down,Lower living room shutters,Living room shutters lowered
+Shutters,living room,down,Close living room shutters,Living room shutters closed
+Shutters,living room,down,Bring down living room shutters,Living room shutters brought down
+Shutters,living room,up,Raise living room shutters,Living room shutters raised
+Shutters,living room,up,Lift living room shutters,Living room shutters lifted
+Shutters,living room,up,Open living room shutters,Living room shutters opened
+Shutters,none,down,Lower all shutters,All shutters lowered
+Shutters,none,down,Close all shutters,All shutters closed
+Shutters,none,down,Bring down all shutters,All shutters brought down
+Shutters,none,no_action,Check shutters status,Shutters status retrieved
+Shutters,none,no_action,Show shutters status,Shutters status shown
+Shutters,none,no_action,What's the shutters status?,Shutters details displayed
+Shutters,none,up,Raise all shutters,All shutters raised
+Shutters,none,up,Lift all shutters,All shutters lifted
+Shutters,none,up,Open all shutters,All shutters opened
+Shutters,none,up,Bring up all shutters,All shutters brought up
+Shutters,toilet,down,Lower toilet-link toilet shutters,Toilet shutters lowered
+Shutters,toilet,down,Close toilet shutters,Toilet shutters closed
+Shutters,toilet,no_action,Check toilet shutters status,Toilet shutters status retrieved
+Shutters,toilet,no_action,Show toilet shutters status,Toilet shutters status shown
+Shutters,toilet,no_action,What's the toilet shutters status?,Toilet shutters details displayed
+Shutters,toilet,up,Raise toilet shutters,Toilet shutters raised
+Shutters,toilet,up,Lift toilet shutters,Toilet shutters lifted
+Shutters,toilet,up,Open toilet shutters,Toilet shutters opened
+Shutters,toilet,up,Bring up toilet shutters,Toilet shutters brought up.
+lights,kitchen,on,Illuminate the kitchen today.,Turning on the kitchen lights today.
+lights,kitchen,on,Illuminate the kitchen tomorrow.,Turning on the kitchen lights tomorrow.
+lights,kitchen,on,Turn on the light in the kitchen in 1 day.,Turning on the kitchen lights in 1 day.
+lights,dining room,on,Illuminate the dining room today.,Turning on the dining room lights today.
+lights,dining room,on,Don't illuminate the dining room today.,"Okay I won’t turn on the dining room lights today."
+lights,dining room,on,Illuminate the dining room tomorrow.,Turning on the dining room lights tomorrow.
+lights,dining room,on,Turn on the light i n the dining room in 10 hours.,Turning on the dining room lights in 10 hours.
+lights,dining room,on,Turn on the light in the dining room in 1 day.,Turning on the dining room lights in 1 day.
+lights,bathroom,on,Turn on the light in the bathroom.,Turning on the bathroom lights now.
+lights,none,no_action,Don't turn on the light right now.,"Okay, I won’t turn on the lights right now."
+lights,none,no_action,I would get mad if you'd put on the light right now.,No action will be taken.
+lights,none,on,I would not like it if you wouldn't turn on the light right now.,Turning on the lights now.
+lights,living room,on,Is the light on in the living room.,Turning on the living room lights now.
+lights,living room,on,Would you illuminate the living room in one hour for me please.,Turning on the living room lights in 1 hour.
+lights,none,on,It would be great if you'd turn on the light for me.,Turning on the lights now.
+lights,kitchen,on,Light on in kitchen.,Turning on the kitchen lights now.
+lights,living room,off,Light off in living room in a few hours.,Turning off the living room lights in 1 hour.
+lights,basement,off,Turn the light off in the basement.,Turning off the basement lights now.
+lights,dining room,off,Turn the light off in the dining room.,Turning off the dining room lights.
+lights,none,on,I would like if you made it brighter.,Making it brighter now.
+lights,none,on,I would like if you made it brighter in 3 minutes.,Making it brighter in 3 minutes.
+lights,none,on,Can you make it brighter here in 8 minutes?,Making it brighter here in 8 minutes.
+lights,none,off,Can you make it more dark here?,Making it less bright here now.
+lights,none,no_action,Don't make it more dark here.,Not dimming the lights here.
+lights,dining room,no_action,I would get mad if you would turn on the light in the dining room right now.,I won't turn on the dining room lights right now.
+lights,bathroom,on,Is the light on in the bathroom?,"Yes, the bathroom light is on."
+lights,bathroom,on,Is the light on in the bathroom.,"Yes, the bathroom light is on."
+lights,bathroom,on,Has the light been on long in the bathroom?,The bathroom light has been on for a while.
+lights,bathroom,off,Has the light been off long in the kitchen?,The kitchen light has been off for a while.
+lights,bathroom,on,Is the light in the bathroom on?,"Yes, the bathroom light is on."
+lights,none,on,Did you turn on the light already?,"Yes, the light is already on."
+lights,none,on,Can you please turn on the light?,Turning on the light.
+lights,none,on,Help me to turn on the light.,Turning on the light.
+lights,none,on,Can you please turn on the light in a minute?,Turning on the light in 1 minute.
+lights,none,on,Help me to turn on the light in a minute.,Turning on the light in 1 minute.
+lights,none,on,It is so dark here.,Turning on the lights now.
+lights,none,on,I can't see anything.,Turning on the lights now.
+lights,none,on,Lighten the room.,Brightening the room.
+lights,none,on,Can you please turn on the light in a few minutes?,Turning on the light in a few minutes.
+lights,none,on,Help me to turn on the light in a few minutes.,Turning on the light in a few minutes.
+lights,none,on,Lighten the room in a few minutes.,Brightening the room in a few minutes.
+lights,none,on,Lighten the room in 5 minutes.,Brightening the room in 5 minutes.
+lights,kitchen,off,Turn the light off in the kitchen in 10 minutes.,Turning off the kitchen lights in 10 minutes.
+lights,kitchen,no_action,Don't turn the light off in the kitchen in 10 minutes.,I won’t turn off the kitchen lights in 10 minutes.
+lights,attic,on,Make it less dark in the attic now.,Making it brighter in the attic now.
+lights,attic,on,Turn on the light in the attic.,Turning on the attic lights.
+lights,attic,on,Illuminate the attic.,Turning on the attic lights.
+lights,none,off,Turn off the lights in one hour.,Turning off the lights in 1 hour.
+lights,none,on,Turn on the light.,Turning on the lights.
+lights,all,on,Flicker the lights for me.,Flickering the lights.
+lights,none,on,Turn on the refrigerator.,Turning on the refrigerator.
+lights,none,on,Turn on the oven.,Turning on the oven.
+lights,none,on,Turn on the music system.,Turning on the music system.
+lights,attic,off,Turn off the light in the attic.,Turning off the attic light.
+lights,basement,off,Turn off the light in the basement.,Turning off the basement light.
+lights,kitchen,off,Turn off the light in the kitchen.,Turning off the kitchen light.
+lights,library,off,Turn off the light in the library.,Turning off the library light.
+lights,dining room,off,Turn off the light in the dining room.,Turning off the dining room light.
+lights,cellar,off,Turn off the light in the cellar.,Turning off the cellar light.
+lights,attic,off,Turn off the lights in the attic.,Turning off the attic lights.
+lights,basement,off,Turn off the lights in the basement.,Turning off the basement lights.
+lights,kitchen,off,Turn off the lights in the kitchen.,Turning off the kitchen lights.
+lights,library,off,Turn off the lights in the library.,Turning off the library lights.
+lights,dining room,off,Turn off the lights in the dining room.,Turning off the dining room lights.
+lights,cellar,off,Turn off the lights in the cellar.,Turning off the cellar lights.
+lights,random,off,Turn off something in 45 minutes.,Turning something off in 45 minutes.
+lights,random,on,Turn on something.,Turning something on.
+lights,random,on,Put on a random appliance in 7 days.,Activating a random appliance in 7 days.
+lights,none,no_action,lights.,No action specified.
+lights,bathroom,on,Can you make it less dark in the bathroom tomorrow?,Dimming the bathroom lights tomorrow.
+lights,toilet,on,Can you make it less dark in the toilet tomorrow?,Dimming the toilet lights tomorrow.
+lights,attic,on,Turn on the light in the attic in one hour.,Turning on the attic light in 1 hour.
+lights,cellar,off,Can you turn off the lights in the cellar?,Turning off the cellar lights.
+lights,none,no_action,I would get mad if you turn on the lights right now.,I won’t turn on the lights right now.
+lights,cellar,on,It is dark in the cellar.,Turning on the lights in the cellar.
+lights,bathroom,on,It is dark in the bathroom.,Turning on the lights in the bathroom.
+lights,living room,on,It is dark in the living room.,Turning on the lights in the living room.
+lights,toilet,on,It is dark in the toilet.,Turning on the lights in the toilet.
+lights,attic,on,It is dark in the attic.,Turning on the lights in the attic.
+lights,basement,on,It is dark in the basement.,Turning on the lights in the basement.
+lights,dining room,on,Can you make it less dark in the dining room in 5 minutes?,Brightening the dining room in 5 minutes.
+lights,cellar,on,Can you make it less dark in the cellar in 85 minutes?,Brightening the cellar in 85 minutes.
+lights,attic,on,Can you make it less dark in the attic in 5 minutes?,Brightening the attic in 5 minutes.
+lights,kitchen,on,Can you make it less dark in the kitchen in 45 minutes?,Brightening the kitchen in 45 minutes.
+lights,toilet,on,Can you make it less dark in the toilet in 15 minutes?,Brightening the toilet in 15 minutes.
+lights,library,on,Can you make it less dark in the library in 50 minutes?,Brightening the library in 50 minutes.
+lights,basement,on,Can you make it less dark in the basement in 5 minutes?,Brightening the basement in 5 minutes.
+lights,dining room,on,Can you make it more bright in the dining room in 15 hours?,Brightening the dining room in 15 hours.
+lights,cellar,on,Can you make it more bright in the cellar in 50 hours?,Brightening the cellar in 50 hours.
+lights,attic,on,Can you make it more bright in the attic in an hour?,Brightening the attic in 1 hour.
+lights,kitchen,on,Can you make it more bright in the kitchen in 5 days?,Brightening the kitchen in 5 days.
+lights,toilet,on,Can you make it more bright in the toilet in 5 weeks?,Brightening the toilet in 5 weeks.
+lights,library,on,Can you make it more bright in the library in 2 minutes?,Brightening the library in 2 minutes.
+lights,basement,on,Can you make it more bright in the basement in 5 minutes?,Brightening the basement in 5 minutes.
+lights,dining room,off,Can you make it less bright in the dining room in 15 hours?,Dimming the dining room in 15 hours.
+lights,attic,off,Can you make it less bright in the attic in an hour?,Dimming the attic in 1 hour.
+lights,kitchen,off,Can you make it less bright in the kitchen in 5 days?,Dimming the kitchen in 5 days.
+lights,toilet,off,Can you make it less bright in the toilet in 5 weeks?,Dimming the toilet in 5 weeks.
+lights,library,off,Can you make it less bright in the library in 2 minutes?,Dimming the library in 2 minutes.
+lights,none,no_action,Don't turn off the lights.,"Okay, I won’t turn off the lights."
+lights,none,on,Turn on the lights when I get home.,Turning on the lights when you get home.
+lights,none,on,Turn on the lights when it's dark outside.,Turning on the lights when it gets dark outside.
+lights,none,off,Turn off the lights when it is light outside.,Turning off the lights when it gets light outside.
+camera,bathroom,on,Was the camera in the bathroom on yesterday?,Yes the bathroom camera was on yesterday.
+camera,toilet,on,Was the camera in the toilet on yesterday?,Yes the toilet camera was on yesterday.
+camera,none,on,Is the recording device on?,Yes the recording device is currently on.
+camera,none,no_action,Was there motion with the motion viewer?,Yes the motion viewer detected activity.
+camera,outside,no_action,Would you tell me if there was any motion on the camera outside?,Yes motion was detected on the outside camera.
+camera,outside,no_action,Was there any motion on the camera outside?,Yes motion was detected on the outside camera.
+camera,kitchen,no_action,Was there movement on the camera in the kitchen yesterday?,Yes there was motion detected in the kitchen yesterday.
+camera,attic,no_action,Was there movement on the camera in the attic yesterday?,Yes there was motion detected in the attic yesterday.
+camera,bathroom,no_action,Was there movement on the camera in the bathroom yesterday?,Yes there was motion detected in the bathroom yesterday.
+camera,backyard,no_action,Was there movement on the camera in the backyard yesterday?,Yes there was motion detected in the backyard yesterday.
+camera,living room,on,I would like it that you'd tell me if the camera in the living room is on.,Yes the living room camera is currently on.
+camera,all,no_action,Did you see any movement tonight?,Yes there was some movement detected tonight.
+camera,outside,no_action,Was there something strange outside?,Yes unusual activity was detected outside.
+camera,all,no_action,Is there something I should know about the motion?,Yes motion was detected that may require your attention.
+camera,all,no_action,How many cameras are there?,There are multiple cameras installed across different locations.
+camera,all,no_action,Where are all the cameras installed?,The cameras are installed in the kitchen living room backyard attic and bathroom.
+camera,all,no_action,Is there many motion on the cameras lately?,Yes there has been frequent motion detected recently.
+camera,all,no_action,What is the camera currently shooting?,The cameras are currently recording the assigned areas in real time.
+camera,all,no_action,Did humans appear on the camera today?,Yes human activity was detected on the cameras today.
+camera,all,no_action,Would you tell me if there was motion between September and October?,Yes motion events occurred between September and October.
+camera,none,on,Is the camera on?,Yes the camera is currently turned on.
+camera,none,on,Turn on the camera.,Turning the camera on now.
+camera,none,no_action,A camera does recording and viewing.,Correct the camera records and streams video for monitoring.
+camera,backyard,no_action,Could you give me some info on the camera in the backyard?,The backyard camera is functioning properly and monitoring for motion.
+camera,none,no_action,Was there any movement on the cameras today?,Yes movement was detected on the cameras today.
+camera,outside,no_action,Was there a person outside today?,Yes a person was detected outside today.
+camera,none,no_action,Was there any movement on the cameras yesterday?,Yes there was motion activity recorded yesterday.
+camera,outside,no_action,Was there a person outside yesterday?,Yes a person was detected outside yesterday.
+camera,none,no_action,camera.,Yes the camera is active and monitoring.
+camera,outside,no_action,Was there any motion in the past hour on the camera outside?,Yes motion was detected on the outside camera in the past hour.
+camera,backyard,no_action,Was there any motion in the backyard yesterday?,Yes there was motion in the backyard yesterday.
+camera,backyard,no_action,Was there unusual activity on the camera in the backyard today?,Yes some unusual activity was recorded in the backyard today.
+shutters,living room,down,Lower the shutters in the living room.,Lowering the shutters in the living room now.
+shutters,kitchen,down,Lower the shutters in the kitchen.,Lowering the shutters in the kitchen now.
+shutters,library,down,Lower the shutters in the library.,Lowering the shutters in the library now.
+shutters,basement,down,Lower the shutters in the basement.,Lowering the shutters in the basement now.
+shutters,cellar,down,Lower the shutters in the cellar.,Lowering the shutters in the cellar now.
+shutters,bathroom,down,Lower the shutters in the bathroom.,Lowering the shutters in the bathroom now.
+shutters,toilet,down,Lower the shutters in the toilet.,Lowering the shutters in the toilet now.
+shutters,living room,up,Raise the shutters in the living room.,Raising the shutters in the living room now.
+shutters,kitchen,up,Raise the shutters in the kitchen.,Raising the shutters in the kitchen now.
+shutters,library,up,Raise the shutters in the library.,Raising the shutters in the library now.
+shutters,basement,up,Raise the shutters in the basement.,Raising the shutters in the basement now.
+shutters,cellar,up,Raise the shutters in the cellar.,Raising the shutters in the cellar now.
+shutters,bathroom,up,Raise the shutters in the bathroom.,Raising the shutters in the bathroom now.
+shutters,toilet,up,Raise the shutters in the toilet.,Raising the shutters in the toilet now.
+shutters,none,no_action,Don't do anything with the shutters.,Okay I won't make any changes to the shutters.
+shutters,toilet,down,The sun is blinding me in the toilet.,Lowering the shutters in the toilet to reduce the sunlight.
+shutters,none,down,Turn down the window shutters.,Lowering the window shutters now.
+shutters,none,up,Open the window shutters in a minute for me please.,I’ll open the window shutters in one minute.
+shutters,basement,down,Let the shutters down in the basement in an hour.,I’ll lower the shutters in the basement in one hour.
+shutters,kitchen,down,Shut the shutters in the kitchen.,The shutters in the kitchen are now closed.
+shutters,none,down,Shut the shutters in a minute.,I’ll shut the shutters in one minute.
+shutters,library,down,It is too light in the library.,Lowering the shutters in the library to reduce the brightness.
+shutters,basement,down,Let the shutters down in the basement when it is light outside.,I’ll lower the shutters in the basement when it gets bright outside.
+shutters,basement,down,Open up the shutters in the library when it is light outside.,I’ll open the shutters in the library when it becomes bright outside.
+shutters,kitchen,down,It is too bright in the kitchen.,Lowering the shutters in the kitchen to reduce the brightness.
+shutters,bathroom,down,Shut down the shutters when it gets too hot in the bathroom.,I’ll shut the shutters in the bathroom when the temperature gets too high.
+shutters,basement,up,Open up the shutters when it gets below 10 degrees fahrenheit.,I’ll open the shutters when the temperature drops below 10°F.
+shutters,kitchen,no_action,Don't do anything when it gets hot in the kitchen.,Okay I won’t make any changes to the kitchen shutters when it’s hot.
+Music,Playback,Play,Play jazz music in the living room,Jazz music is now playing in the living room.
+Music,Playback,Pause,Pause the music,Music paused.
+Music,Playback,Resume,Resume the music,Music resumed.
+Music,Playback,Stop,Stop the music,Music stopped.
+Music,Playback,Skip,Skip to the next song,Skipped to the next song.
+Music,Playback,Previous,Play the previous song,Playing the previous song.
+Music,Playback,Check,What song is currently playing?,"The current song is ""Fly Me to the Moon"" by Frank Sinatra."
+Music,Volume,Adjust_volume,Increase the volume by 10,Volume increased by 10.
+Music,Volume,Adjust_volume,Decrease the volume to 20,Volume set to 20.
+Music,Volume,Mute,Mute the music,Music muted.
+Music,Volume,Unmute,Unmute the music,Music unmuted.
+Music,Volume,Check,What is the current volume level?,The current volume level is 30.
+Music,Playlist,Select_playlist,Play my workout playlist,Workout playlist is now playing.
+Music,Playlist,Shuffle,Shuffle my favorite playlist,Favorite playlist is now playing in shuffle mode.
+Music,Playlist,Add_song,"Add ""Bohemian Rhapsody"" to my evening playlist",Bohemian Rhapsody added to the evening playlist.
+Music,Playlist,Remove_song,Remove the current song from my playlist,Current song removed from the playlist.
+Music,Playlist,Check,What playlists are available?,Available playlists: Workout Evening Chill Party.
+Music,Genre,Play,Play classical music in the bedroom,Classical music is now playing in the bedroom.
+Music,Genre,Play,Play some 80s rock music,80s rock music is now playing.
+Music,Artist,Play,Play songs by The Beatles,Playing songs by The Beatles.
+Music,Song,Play,"Play ""Sweet Child O' Mine"" by Guns N' Roses","Playing ""Sweet Child O' Mine"" by Guns N' Roses."
+Music,Song,Check,Is this song by Taylor Swift?,This song is not by Taylor Swift; it's by Adele.
+Music,Device,Switch_device,Switch music to the kitchen speaker,Music switched to the kitchen speaker.
+Music,Device,Multi_room,Play music in all rooms,Music is now playing in all rooms.
+Music,Device,Check,Which speaker is the music playing on?,Music is playing on the living room speaker.
+Music,Playback,Repeat,Repeat the current song,Current song set to repeat.
+Music,Playback,Loop,Loop my playlist,Playlist set to loop.
+Music,Schedule,Play,Play morning playlist tomorrow at 7 AM,Morning playlist scheduled for 7:00 AM tomorrow.
+Music,Schedule,Stop,Stop the music tonight at 10 PM,Music will stop at 10:00 PM tonight.
+Music,Power,Turn_off,Turn off the music system,Music system turned off.
+Music,Power,Turn_on,Turn on the music system,Music system turned on.
+Music,Radio,Play,Play the local jazz radio station,Local jazz radio station is now playing.
+Music,Podcast,Play,"Play the latest episode of ""Tech Talk""","Latest episode of ""Tech Talk"" is now playing."
+Music,Source,Switch_source,Switch to Bluetooth audio,Switched to Bluetooth audio.
+Music,Source,Check,What is the current audio source?,The current audio source is Spotify.
+Music,Equalizer,Adjust,Set the equalizer to bass boost,Equalizer set to bass boost.
+Music,Sleep_timer,Set,Set a sleep timer for 30 minutes,Music will stop in 30 minutes.
+Music,Queue,Check,What’s next in the music queue?,"Next in the queue is ""Hotel California"" by Eagles."
+Music,Queue,Clear,Clear the music queue,Music queue cleared.
+Music,Queue,Add,"Add ""Imagine"" to the queue",Imagine added to the queue.
+Music,Playback_speed,Reset_speed,Reset playback speed to normal,Playback speed reset to normal.
+Music,Playback_speed,Check,What is the current playback speed?,The current playback speed is 1x.
+Music,Ambient,Play,Play rainforest sounds in the study,Rainforest sounds are now playing in the study.
+Music,Ambient,Stop,Stop the ambient sounds,Ambient sounds stopped.
+Music,Ambient,Check,Are ambient sounds playing?,Ambient sounds are not playing.
+Music,Multi_source,Play,Play Spotify in the living room and radio in the kitchen,Spotify playing in the living room radio in the kitchen.
+Music,Multi_source,Sync,Sync music across all speakers,Music synced across all speakers.
+Music,Multi_source,Check,What sources are playing in each room?,Living room: Spotify Kitchen: Radio Bedroom: Off.
+Music,Voice_control,Enable,Enable voice control for the music system,Voice control enabled for the music system.
+Music,Voice_control,Disable,Disable voice control for the music system,Voice control disabled.
+Music,Voice_control,Check,Is voice control enabled for the music system?,Voice control is enabled.
+Music,Schedule,Play,Play chill playlist every evening at 6 PM,Chill playlist scheduled for 6:00 PM daily.
+Music,Schedule,Cancel,Cancel the scheduled music for tomorrow,Music schedule for tomorrow canceled.
+Music,Schedule,Check,What music is scheduled for today?,Chill playlist is scheduled for 6:00 PM today.
+Music,Playlist,Create,"Create a new playlist called ""Dinner Vibes""","Playlist ""Dinner Vibes"" created."
+Music,Playlist,Delete,"Delete the ""Old Hits"" playlist","Playlist ""Old Hits"" deleted."
+Music,Playlist,Check,How many songs are in my workout playlist?,Your workout playlist has 15 songs.
+Music,Song,Play,"Play ""Hallelujah"" by Leonard Cohen","Playing ""Hallelujah"" by Leonard Cohen."
+Music,Artist,Play,Play music by Billie Eilish,Playing music by Billie Eilish.
+Music,Genre,Play,Play reggae music in the backyard,Reggae music is now playing in the backyard.
+Music,Volume,Adjust_volume,Set volume to 50 in the bedroom,Bedroom volume set to 50.
+Music,Device,Switch_device,Move music to the patio speaker,Music switched to the patio speaker.
+Music,Status,Check,Is the music system connected to Wi-Fi?,The music system is connected to Wi-Fi.
+Music,Radio,Play,Play BBC Radio 1,BBC Radio 1 is now playing.
+Music,Podcast,Skip,Skip forward 30 seconds in the podcast,Skipped forward 30 seconds in the podcast.
+Music,Queue,Check,How many songs are in the queue?,There are 5 songs in the queue.
+Music,Equalizer,Adjust,Set equalizer to vocal mode,Equalizer set to vocal mode.
+Music,Sleep_timer,Set,Set a sleep timer for 15 minutes,Music will stop in 15 minutes.
+Music,Sleep_timer,Check,Is a sleep timer active?,A 15-minute sleep timer is active.
+Music,Playback,Restart,Restart the current song,Current song restarted.
+Music,Playlist,Reorder,"Move ""Sweet Child O' Mine"" to the top of the playlist",Sweet Child O' Mine moved to the top of the playlist.
+Music,Artist,Check,Who is the artist of the current song?,The artist of the current song is Frank Sinatra.
+Music,Genre,Play,Play hip-hop music in the garage,Hip-hop music is now playing in the garage.
+Music,Device,Volume_sync,Set all speakers to the same volume,All speakers set to the same volume.
+camera,library,no_action,Was there movement in the library?,"Yes, movement was detected in the library minute."
+camera,outside,no_action,Was there movement in the outside?,"Yes, movement was detected in the outside yesterday."
+camera,all,on,Turn on the camera in the all.,Turning on all camera for a day.
+camera,cellar,no_action,Was there movement in the cellar?,"Yes, movement was detected in the cellar day."
+camera,kitchen,on,Turn on the camera in the kitchen.,Turning on the kitchen camera minute.
+camera,kitchen,on,Turn on the camera in the kitchen.,Turning on the kitchen camera now.
+camera,cellar,on,Turn on the camera in the cellar.,Turning on the cellar camera minute.
+camera,none,on,Turn on the camera in the noon.,Turning on the camera in noon.
+camera,dining room,no_action,Was there movement in the dining room?,"Yes, movement was detected in the dining room hour."
+camera,outside,on,Turn on the camera in the outside.,Turning on the outside camera month.
+camera,outside,on,Turn on the camera in the outside.,Turning on the outside camera minute.
+camera,basement,on,Turn on the camera in the basement.,Turning on the basement camera day.
+camera,backyard,on,Turn on the camera in the backyard.,Turning on the backyard camera minute.
+camera,cellar,no_action,Was there movement in the cellar?,"Yes, movement was detected in the cellar month."
+camera,living room,no_action,Was there movement in the living room?,"Yes, movement was detected in the living room day."
+camera,basement,on,Turn on the camera in the basement.,Turning on the basement camera week.
+camera,backyard,no_action,Was there movement in the backyard?,"Yes, movement was detected in the backyard now."
+camera,attic,on,Turn on the camera in the attic.,Turning on the attic camera week.
+camera,kitchen,no_action,Was there movement in the kitchen?,"Yes, movement was detected in the kitchen minute."
+camera,living room,no_action,Was there movement in the living room?,"Yes, movement was detected in the living room today."
+camera,cellar,on,Turn on the camera in the cellar.,Turning on the cellar camera today.
+camera,library,on,Turn on the camera in the library.,Turning on the library camera today.
+camera,bathroom,no_action,Was there movement in the bathroom?,"Yes, movement was detected in the bathroom week."
+camera,kitchen,no_action,Was there movement in the kitchen?,"Yes, movement was detected in the kitchen month."
+camera,outside,no_action,Was there movement in the outside?,"Yes, movement was detected in the outside month."
+camera,all,on,Turn on the camera in the all.,Turning on the all camera day.
+camera,toilet,on,Turn on the camera in the toilet.,Turning on the toilet camera day.
+camera,basement,no_action,Was there movement in the basement?,"Yes, movement was detected in the basement minute."
+camera,basement,on,Turn on the camera in the basement.,Turning on the basement camera yesterday.
+camera,all,on,Turn on the camera in the all.,Turning on the all camera tomorrow.
+camera,kitchen,on,Turn on the camera in the kitchen.,Turning on the kitchen camera hour.
+camera,toilet,on,Turn on the camera in the toilet.,Turning on the toilet camera week.
+camera,outside,on,Turn on the camera in the outside.,Turning on the outside camera tomorrow.
+camera,kitchen,no_action,Was there movement in the kitchen?,"Yes, movement was detected in the kitchen tomorrow."
+camera,basement,on,Turn on the camera in the basement.,Turning on the basement camera minute.
+camera,backyard,on,Turn on the camera in the backyard.,Turning on the backyard camera day.
+camera,living room,no_action,Was there movement in the living room?,"Yes, movement was detected in the living room day."
+camera,basement,on,Turn on the camera in the basement.,Turning on the basement camera minute.
+shutters,toilet,down,Lower the shutters in the toilet.,Lowering the shutters in the toilet day.
+shutters,none,no_action,Don't touch the shutters in the noon.,"Okay, I won’t touch the shutters at noon."
+shutters,toilet,no_action,Don't touch the shutters in the toilet.,"Okay, I won’t touch the toilet shutters day."
+shutters,toilet,no_action,Don't touch the shutters in the toilet.,"Okay, I won’t touch the toilet shutters yesterday."
+shutters,basement,down,Lower the shutters in the basement.,Lowering the shutters in the basement hour.
+shutters,library,up,Raise the shutters in the library.,Raising the shutters in the library today.
+shutters,bathroom,no_action,Don't touch the shutters in the bathroom.,"Okay, I won’t touch the bathroom shutters minute."
+shutters,kitchen,no_action,Don't touch the shutters in the kitchen.,"Okay, I won’t touch the kitchen shutters hour."
+shutters,library,up,Raise the shutters in the library.,Raising the shutters in the library minute.
+shutters,cellar,no_action,Don't touch the shutters in the cellar.,"Okay, I won’t touch the cellar shutters tomorrow."
+shutters,living room,down,Lower the shutters in the living room.,Lowering the shutters in the living room now.

@@ -1,0 +1,301 @@
+Category,Subcategory,Action,Time,Sentence,Response
+lights,kitchen,on,today,Illuminate the kitchen today.,Turning on the kitchen lights today.
+lights,kitchen,on,tomorrow,Illuminate the kitchen tomorrow.,Turning on the kitchen lights tomorrow.
+lights,kitchen,on,hour,Turn on the light in the kitchen in 10 hours.,Turning on the kitchen lights in 10 hours.
+lights,kitchen,on,day,Turn on the light in the kitchen in 1 day.,Turning on the kitchen lights in 1 day.
+lights,dining room,on,today,Illuminate the dining room today.,Turning on the dining room lights today.
+lights,dining room,on,today,Don't illuminate the dining room today.,"Okay, I won’t turn on the dining room lights today."
+lights,dining room,on,tomorrow,Illuminate the dining room tomorrow.,Turning on the dining room lights tomorrow.
+lights,dining room,on,hour,Turn on the light i n the dining room in 10 hours.,Turning on the dining room lights in 10 hours.
+lights,dining room,on,day,Turn on the light in the dining room in 1 day.,Turning on the dining room lights in 1 day.
+lights,bathroom,on,now,Turn on the light in the bathroom.,Turning on the bathroom lights now.
+lights,none,none,now,Don't turn on the light right now.,"Okay, I won’t turn on the lights right now."
+lights,none,none,now,I would get mad if you'd put on the light right now.,No action will be taken.
+lights,none,on,now,I would not like it if you wouldn't turn on the light right now.,Turning on the lights now.
+lights,living room,on,now,Is the light on in the living room.,Turning on the living room lights now.
+lights,living room,on,hour,Would you illuminate the living room in one hour for me please.,Turning on the living room lights in 1 hour.
+lights,none,on,now,It would be great if you'd turn on the light for me.,Turning on the lights now.
+lights,kitchen,on,now,Light on in kitchen.,Turning on the kitchen lights now.
+lights,living room,off,hour,Light off in living room in a few hours.,Turning off the living room lights in 1 hour.
+lights,basement,off,now,Turn the light off in the basement.,Turning off the basement lights now.
+lights,dining room,off,now,Turn the light off in the dining room.,Turning off the dining room lights.
+lights,none,on,now,I would like if you made it brighter.,Making it brighter now.
+lights,none,on,minute,I would like if you made it brighter in 3 minutes.,Making it brighter in 3 minutes.
+lights,none,on,minute,Can you make it brighter here in 8 minutes?,Making it brighter here in 8 minutes.
+lights,none,off,now,Can you make it more dark here?,Dimming the lights here.
+lights,none,none,now,Don't make it more dark here.,Not dimming the lights here.
+lights,dining room,none,now,I would get mad if you would turn on the light in the dining room right now.,I won't turn on the dining room lights right now.
+lights,bathroom,on,now,Is the light on in the bathroom?,"Yes, the bathroom light is on."
+lights,bathroom,on,now,Is the light on in the bathroom.,"Yes, the bathroom light is on."
+lights,bathroom,on,now,Has the light been on long in the bathroom?,The bathroom light has been on for a while.
+lights,bathroom,off,now,Has the light been off long in the kitchen?,The kitchen light has been off for a while.
+lights,bathroom,on,now,Is the light in the bathroom on?,"Yes, the bathroom light is on."
+lights,none,on,now,Did you turn on the light already?,"Yes, the light is already on."
+lights,none,on,now,Can you please turn on the light?,Turning on the light.
+lights,none,on,now,Help me to turn on the light.,Turning on the light.
+lights,none,on,minute,Can you please turn on the light in a minute?,Turning on the light in 1 minute.
+lights,none,on,minute,Help me to turn on the light in a minute.,Turning on the light in 1 minute.
+lights,none,on,now,It is so dark here.,Turning on the lights now.
+lights,none,on,now,I can't see anything.,Turning on the lights now.
+lights,none,on,now,Lighten the room.,Brightening the room.
+lights,none,on,minute,Can you please turn on the light in a few minutes?,Turning on the light in a few minutes.
+lights,none,on,minute,Help me to turn on the light in a few minutes.,Turning on the light in a few minutes.
+lights,none,on,minute,Lighten the room in a few minutes.,Brightening the room in a few minutes.
+lights,none,on,minute,Lighten the room in 5 minutes.,Brightening the room in 5 minutes.
+lights,kitchen,off,minute,Turn the light off in the kitchen in 10 minutes.,Turning off the kitchen lights in 10 minutes.
+lights,kitchen,none,minute,Don't turn the light off in the kitchen in 10 minutes.,I won’t turn off the kitchen lights in 10 minutes.
+lights,attic,on,now,Make it less dark in the attic now.,Making it brighter in the attic now.
+lights,attic,on,now,Turn on the light in the attic.,Turning on the attic lights.
+lights,attic,on,now,Illuminate the attic.,Turning on the attic lights.
+lights,none,off,hour,Turn off the lights in one hour.,Turning off the lights in 1 hour.
+lights,none,on,now,Turn on the light.,Turning on the lights.
+lights,all,on,now,Flicker the lights for me.,Flickering the lights.
+lights,none,on,now,Turn on the refrigerator.,Turning on the refrigerator.
+lights,none,on,now,Turn on the oven.,Turning on the oven.
+lights,none,on,now,Turn on the music system.,Turning on the music system.
+lights,attic,off,now,Turn off the light in the attic.,Turning off the attic light.
+lights,basement,off,now,Turn off the light in the basement.,Turning off the basement light.
+lights,kitchen,off,now,Turn off the light in the kitchen.,Turning off the kitchen light.
+lights,library,off,now,Turn off the light in the library.,Turning off the library light.
+lights,dining room,off,now,Turn off the light in the dining room.,Turning off the dining room light.
+lights,cellar,off,now,Turn off the light in the cellar.,Turning off the cellar light.
+lights,attic,off,now,Turn off the lights in the attic.,Turning off the attic lights.
+lights,basement,off,now,Turn off the lights in the basement.,Turning off the basement lights.
+lights,kitchen,off,now,Turn off the lights in the kitchen.,Turning off the kitchen lights.
+lights,library,off,now,Turn off the lights in the library.,Turning off the library lights.
+lights,dining room,off,now,Turn off the lights in the dining room.,Turning off the dining room lights.
+lights,cellar,off,now,Turn off the lights in the cellar.,Turning off the cellar lights.
+lights,random,off,minute,Turn off something in 45 minutes.,Turning something off in 45 minutes.
+lights,random,on,now,Turn on something.,Turning something on.
+lights,random,on,day,Put on a random appliance in 7 days.,Activating a random appliance in 7 days.
+lights,none,none,now,lights.,No action specified.
+lights,bathroom,on,tomorrow,Can you make it less dark in the bathroom tomorrow?,Dimming the bathroom lights tomorrow.
+lights,toilet,on,tomorrow,Can you make it less dark in the toilet tomorrow?,Dimming the toilet lights tomorrow.
+lights,attic,on,hour,Turn on the light in the attic in one hour.,Turning on the attic light in 1 hour.
+lights,cellar,off,now,Can you turn off the lights in the cellar?,Turning off the cellar lights.
+lights,none,none,now,I would get mad if you turn on the lights right now.,I won’t turn on the lights right now.
+lights,cellar,on,now,It is dark in the cellar.,Turning on the lights in the cellar.
+lights,bathroom,on,now,It is dark in the bathroom.,Turning on the lights in the bathroom.
+lights,living room,on,now,It is dark in the living room.,Turning on the lights in the living room.
+lights,library,on,now,It is dark in the library.,Turning on the lights in the library.
+lights,toilet,on,now,It is dark in the toilet.,Turning on the lights in the toilet.
+lights,attic,on,now,It is dark in the attic.,Turning on the lights in the attic.
+lights,basement,on,now,It is dark in the basement.,Turning on the lights in the basement.
+lights,dining room,on,minute,Can you make it less dark in the dining room in 5 minutes?,Brightening the dining room in 5 minutes.
+lights,cellar,on,minute,Can you make it less dark in the cellar in 85 minutes?,Brightening the cellar in 85 minutes.
+lights,attic,on,minute,Can you make it less dark in the attic in 5 minutes?,Brightening the attic in 5 minutes.
+lights,kitchen,on,minute,Can you make it less dark in the kitchen in 45 minutes?,Brightening the kitchen in 45 minutes.
+lights,toilet,on,minute,Can you make it less dark in the toilet in 15 minutes?,Brightening the toilet in 15 minutes.
+lights,library,on,minute,Can you make it less dark in the library in 50 minutes?,Brightening the library in 50 minutes.
+lights,basement,on,minute,Can you make it less dark in the basement in 5 minutes?,Brightening the basement in 5 minutes.
+lights,dining room,on,hour,Can you make it more bright in the dining room in 15 hours?,Brightening the dining room in 15 hours.
+lights,cellar,on,hour,Can you make it more bright in the cellar in 50 hours?,Brightening the cellar in 50 hours.
+lights,attic,on,hour,Can you make it more bright in the attic in an hour?,Brightening the attic in 1 hour.
+lights,kitchen,on,day,Can you make it more bright in the kitchen in 5 days?,Brightening the kitchen in 5 days.
+lights,toilet,on,week,Can you make it more bright in the toilet in 5 weeks?,Brightening the toilet in 5 weeks.
+lights,library,on,minute,Can you make it more bright in the library in 2 minutes?,Brightening the library in 2 minutes.
+lights,basement,on,minute,Can you make it more bright in the basement in 5 minutes?,Brightening the basement in 5 minutes.
+lights,dining room,off,hour,Can you make it less bright in the dining room in 15 hours?,Dimming the dining room in 15 hours.
+lights,cellar,off,hour,Can you make it less bright in the cellar in 50 hours?,Dimming the cellar in 50 hours.
+lights,attic,off,hour,Can you make it less bright in the attic in an hour?,Dimming the attic in 1 hour.
+lights,kitchen,off,day,Can you make it less bright in the kitchen in 5 days?,Dimming the kitchen in 5 days.
+lights,toilet,off,week,Can you make it less bright in the toilet in 5 weeks?,Dimming the toilet in 5 weeks.
+lights,library,off,minute,Can you make it less bright in the library in 2 minutes?,Dimming the library in 2 minutes.
+lights,basement,off,minute,Can you make it less bright in the basement in 5 minutes?,Dimming the basement in 5 minutes.
+lights,none,none,now,Don't turn off the lights.,"Okay, I won’t turn off the lights."
+lights,none,on,none,Turn on the lights when I get home.,Turning on the lights when you get home.
+lights,none,on,none,Turn on the lights when it's dark outside.,Turning on the lights when it gets dark outside.
+lights,none,off,none,Turn off the lights when it is light outside.,Turning off the lights when it gets light outside.
+camera,none,none,month,Was there any motion between September and October?,Checking for motion events between September and October.
+camera,bathroom,on,yesterday,Was the camera in the bathroom on yesterday?,Yes the bathroom camera was on yesterday.
+camera,toilet,on,yesterday,Was the camera in the toilet on yesterday?,Yes the toilet camera was on yesterday.
+camera,all,none,now,Was there motion?,Yes motion was detected.
+camera,none,on,now,Is the recording device on?,Yes the recording device is currently on.
+camera,none,none,now,Was there motion with the motion viewer?,Yes the motion viewer detected activity.
+camera,outside,none,now,Would you tell me if there was any motion on the camera outside?,Yes motion was detected on the outside camera.
+camera,outside,none,now,Was there any motion on the camera outside?,Yes motion was detected on the outside camera.
+camera,kitchen,none,yesterday,Was there movement on the camera in the kitchen yesterday?,Yes there was motion detected in the kitchen yesterday.
+camera,attic,none,yesterday,Was there movement on the camera in the attic yesterday?,Yes there was motion detected in the attic yesterday.
+camera,bathroom,none,yesterday,Was there movement on the camera in the bathroom yesterday?,Yes there was motion detected in the bathroom yesterday.
+camera,backyard,none,yesterday,Was there movement on the camera in the backyard yesterday?,Yes there was motion detected in the backyard yesterday.
+camera,living room,none,yesterday,Was there movement on the camera in the living room yesterday?,Yes there was motion detected in the living room yesterday.
+camera,living room,on,now,I would like it that you'd tell me if the camera in the living room is on.,Yes the living room camera is currently on.
+camera,all,none,now,Where there strangers tonight at my house?,There may have been strangers detected around your home tonight.
+camera,all,none,now,Did you see any movement tonight?,Yes there was some movement detected tonight.
+camera,outside,none,now,Was there something strange outside?,Yes unusual activity was detected outside.
+camera,all,none,now,Is there something I should know about the motion?,Yes motion was detected that may require your attention.
+camera,all,none,now,What do you see on the camera?,The cameras are currently showing the monitored areas with no unusual activity.
+camera,all,none,now,How many cameras are there?,There are multiple cameras installed across different locations.
+camera,all,none,now,Where are all the cameras installed?,The cameras are installed in the kitchen living room backyard attic and bathroom.
+camera,all,none,now,Is there many motion on the cameras lately?,Yes there has been frequent motion detected recently.
+camera,all,none,now,What is the camera currently shooting?,The cameras are currently recording the assigned areas in real time.
+camera,all,none,today,Did humans appear on the camera today?,Yes human activity was detected on the cameras today.
+camera,all,none,month,Would you tell me if there was motion between September and October?,Yes motion events occurred between September and October.
+camera,none,on,now,Is the camera on?,Yes the camera is currently turned on.
+camera,none,on,now,Turn on the camera.,Turning the camera on now.
+camera,none,none,now,A camera does recording and viewing.,Correct the camera records and streams video for monitoring.
+camera,backyard,none,now,Could you give me some info on the camera in the backyard?,The backyard camera is functioning properly and monitoring for motion.
+camera,none,none,today,Was there any movement on the cameras today?,Yes movement was detected on the cameras today.
+camera,outside,none,today,Was there a person outside today?,Yes a person was detected outside today.
+camera,none,none,yesterday,Was there any movement on the cameras yesterday?,Yes there was motion activity recorded yesterday.
+camera,outside,none,yesterday,Was there a person outside yesterday?,Yes a person was detected outside yesterday.
+camera,none,none,now,camera.,Yes the camera is active and monitoring.
+camera,outside,none,hour,Was there any motion in the past hour on the camera outside?,Yes motion was detected on the outside camera in the past hour.
+camera,backyard,none,yesterday,Was there any motion in the backyard yesterday?,Yes there was motion in the backyard yesterday.
+camera,backyard,none,today,Was there unusual activity on the camera in the backyard today?,Yes some unusual activity was recorded in the backyard today.
+shutters,living room,down,now,Lower the shutters in the living room.,Lowering the shutters in the living room now.
+shutters,kitchen,down,now,Lower the shutters in the kitchen.,Lowering the shutters in the kitchen now.
+shutters,library,down,now,Lower the shutters in the library.,Lowering the shutters in the library now.
+shutters,basement,down,now,Lower the shutters in the basement.,Lowering the shutters in the basement now.
+shutters,cellar,down,now,Lower the shutters in the cellar.,Lowering the shutters in the cellar now.
+shutters,bathroom,down,now,Lower the shutters in the bathroom.,Lowering the shutters in the bathroom now.
+shutters,toilet,down,now,Lower the shutters in the toilet.,Lowering the shutters in the toilet now.
+shutters,living room,up,now,Raise the shutters in the living room.,Raising the shutters in the living room now.
+shutters,kitchen,up,now,Raise the shutters in the kitchen.,Raising the shutters in the kitchen now.
+shutters,library,up,now,Raise the shutters in the library.,Raising the shutters in the library now.
+shutters,basement,up,now,Raise the shutters in the basement.,Raising the shutters in the basement now.
+shutters,cellar,up,now,Raise the shutters in the cellar.,Raising the shutters in the cellar now.
+shutters,bathroom,up,now,Raise the shutters in the bathroom.,Raising the shutters in the bathroom now.
+shutters,toilet,up,now,Raise the shutters in the toilet.,Raising the shutters in the toilet now.
+shutters,none,none,now,Don't do anything with the shutters.,Okay I won't make any changes to the shutters.
+shutters,toilet,down,now,The sun is blinding me in the toilet.,Lowering the shutters in the toilet to reduce the sunlight.
+shutters,none,down,now,Turn down the window shutters.,Lowering the window shutters now.
+shutters,none,up,minute,Open the window shutters in a minute for me please.,I’ll open the window shutters in one minute.
+shutters,basement,down,hour,Let the shutters down in the basement in an hour.,I’ll lower the shutters in the basement in one hour.
+shutters,kitchen,down,now,Shut the shutters in the kitchen.,The shutters in the kitchen are now closed.
+shutters,none,down,minute,Shut the shutters in a minute.,I’ll shut the shutters in one minute.
+shutters,library,down,now,It is too light in the library.,Lowering the shutters in the library to reduce the brightness.
+shutters,basement,down,none,Let the shutters down in the basement when it is light outside.,I’ll lower the shutters in the basement when it gets bright outside.
+shutters,basement,down,none,Open up the shutters in the library when it is light outside.,I’ll open the shutters in the library when it becomes bright outside.
+shutters,kitchen,down,now,It is too bright in the kitchen.,Lowering the shutters in the kitchen to reduce the brightness.
+shutters,bathroom,down,none,Shut down the shutters when it gets too hot in the bathroom.,I’ll shut the shutters in the bathroom when the temperature gets too high.
+shutters,basement,up,none,Open up the shutters when it gets below 10 degrees fahrenheit.,I’ll open the shutters when the temperature drops below 10°F.
+shutters,kitchen,none,none,Don't do anything when it gets hot in the kitchen.,Okay I won’t make any changes to the kitchen shutters when it’s hot.
+Music,Playback,Play,now,Play jazz music in the living room,Jazz music is now playing in the living room.
+Music,Playback,Pause,now,Pause the music,Music paused.
+Music,Playback,Resume,now,Resume the music,Music resumed.
+Music,Playback,Stop,now,Stop the music,Music stopped.
+Music,Playback,Skip,now,Skip to the next song,Skipped to the next song.
+Music,Playback,Previous,now,Play the previous song,Playing the previous song.
+Music,Playback,Check,now,What song is currently playing?,"The current song is ""Fly Me to the Moon"" by Frank Sinatra."
+Music,Volume,Adjust_volume,now,Increase the volume by 10,Volume increased by 10.
+Music,Volume,Adjust_volume,now,Decrease the volume to 20,Volume set to 20.
+Music,Volume,Mute,now,Mute the music,Music muted.
+Music,Volume,Unmute,now,Unmute the music,Music unmuted.
+Music,Volume,Check,now,What is the current volume level?,The current volume level is 30.
+Music,Playlist,Select_playlist,now,Play my workout playlist,Workout playlist is now playing.
+Music,Playlist,Shuffle,now,Shuffle my favorite playlist,Favorite playlist is now playing in shuffle mode.
+Music,Playlist,Add_song,now,"Add ""Bohemian Rhapsody"" to my evening playlist",Bohemian Rhapsody added to the evening playlist.
+Music,Playlist,Remove_song,now,Remove the current song from my playlist,Current song removed from the playlist.
+Music,Playlist,Check,now,What playlists are available?,Available playlists: Workout Evening Chill Party.
+Music,Genre,Play,now,Play classical music in the bedroom,Classical music is now playing in the bedroom.
+Music,Genre,Play,now,Play some 80s rock music,80s rock music is now playing.
+Music,Artist,Play,now,Play songs by The Beatles,Playing songs by The Beatles.
+Music,Song,Play,now,"Play ""Sweet Child O' Mine"" by Guns N' Roses","Playing ""Sweet Child O' Mine"" by Guns N' Roses."
+Music,Song,Check,now,Is this song by Taylor Swift?,This song is not by Taylor Swift; it's by Adele.
+Music,Device,Switch_device,now,Switch music to the kitchen speaker,Music switched to the kitchen speaker.
+Music,Device,Multi_room,now,Play music in all rooms,Music is now playing in all rooms.
+Music,Device,Check,now,Which speaker is the music playing on?,Music is playing on the living room speaker.
+Music,Playback,Repeat,now,Repeat the current song,Current song set to repeat.
+Music,Playback,Loop,now,Loop my playlist,Playlist set to loop.
+Music,Schedule,Play,7:00 AM,Play morning playlist tomorrow at 7 AM,Morning playlist scheduled for 7:00 AM tomorrow.
+Music,Schedule,Stop,10:00 PM,Stop the music tonight at 10 PM,Music will stop at 10:00 PM tonight.
+Music,Status,Check,now,Is the music system on?,The music system is currently on.
+Music,Power,Turn_off,now,Turn off the music system,Music system turned off.
+Music,Power,Turn_on,now,Turn on the music system,Music system turned on.
+Music,Radio,Play,now,Play the local jazz radio station,Local jazz radio station is now playing.
+Music,Podcast,Play,now,"Play the latest episode of ""Tech Talk""","Latest episode of ""Tech Talk"" is now playing."
+Music,Source,Switch_source,now,Switch to Bluetooth audio,Switched to Bluetooth audio.
+Music,Source,Check,now,What is the current audio source?,The current audio source is Spotify.
+Music,Equalizer,Adjust,now,Set the equalizer to bass boost,Equalizer set to bass boost.
+Music,Sleep_timer,Set,30 minutes,Set a sleep timer for 30 minutes,Music will stop in 30 minutes.
+Music,Queue,Check,now,What’s next in the music queue?,"Next in the queue is ""Hotel California"" by Eagles."
+Music,Queue,Clear,now,Clear the music queue,Music queue cleared.
+Music,Queue,Add,now,"Add ""Imagine"" to the queue",Imagine added to the queue.
+Music,Playback_speed,Adjust_speed,now,Set playback speed to 1.5x,Playback speed set to 1.5x.
+Music,Playback_speed,Reset_speed,now,Reset playback speed to normal,Playback speed reset to normal.
+Music,Playback_speed,Check,now,What is the current playback speed?,The current playback speed is 1x.
+Music,Ambient,Play,now,Play rainforest sounds in the study,Rainforest sounds are now playing in the study.
+Music,Ambient,Stop,now,Stop the ambient sounds,Ambient sounds stopped.
+Music,Ambient,Check,now,Are ambient sounds playing?,Ambient sounds are not playing.
+Music,Multi_source,Play,now,Play Spotify in the living room and radio in the kitchen,Spotify playing in the living room radio in the kitchen.
+Music,Multi_source,Sync,now,Sync music across all speakers,Music synced across all speakers.
+Music,Multi_source,Check,now,What sources are playing in each room?,Living room: Spotify Kitchen: Radio Bedroom: Off.
+Music,Voice_control,Enable,now,Enable voice control for the music system,Voice control enabled for the music system.
+Music,Voice_control,Disable,now,Disable voice control for the music system,Voice control disabled.
+Music,Voice_control,Check,now,Is voice control enabled for the music system?,Voice control is enabled.
+Music,Schedule,Play,6:00 PM,Play chill playlist every evening at 6 PM,Chill playlist scheduled for 6:00 PM daily.
+Music,Schedule,Cancel,now,Cancel the scheduled music for tomorrow,Music schedule for tomorrow canceled.
+Music,Schedule,Check,now,What music is scheduled for today?,Chill playlist is scheduled for 6:00 PM today.
+Music,Playlist,Create,now,"Create a new playlist called ""Dinner Vibes""","Playlist ""Dinner Vibes"" created."
+Music,Playlist,Delete,now,"Delete the ""Old Hits"" playlist","Playlist ""Old Hits"" deleted."
+Music,Playlist,Check,now,How many songs are in my workout playlist?,Your workout playlist has 15 songs.
+Music,Song,Play,now,"Play ""Hallelujah"" by Leonard Cohen","Playing ""Hallelujah"" by Leonard Cohen."
+Music,Artist,Play,now,Play music by Billie Eilish,Playing music by Billie Eilish.
+Music,Genre,Play,now,Play reggae music in the backyard,Reggae music is now playing in the backyard.
+Music,Song,Check,now,What’s the duration of the current song?,The current song duration is 3 minutes and 45 seconds.
+Music,Volume,Adjust_volume,now,Set volume to 50 in the bedroom,Bedroom volume set to 50.
+Music,Device,Switch_device,now,Move music to the patio speaker,Music switched to the patio speaker.
+Music,Status,Check,now,Is the music system connected to Wi-Fi?,The music system is connected to Wi-Fi.
+Music,Radio,Play,now,Play BBC Radio 1,BBC Radio 1 is now playing.
+Music,Podcast,Skip,now,Skip forward 30 seconds in the podcast,Skipped forward 30 seconds in the podcast.
+Music,Source,Switch_source,now,Switch to AUX input,AUX input selected.
+Music,Queue,Check,now,How many songs are in the queue?,There are 5 songs in the queue.
+Music,Equalizer,Adjust,now,Set equalizer to vocal mode,Equalizer set to vocal mode.
+Music,Sleep_timer,Set,15 minutes,Set a sleep timer for 15 minutes,Music will stop in 15 minutes.
+Music,Sleep_timer,Check,now,Is a sleep timer active?,A 15-minute sleep timer is active.
+Music,Playback,Restart,now,Restart the current song,Current song restarted.
+Music,Playlist,Reorder,now,"Move ""Sweet Child O' Mine"" to the top of the playlist",Sweet Child O' Mine moved to the top of the playlist.
+Music,Artist,Check,now,Who is the artist of the current song?,The artist of the current song is Frank Sinatra.
+Music,Genre,Play,now,Play hip-hop music in the garage,Hip-hop music is now playing in the garage.
+Music,Device,Volume_sync,now,Set all speakers to the same volume,All speakers set to the same volume.
+camera,library,none,minute,Was there movement in the library?,"Yes, movement was detected in the library minute."
+camera,outside,none,yesterday,Was there movement in the outside?,"Yes, movement was detected in the outside yesterday."
+camera,all,on,day,Turn on the camera in the all.,Turning on the all camera day.
+camera,cellar,none,day,Was there movement in the cellar?,"Yes, movement was detected in the cellar day."
+camera,kitchen,on,minute,Turn on the camera in the kitchen.,Turning on the kitchen camera minute.
+camera,kitchen,on,now,Turn on the camera in the kitchen.,Turning on the kitchen camera now.
+camera,cellar,on,minute,Turn on the camera in the cellar.,Turning on the cellar camera minute.
+camera,none,on,month,Turn on the camera in the none.,Turning on the none camera month.
+camera,dining room,none,hour,Was there movement in the dining room?,"Yes, movement was detected in the dining room hour."
+camera,outside,on,month,Turn on the camera in the outside.,Turning on the outside camera month.
+camera,outside,on,minute,Turn on the camera in the outside.,Turning on the outside camera minute.
+camera,basement,on,day,Turn on the camera in the basement.,Turning on the basement camera day.
+camera,backyard,on,minute,Turn on the camera in the backyard.,Turning on the backyard camera minute.
+camera,cellar,none,month,Was there movement in the cellar?,"Yes, movement was detected in the cellar month."
+camera,living room,none,day,Was there movement in the living room?,"Yes, movement was detected in the living room day."
+camera,basement,on,week,Turn on the camera in the basement.,Turning on the basement camera week.
+camera,backyard,none,now,Was there movement in the backyard?,"Yes, movement was detected in the backyard now."
+camera,attic,on,week,Turn on the camera in the attic.,Turning on the attic camera week.
+camera,kitchen,none,minute,Was there movement in the kitchen?,"Yes, movement was detected in the kitchen minute."
+camera,living room,none,today,Was there movement in the living room?,"Yes, movement was detected in the living room today."
+camera,cellar,on,today,Turn on the camera in the cellar.,Turning on the cellar camera today.
+camera,library,on,today,Turn on the camera in the library.,Turning on the library camera today.
+camera,bathroom,none,week,Was there movement in the bathroom?,"Yes, movement was detected in the bathroom week."
+camera,kitchen,none,month,Was there movement in the kitchen?,"Yes, movement was detected in the kitchen month."
+camera,outside,none,month,Was there movement in the outside?,"Yes, movement was detected in the outside month."
+camera,all,on,day,Turn on the camera in the all.,Turning on the all camera day.
+camera,toilet,on,day,Turn on the camera in the toilet.,Turning on the toilet camera day.
+camera,basement,none,minute,Was there movement in the basement?,"Yes, movement was detected in the basement minute."
+camera,basement,on,yesterday,Turn on the camera in the basement.,Turning on the basement camera yesterday.
+camera,all,on,tomorrow,Turn on the camera in the all.,Turning on the all camera tomorrow.
+camera,kitchen,on,hour,Turn on the camera in the kitchen.,Turning on the kitchen camera hour.
+camera,toilet,on,week,Turn on the camera in the toilet.,Turning on the toilet camera week.
+camera,outside,on,tomorrow,Turn on the camera in the outside.,Turning on the outside camera tomorrow.
+camera,kitchen,none,tomorrow,Was there movement in the kitchen?,"Yes, movement was detected in the kitchen tomorrow."
+camera,basement,on,minute,Turn on the camera in the basement.,Turning on the basement camera minute.
+camera,backyard,on,day,Turn on the camera in the backyard.,Turning on the backyard camera day.
+camera,living room,none,day,Was there movement in the living room?,"Yes, movement was detected in the living room day."
+camera,basement,on,minute,Turn on the camera in the basement.,Turning on the basement camera minute.
+shutters,toilet,down,day,Lower the shutters in the toilet.,Lowering the shutters in the toilet day.
+shutters,none,none,yesterday,Don't touch the shutters in the none.,"Okay, I won’t touch the none shutters yesterday."
+shutters,toilet,none,day,Don't touch the shutters in the toilet.,"Okay, I won’t touch the toilet shutters day."
+shutters,toilet,none,yesterday,Don't touch the shutters in the toilet.,"Okay, I won’t touch the toilet shutters yesterday."
+shutters,basement,down,hour,Lower the shutters in the basement.,Lowering the shutters in the basement hour.
+shutters,living room,up,today,Raise the shutters in the living room.,Raising the shutters in the living room today.
+shutters,library,up,today,Raise the shutters in the library.,Raising the shutters in the library today.
+shutters,bathroom,none,minute,Don't touch the shutters in the bathroom.,"Okay, I won’t touch the bathroom shutters minute."
+shutters,kitchen,none,hour,Don't touch the shutters in the kitchen.,"Okay, I won’t touch the kitchen shutters hour."
+shutters,library,up,minute,Raise the shutters in the library.,Raising the shutters in the library minute.
+shutters,cellar,none,tomorrow,Don't touch the shutters in the cellar.,"Okay, I won’t touch the cellar shutters tomorrow."
+shutters,living room,down,now,Lower the shutters in the living room.,Lowering the shutters in the living room now.

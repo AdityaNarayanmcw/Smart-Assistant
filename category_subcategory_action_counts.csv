@@ -1,0 +1,202 @@
+Category,Subcategory,Action,Count
+Camera,all,on,8
+Camera,attic,none,10
+Camera,attic,on,10
+Camera,backyard,none,6
+Camera,backyard,on,9
+Camera,basement,none,10
+Camera,basement,on,6
+Camera,bathroom,none,9
+Camera,bathroom,on,10
+Camera,cellar,none,9
+Camera,cellar,on,9
+Camera,dining room,none,11
+Camera,kitchen,none,7
+Camera,kitchen,on,8
+Camera,library,none,10
+Camera,library,on,10
+Camera,living room,none,7
+Camera,living room,on,10
+Camera,none,none,5
+Camera,none,on,7
+Camera,outside,none,3
+Camera,outside,on,8
+Camera,toilet,on,8
+Lights,all,on,22
+Lights,attic,off,20
+Lights,attic,on,16
+Lights,basement,off,19
+Lights,basement,on,20
+Lights,bathroom,off,22
+Lights,bathroom,on,16
+Lights,cellar,off,19
+Lights,cellar,on,20
+Lights,dining room,none,23
+Lights,dining room,off,18
+Lights,dining room,on,16
+Lights,kitchen,none,22
+Lights,kitchen,off,18
+Lights,kitchen,on,16
+Lights,library,off,20
+Lights,library,on,20
+Lights,living room,off,22
+Lights,living room,on,20
+Lights,none,none,17
+Lights,none,off,20
+Lights,random,off,22
+Lights,random,on,21
+Lights,toilet,off,22
+Lights,toilet,on,19
+Music,Ambient,Check,4
+Music,Ambient,Play,4
+Music,Ambient,Stop,4
+Music,Artist,Check,4
+Music,Artist,Play,4
+Music,Device,Check,4
+Music,Device,Multi_room,4
+Music,Device,Switch_device,4
+Music,Device,Volume_sync,4
+Music,Equalizer,Adjust,4
+Music,Genre,Play,4
+Music,Multi_source,Check,4
+Music,Multi_source,Play,4
+Music,Multi_source,Sync,4
+Music,Playback,Check,4
+Music,Playback,Loop,4
+Music,Playback,Pause,4
+Music,Playback,Play,4
+Music,Playback,Previous,4
+Music,Playback,Repeat,4
+Music,Playback,Restart,4
+Music,Playback,Resume,4
+Music,Playback,Skip,4
+Music,Playback,Stop,4
+Music,Playback_speed,Adjust_speed,4
+Music,Playback_speed,Check,4
+Music,Playback_speed,Reset_speed,4
+Music,Playlist,Add_song,4
+Music,Playlist,Check,4
+Music,Playlist,Create,4
+Music,Playlist,Delete,4
+Music,Playlist,Remove_song,4
+Music,Playlist,Reorder,4
+Music,Playlist,Select_playlist,4
+Music,Playlist,Shuffle,4
+Music,Podcast,Play,4
+Music,Podcast,Skip,4
+Music,Power,Turn_off,4
+Music,Power,Turn_on,4
+Music,Queue,Add,4
+Music,Queue,Check,4
+Music,Queue,Clear,4
+Music,Radio,Play,4
+Music,Schedule,Cancel,4
+Music,Schedule,Check,4
+Music,Schedule,Play,4
+Music,Schedule,Stop,4
+Music,Sleep_timer,Check,4
+Music,Sleep_timer,Set,4
+Music,Song,Check,4
+Music,Song,Play,4
+Music,Source,Check,4
+Music,Source,Switch_source,4
+Music,Status,Check,4
+Music,Voice_control,Check,4
+Music,Voice_control,Disable,4
+Music,Voice_control,Enable,4
+Music,Volume,Adjust_volume,4
+Music,Volume,Check,4
+Music,Volume,Mute,4
+Music,Volume,Unmute,4
+Shutters,basement,down,1
+Shutters,basement,up,3
+Shutters,bathroom,down,3
+Shutters,bathroom,none,4
+Shutters,bathroom,up,4
+Shutters,cellar,down,4
+Shutters,cellar,none,4
+Shutters,cellar,up,4
+Shutters,kitchen,down,2
+Shutters,kitchen,none,3
+Shutters,kitchen,up,4
+Shutters,library,down,3
+Shutters,library,up,2
+Shutters,living room,down,3
+Shutters,living room,up,3
+Shutters,none,down,3
+Shutters,none,none,3
+Shutters,none,up,4
+Shutters,toilet,down,2
+Shutters,toilet,none,3
+Shutters,toilet,up,4
+camera,all,none,11
+camera,all,on,3
+camera,attic,none,1
+camera,attic,on,1
+camera,backyard,none,5
+camera,backyard,on,2
+camera,basement,none,1
+camera,basement,on,5
+camera,bathroom,none,2
+camera,bathroom,on,1
+camera,cellar,none,2
+camera,cellar,on,2
+camera,dining room,none,1
+camera,kitchen,none,4
+camera,kitchen,on,3
+camera,library,none,1
+camera,library,on,1
+camera,living room,none,4
+camera,living room,on,1
+camera,none,none,6
+camera,none,on,4
+camera,outside,none,8
+camera,outside,on,3
+camera,toilet,on,3
+lights,all,on,1
+lights,attic,off,3
+lights,attic,on,7
+lights,basement,off,4
+lights,basement,on,3
+lights,bathroom,off,1
+lights,bathroom,on,7
+lights,cellar,off,4
+lights,cellar,on,3
+lights,dining room,none,1
+lights,dining room,off,4
+lights,dining room,on,7
+lights,kitchen,none,1
+lights,kitchen,off,4
+lights,kitchen,on,7
+lights,library,off,3
+lights,library,on,3
+lights,living room,off,1
+lights,living room,on,3
+lights,none,none,6
+lights,none,off,3
+lights,none,on,23
+lights,random,off,1
+lights,random,on,2
+lights,toilet,off,1
+lights,toilet,on,4
+shutters,basement,down,5
+shutters,basement,up,2
+shutters,bathroom,down,2
+shutters,bathroom,none,1
+shutters,bathroom,up,1
+shutters,cellar,down,1
+shutters,cellar,none,1
+shutters,cellar,up,1
+shutters,kitchen,down,3
+shutters,kitchen,none,2
+shutters,kitchen,up,1
+shutters,library,down,2
+shutters,library,up,3
+shutters,living room,down,2
+shutters,living room,up,2
+shutters,none,down,2
+shutters,none,none,2
+shutters,none,up,1
+shutters,toilet,down,3
+shutters,toilet,none,2
+shutters,toilet,up,1
