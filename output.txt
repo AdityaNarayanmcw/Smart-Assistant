@@ -1,0 +1,3106 @@
+
+Memory Usage at After Clearing GPU Memory:
+  Allocated: 0.00 GiB
+  Reserved: 0.00 GiB
+  Free: 11.35 GiB
+  Total: 11.35 GiB
+
+Memory Usage at After Loading Base Model:
+  Allocated: 6.43 GiB
+  Reserved: 7.22 GiB
+  Free: 4.93 GiB
+  Total: 11.35 GiB
+
+Memory Usage at After Applying LoRA:
+  Allocated: 6.44 GiB
+  Reserved: 7.23 GiB
+  Free: 4.91 GiB
+  Total: 11.35 GiB
+{'loss': 3.9301, 'grad_norm': 3.4515719413757324, 'learning_rate': 9.947397563676634e-05, 'epoch': 0.04}
+{'loss': 1.7194, 'grad_norm': 2.266383647918701, 'learning_rate': 9.89202657807309e-05, 'epoch': 0.08}
+{'loss': 0.9758, 'grad_norm': 2.0073323249816895, 'learning_rate': 9.836655592469546e-05, 'epoch': 0.12}
+{'loss': 0.7844, 'grad_norm': 1.9304370880126953, 'learning_rate': 9.781284606866003e-05, 'epoch': 0.16}
+{'loss': 0.7937, 'grad_norm': 2.216482162475586, 'learning_rate': 9.725913621262459e-05, 'epoch': 0.19}
+{'loss': 0.7455, 'grad_norm': 1.9443726539611816, 'learning_rate': 9.670542635658916e-05, 'epoch': 0.23}
+{'loss': 0.7176, 'grad_norm': 2.1741225719451904, 'learning_rate': 9.615171650055371e-05, 'epoch': 0.27}
+{'loss': 0.6846, 'grad_norm': 1.6913899183273315, 'learning_rate': 9.559800664451828e-05, 'epoch': 0.31}
+{'loss': 0.6789, 'grad_norm': 2.0006723403930664, 'learning_rate': 9.504429678848285e-05, 'epoch': 0.35}
+{'loss': 0.6564, 'grad_norm': 1.7177202701568604, 'learning_rate': 9.44905869324474e-05, 'epoch': 0.39}
+{'loss': 0.6485, 'grad_norm': 1.741915225982666, 'learning_rate': 9.393687707641196e-05, 'epoch': 0.43}
+{'loss': 0.6457, 'grad_norm': 2.1153812408447266, 'learning_rate': 9.338316722037653e-05, 'epoch': 0.47}
+{'loss': 0.6058, 'grad_norm': 1.4001370668411255, 'learning_rate': 9.282945736434109e-05, 'epoch': 0.5}
+{'loss': 0.6029, 'grad_norm': 1.2658203840255737, 'learning_rate': 9.227574750830565e-05, 'epoch': 0.54}
+{'loss': 0.615, 'grad_norm': 1.5654075145721436, 'learning_rate': 9.17220376522702e-05, 'epoch': 0.58}
+{'loss': 0.5807, 'grad_norm': 1.6708396673202515, 'learning_rate': 9.116832779623478e-05, 'epoch': 0.62}
+{'loss': 0.5908, 'grad_norm': 1.6385905742645264, 'learning_rate': 9.061461794019935e-05, 'epoch': 0.66}
+{'loss': 0.5882, 'grad_norm': 1.6683686971664429, 'learning_rate': 9.00609080841639e-05, 'epoch': 0.7}
+{'loss': 0.5974, 'grad_norm': 1.8027489185333252, 'learning_rate': 8.950719822812846e-05, 'epoch': 0.74}
+{'loss': 0.5733, 'grad_norm': 1.6380324363708496, 'learning_rate': 8.895348837209302e-05, 'epoch': 0.78}
+{'loss': 0.5554, 'grad_norm': 1.5127347707748413, 'learning_rate': 8.839977851605759e-05, 'epoch': 0.81}
+{'loss': 0.5507, 'grad_norm': 1.5098804235458374, 'learning_rate': 8.784606866002215e-05, 'epoch': 0.85}
+{'loss': 0.5311, 'grad_norm': 1.4545409679412842, 'learning_rate': 8.729235880398672e-05, 'epoch': 0.89}
+{'loss': 0.516, 'grad_norm': 1.7702796459197998, 'learning_rate': 8.673864894795128e-05, 'epoch': 0.93}
+{'loss': 0.5174, 'grad_norm': 2.0313448905944824, 'learning_rate': 8.618493909191584e-05, 'epoch': 0.97}
+{'eval_loss': 0.46319741010665894, 'eval_runtime': 19.9436, 'eval_samples_per_second': 23.015, 'eval_steps_per_second': 11.533, 'epoch': 1.0}
+{'loss': 0.4885, 'grad_norm': 2.2276980876922607, 'learning_rate': 8.563122923588041e-05, 'epoch': 1.01}
+{'loss': 0.4247, 'grad_norm': 1.666411280632019, 'learning_rate': 8.507751937984496e-05, 'epoch': 1.05}
+{'loss': 0.3706, 'grad_norm': 2.253377914428711, 'learning_rate': 8.452380952380952e-05, 'epoch': 1.09}
+{'loss': 0.339, 'grad_norm': 1.4609826803207397, 'learning_rate': 8.39700996677741e-05, 'epoch': 1.12}
+{'loss': 0.3389, 'grad_norm': 1.8225808143615723, 'learning_rate': 8.341638981173865e-05, 'epoch': 1.16}
+{'loss': 0.3615, 'grad_norm': 1.923717737197876, 'learning_rate': 8.286267995570321e-05, 'epoch': 1.2}
+{'loss': 0.347, 'grad_norm': 1.4815163612365723, 'learning_rate': 8.230897009966778e-05, 'epoch': 1.24}
+{'loss': 0.3529, 'grad_norm': 1.5545275211334229, 'learning_rate': 8.175526024363234e-05, 'epoch': 1.28}
+{'loss': 0.3332, 'grad_norm': 1.5469290018081665, 'learning_rate': 8.12015503875969e-05, 'epoch': 1.32}
+{'loss': 0.3486, 'grad_norm': 1.5319159030914307, 'learning_rate': 8.064784053156147e-05, 'epoch': 1.36}
+{'loss': 0.3572, 'grad_norm': 1.3987845182418823, 'learning_rate': 8.009413067552602e-05, 'epoch': 1.4}
+{'loss': 0.332, 'grad_norm': 1.8558638095855713, 'learning_rate': 7.95404208194906e-05, 'epoch': 1.43}
+{'loss': 0.3399, 'grad_norm': 1.6589823961257935, 'learning_rate': 7.898671096345516e-05, 'epoch': 1.47}
+{'loss': 0.3458, 'grad_norm': 1.9078396558761597, 'learning_rate': 7.843300110741971e-05, 'epoch': 1.51}
+{'loss': 0.3256, 'grad_norm': 1.7434172630310059, 'learning_rate': 7.787929125138427e-05, 'epoch': 1.55}
+{'loss': 0.3269, 'grad_norm': 1.5469167232513428, 'learning_rate': 7.732558139534884e-05, 'epoch': 1.59}
+{'loss': 0.3379, 'grad_norm': 1.4572298526763916, 'learning_rate': 7.67718715393134e-05, 'epoch': 1.63}
+{'loss': 0.322, 'grad_norm': 2.1257810592651367, 'learning_rate': 7.621816168327797e-05, 'epoch': 1.67}
+{'loss': 0.3412, 'grad_norm': 1.7338978052139282, 'learning_rate': 7.566445182724253e-05, 'epoch': 1.71}
+{'loss': 0.3427, 'grad_norm': 1.6577397584915161, 'learning_rate': 7.51107419712071e-05, 'epoch': 1.74}
+{'loss': 0.3592, 'grad_norm': 1.2715332508087158, 'learning_rate': 7.455703211517166e-05, 'epoch': 1.78}
+{'loss': 0.3189, 'grad_norm': 1.9276034832000732, 'learning_rate': 7.400332225913622e-05, 'epoch': 1.82}
+{'loss': 0.3342, 'grad_norm': 1.5401804447174072, 'learning_rate': 7.344961240310077e-05, 'epoch': 1.86}
+{'loss': 0.3241, 'grad_norm': 1.725773811340332, 'learning_rate': 7.289590254706534e-05, 'epoch': 1.9}
+{'loss': 0.3279, 'grad_norm': 1.8766452074050903, 'learning_rate': 7.234219269102991e-05, 'epoch': 1.94}
+{'loss': 0.3415, 'grad_norm': 1.5572389364242554, 'learning_rate': 7.178848283499446e-05, 'epoch': 1.98}
+{'eval_loss': 0.32549387216567993, 'eval_runtime': 19.9435, 'eval_samples_per_second': 23.015, 'eval_steps_per_second': 11.533, 'epoch': 2.0}
+{'loss': 0.3204, 'grad_norm': 1.3230814933776855, 'learning_rate': 7.123477297895903e-05, 'epoch': 2.02}
+{'loss': 0.3365, 'grad_norm': 1.6750630140304565, 'learning_rate': 7.068106312292359e-05, 'epoch': 2.05}
+{'loss': 0.3178, 'grad_norm': 1.622187614440918, 'learning_rate': 7.012735326688816e-05, 'epoch': 2.09}
+{'loss': 0.3041, 'grad_norm': 1.8198621273040771, 'learning_rate': 6.957364341085272e-05, 'epoch': 2.13}
+{'loss': 0.3125, 'grad_norm': 1.6617350578308105, 'learning_rate': 6.901993355481728e-05, 'epoch': 2.17}
+{'loss': 0.3095, 'grad_norm': 1.3802608251571655, 'learning_rate': 6.846622369878183e-05, 'epoch': 2.21}
+{'loss': 0.3082, 'grad_norm': 1.487305998802185, 'learning_rate': 6.791251384274641e-05, 'epoch': 2.25}
+{'loss': 0.323, 'grad_norm': 1.5231828689575195, 'learning_rate': 6.735880398671098e-05, 'epoch': 2.29}
+{'loss': 0.3201, 'grad_norm': 1.5291061401367188, 'learning_rate': 6.680509413067553e-05, 'epoch': 2.33}
+{'loss': 0.303, 'grad_norm': 1.3771153688430786, 'learning_rate': 6.625138427464009e-05, 'epoch': 2.36}
+{'loss': 0.3173, 'grad_norm': 2.0621862411499023, 'learning_rate': 6.569767441860465e-05, 'epoch': 2.4}
+{'loss': 0.3125, 'grad_norm': 1.5265337228775024, 'learning_rate': 6.514396456256922e-05, 'epoch': 2.44}
+{'loss': 0.3113, 'grad_norm': 1.4837336540222168, 'learning_rate': 6.459025470653378e-05, 'epoch': 2.48}
+{'loss': 0.2972, 'grad_norm': 1.6234663724899292, 'learning_rate': 6.403654485049833e-05, 'epoch': 2.52}
+{'loss': 0.3142, 'grad_norm': 1.3458398580551147, 'learning_rate': 6.348283499446291e-05, 'epoch': 2.56}
+{'loss': 0.3129, 'grad_norm': 2.0568184852600098, 'learning_rate': 6.292912513842747e-05, 'epoch': 2.6}
+{'loss': 0.3021, 'grad_norm': 1.4809798002243042, 'learning_rate': 6.237541528239202e-05, 'epoch': 2.64}
+{'loss': 0.324, 'grad_norm': 1.3404953479766846, 'learning_rate': 6.182170542635659e-05, 'epoch': 2.68}
+{'loss': 0.3052, 'grad_norm': 1.7952299118041992, 'learning_rate': 6.126799557032115e-05, 'epoch': 2.71}
+{'loss': 0.2964, 'grad_norm': 1.6205577850341797, 'learning_rate': 6.0714285714285715e-05, 'epoch': 2.75}
+{'loss': 0.3063, 'grad_norm': 1.5202782154083252, 'learning_rate': 6.016057585825028e-05, 'epoch': 2.79}
+{'loss': 0.3123, 'grad_norm': 1.9563233852386475, 'learning_rate': 5.960686600221484e-05, 'epoch': 2.83}
+{'loss': 0.3, 'grad_norm': 1.7865265607833862, 'learning_rate': 5.90531561461794e-05, 'epoch': 2.87}
+{'loss': 0.3003, 'grad_norm': 1.484687328338623, 'learning_rate': 5.8499446290143964e-05, 'epoch': 2.91}
+{'loss': 0.3014, 'grad_norm': 2.0121593475341797, 'learning_rate': 5.7945736434108534e-05, 'epoch': 2.95}
+{'loss': 0.3112, 'grad_norm': 1.5024076700210571, 'learning_rate': 5.739202657807309e-05, 'epoch': 2.99}
+{'eval_loss': 0.3122047185897827, 'eval_runtime': 19.9449, 'eval_samples_per_second': 23.013, 'eval_steps_per_second': 11.532, 'epoch': 3.0}
+{'loss': 0.3166, 'grad_norm': 1.750400185585022, 'learning_rate': 5.6838316722037655e-05, 'epoch': 3.02}
+{'loss': 0.2807, 'grad_norm': 1.8000637292861938, 'learning_rate': 5.628460686600222e-05, 'epoch': 3.06}
+{'loss': 0.283, 'grad_norm': 1.5805325508117676, 'learning_rate': 5.5730897009966776e-05, 'epoch': 3.1}
+{'loss': 0.2955, 'grad_norm': 1.6768853664398193, 'learning_rate': 5.517718715393134e-05, 'epoch': 3.14}
+{'loss': 0.2855, 'grad_norm': 1.5701866149902344, 'learning_rate': 5.462347729789591e-05, 'epoch': 3.18}
+{'loss': 0.2957, 'grad_norm': 1.6313371658325195, 'learning_rate': 5.406976744186046e-05, 'epoch': 3.22}
+{'loss': 0.3128, 'grad_norm': 1.59086275100708, 'learning_rate': 5.351605758582503e-05, 'epoch': 3.26}
+{'loss': 0.2932, 'grad_norm': 1.4626575708389282, 'learning_rate': 5.2962347729789596e-05, 'epoch': 3.29}
+{'loss': 0.2976, 'grad_norm': 1.8804340362548828, 'learning_rate': 5.240863787375415e-05, 'epoch': 3.33}
+{'loss': 0.2949, 'grad_norm': 1.8765991926193237, 'learning_rate': 5.185492801771872e-05, 'epoch': 3.37}
+{'loss': 0.2983, 'grad_norm': 1.5096371173858643, 'learning_rate': 5.130121816168329e-05, 'epoch': 3.41}
+{'loss': 0.2849, 'grad_norm': 1.624974012374878, 'learning_rate': 5.074750830564784e-05, 'epoch': 3.45}
+{'loss': 0.2903, 'grad_norm': 1.3648381233215332, 'learning_rate': 5.019379844961241e-05, 'epoch': 3.49}
+{'loss': 0.2922, 'grad_norm': 1.8226959705352783, 'learning_rate': 4.9640088593576966e-05, 'epoch': 3.53}
+{'loss': 0.294, 'grad_norm': 1.8503164052963257, 'learning_rate': 4.9086378737541536e-05, 'epoch': 3.57}
+{'loss': 0.2936, 'grad_norm': 1.9296185970306396, 'learning_rate': 4.853266888150609e-05, 'epoch': 3.61}
+{'loss': 0.3065, 'grad_norm': 1.4964935779571533, 'learning_rate': 4.797895902547066e-05, 'epoch': 3.64}
+{'loss': 0.2862, 'grad_norm': 2.3478446006774902, 'learning_rate': 4.742524916943522e-05, 'epoch': 3.68}
+{'loss': 0.2864, 'grad_norm': 1.5905903577804565, 'learning_rate': 4.687153931339978e-05, 'epoch': 3.72}
+{'loss': 0.2832, 'grad_norm': 1.3479083776474, 'learning_rate': 4.631782945736434e-05, 'epoch': 3.76}
+{'loss': 0.2975, 'grad_norm': 1.9166922569274902, 'learning_rate': 4.5764119601328906e-05, 'epoch': 3.8}
+{'loss': 0.2907, 'grad_norm': 1.7118182182312012, 'learning_rate': 4.521040974529347e-05, 'epoch': 3.84}
+{'loss': 0.2963, 'grad_norm': 1.7532963752746582, 'learning_rate': 4.465669988925803e-05, 'epoch': 3.88}
+{'loss': 0.2751, 'grad_norm': 1.6150151491165161, 'learning_rate': 4.410299003322259e-05, 'epoch': 3.92}
+{'loss': 0.2972, 'grad_norm': 1.8211289644241333, 'learning_rate': 4.3549280177187155e-05, 'epoch': 3.95}
+{'loss': 0.2903, 'grad_norm': 2.455794095993042, 'learning_rate': 4.299557032115172e-05, 'epoch': 3.99}
+{'eval_loss': 0.3040972054004669, 'eval_runtime': 19.9443, 'eval_samples_per_second': 23.014, 'eval_steps_per_second': 11.532, 'epoch': 4.0}
+{'loss': 0.275, 'grad_norm': 1.5673716068267822, 'learning_rate': 4.2441860465116276e-05, 'epoch': 4.03}
+{'loss': 0.2715, 'grad_norm': 1.8092011213302612, 'learning_rate': 4.1888150609080846e-05, 'epoch': 4.07}
+{'loss': 0.2725, 'grad_norm': 1.5679922103881836, 'learning_rate': 4.1334440753045404e-05, 'epoch': 4.11}
+{'loss': 0.2873, 'grad_norm': 1.5703378915786743, 'learning_rate': 4.078073089700997e-05, 'epoch': 4.15}
+{'loss': 0.2687, 'grad_norm': 2.298922061920166, 'learning_rate': 4.022702104097453e-05, 'epoch': 4.19}
+{'loss': 0.267, 'grad_norm': 1.642804741859436, 'learning_rate': 3.9673311184939095e-05, 'epoch': 4.23}
+{'loss': 0.278, 'grad_norm': 1.380547046661377, 'learning_rate': 3.911960132890365e-05, 'epoch': 4.26}
+{'loss': 0.2697, 'grad_norm': 1.6902618408203125, 'learning_rate': 3.856589147286822e-05, 'epoch': 4.3}
+{'loss': 0.28, 'grad_norm': 1.4874401092529297, 'learning_rate': 3.801218161683278e-05, 'epoch': 4.34}
+{'loss': 0.2913, 'grad_norm': 2.3534297943115234, 'learning_rate': 3.7458471760797344e-05, 'epoch': 4.38}
+{'loss': 0.2625, 'grad_norm': 1.5346248149871826, 'learning_rate': 3.690476190476191e-05, 'epoch': 4.42}
+{'loss': 0.2917, 'grad_norm': 1.5383343696594238, 'learning_rate': 3.635105204872647e-05, 'epoch': 4.46}
+{'loss': 0.2979, 'grad_norm': 1.3972160816192627, 'learning_rate': 3.579734219269103e-05, 'epoch': 4.5}
+{'loss': 0.2715, 'grad_norm': 2.2480764389038086, 'learning_rate': 3.52436323366556e-05, 'epoch': 4.54}
+{'loss': 0.2816, 'grad_norm': 2.10311222076416, 'learning_rate': 3.468992248062016e-05, 'epoch': 4.57}
+{'loss': 0.3032, 'grad_norm': 1.7491837739944458, 'learning_rate': 3.413621262458472e-05, 'epoch': 4.61}
+{'loss': 0.2857, 'grad_norm': 1.9817237854003906, 'learning_rate': 3.3582502768549285e-05, 'epoch': 4.65}
+{'loss': 0.2776, 'grad_norm': 1.4405760765075684, 'learning_rate': 3.302879291251385e-05, 'epoch': 4.69}
+{'loss': 0.2606, 'grad_norm': 1.8360974788665771, 'learning_rate': 3.2475083056478406e-05, 'epoch': 4.73}
+{'loss': 0.2821, 'grad_norm': 1.8022756576538086, 'learning_rate': 3.192137320044297e-05, 'epoch': 4.77}
+{'loss': 0.2787, 'grad_norm': 2.3055410385131836, 'learning_rate': 3.136766334440753e-05, 'epoch': 4.81}
+{'loss': 0.2694, 'grad_norm': 1.8339594602584839, 'learning_rate': 3.081395348837209e-05, 'epoch': 4.85}
+{'loss': 0.2746, 'grad_norm': 1.6798394918441772, 'learning_rate': 3.0260243632336654e-05, 'epoch': 4.88}
+{'loss': 0.2927, 'grad_norm': 1.669919490814209, 'learning_rate': 2.970653377630122e-05, 'epoch': 4.92}
+{'loss': 0.2834, 'grad_norm': 1.9375663995742798, 'learning_rate': 2.9152823920265782e-05, 'epoch': 4.96}
+{'loss': 0.264, 'grad_norm': 2.094762086868286, 'learning_rate': 2.8599114064230343e-05, 'epoch': 5.0}
+{'eval_loss': 0.29827743768692017, 'eval_runtime': 19.9384, 'eval_samples_per_second': 23.021, 'eval_steps_per_second': 11.536, 'epoch': 5.0}
+{'loss': 0.274, 'grad_norm': 1.857050895690918, 'learning_rate': 2.804540420819491e-05, 'epoch': 5.04}
+{'loss': 0.2796, 'grad_norm': 1.822882056236267, 'learning_rate': 2.749169435215947e-05, 'epoch': 5.08}
+{'loss': 0.2686, 'grad_norm': 1.6423866748809814, 'learning_rate': 2.693798449612403e-05, 'epoch': 5.12}
+{'loss': 0.2653, 'grad_norm': 2.3549230098724365, 'learning_rate': 2.6384274640088595e-05, 'epoch': 5.16}
+{'loss': 0.2698, 'grad_norm': 1.8742951154708862, 'learning_rate': 2.583056478405316e-05, 'epoch': 5.19}
+{'loss': 0.2713, 'grad_norm': 1.70578932762146, 'learning_rate': 2.527685492801772e-05, 'epoch': 5.23}
+{'loss': 0.2734, 'grad_norm': 1.7160779237747192, 'learning_rate': 2.4723145071982283e-05, 'epoch': 5.27}
+{'loss': 0.2729, 'grad_norm': 1.7535512447357178, 'learning_rate': 2.4169435215946844e-05, 'epoch': 5.31}
+{'loss': 0.2735, 'grad_norm': 1.712807536125183, 'learning_rate': 2.3615725359911408e-05, 'epoch': 5.35}
+{'loss': 0.2679, 'grad_norm': 2.2942709922790527, 'learning_rate': 2.3062015503875968e-05, 'epoch': 5.39}
+{'loss': 0.2598, 'grad_norm': 1.7564008235931396, 'learning_rate': 2.2508305647840532e-05, 'epoch': 5.43}
+{'loss': 0.2627, 'grad_norm': 1.7157646417617798, 'learning_rate': 2.1954595791805096e-05, 'epoch': 5.47}
+{'loss': 0.2718, 'grad_norm': 1.7243503332138062, 'learning_rate': 2.1400885935769656e-05, 'epoch': 5.5}
+{'loss': 0.2833, 'grad_norm': 2.0589945316314697, 'learning_rate': 2.084717607973422e-05, 'epoch': 5.54}
+{'loss': 0.2697, 'grad_norm': 1.618424654006958, 'learning_rate': 2.029346622369878e-05, 'epoch': 5.58}
+{'loss': 0.2744, 'grad_norm': 2.081120729446411, 'learning_rate': 1.9739756367663345e-05, 'epoch': 5.62}
+{'loss': 0.2641, 'grad_norm': 1.9440948963165283, 'learning_rate': 1.918604651162791e-05, 'epoch': 5.66}
+{'loss': 0.2592, 'grad_norm': 2.359866142272949, 'learning_rate': 1.863233665559247e-05, 'epoch': 5.7}
+{'loss': 0.2738, 'grad_norm': 1.859697937965393, 'learning_rate': 1.8078626799557033e-05, 'epoch': 5.74}
+{'loss': 0.2538, 'grad_norm': 1.5450409650802612, 'learning_rate': 1.7524916943521597e-05, 'epoch': 5.78}
+{'loss': 0.2647, 'grad_norm': 2.076983690261841, 'learning_rate': 1.6971207087486157e-05, 'epoch': 5.81}
+{'loss': 0.2546, 'grad_norm': 2.048391342163086, 'learning_rate': 1.641749723145072e-05, 'epoch': 5.85}
+{'loss': 0.2656, 'grad_norm': 1.9917200803756714, 'learning_rate': 1.5863787375415285e-05, 'epoch': 5.89}
+{'loss': 0.2544, 'grad_norm': 1.6179685592651367, 'learning_rate': 1.5310077519379846e-05, 'epoch': 5.93}
+{'loss': 0.2585, 'grad_norm': 2.423096179962158, 'learning_rate': 1.475636766334441e-05, 'epoch': 5.97}
+{'eval_loss': 0.29677173495292664, 'eval_runtime': 19.9361, 'eval_samples_per_second': 23.024, 'eval_steps_per_second': 11.537, 'epoch': 6.0}
+{'loss': 0.2532, 'grad_norm': 1.8921328783035278, 'learning_rate': 1.420265780730897e-05, 'epoch': 6.01}
+{'loss': 0.2558, 'grad_norm': 2.229633331298828, 'learning_rate': 1.3648947951273532e-05, 'epoch': 6.05}
+{'loss': 0.2557, 'grad_norm': 1.8378190994262695, 'learning_rate': 1.3095238095238096e-05, 'epoch': 6.09}
+{'loss': 0.2601, 'grad_norm': 2.100985527038574, 'learning_rate': 1.2541528239202657e-05, 'epoch': 6.12}
+{'loss': 0.2607, 'grad_norm': 1.5633518695831299, 'learning_rate': 1.198781838316722e-05, 'epoch': 6.16}
+{'loss': 0.2658, 'grad_norm': 1.5931864976882935, 'learning_rate': 1.1434108527131783e-05, 'epoch': 6.2}
+{'loss': 0.2656, 'grad_norm': 1.908142328262329, 'learning_rate': 1.0880398671096347e-05, 'epoch': 6.24}
+{'loss': 0.2616, 'grad_norm': 1.7019773721694946, 'learning_rate': 1.0326688815060909e-05, 'epoch': 6.28}
+{'loss': 0.2781, 'grad_norm': 2.0713329315185547, 'learning_rate': 9.772978959025471e-06, 'epoch': 6.32}
+{'loss': 0.2513, 'grad_norm': 1.615563154220581, 'learning_rate': 9.219269102990033e-06, 'epoch': 6.36}
+{'loss': 0.2549, 'grad_norm': 1.912036657333374, 'learning_rate': 8.665559246954597e-06, 'epoch': 6.4}
+{'loss': 0.2612, 'grad_norm': 1.6774269342422485, 'learning_rate': 8.11184939091916e-06, 'epoch': 6.43}
+{'loss': 0.2584, 'grad_norm': 2.2726988792419434, 'learning_rate': 7.558139534883721e-06, 'epoch': 6.47}
+{'loss': 0.2591, 'grad_norm': 1.759427785873413, 'learning_rate': 7.0044296788482845e-06, 'epoch': 6.51}
+{'loss': 0.2559, 'grad_norm': 1.771435022354126, 'learning_rate': 6.450719822812847e-06, 'epoch': 6.55}
+{'loss': 0.256, 'grad_norm': 1.8536596298217773, 'learning_rate': 5.897009966777409e-06, 'epoch': 6.59}
+{'loss': 0.264, 'grad_norm': 1.4830536842346191, 'learning_rate': 5.343300110741971e-06, 'epoch': 6.63}
+{'loss': 0.2523, 'grad_norm': 1.490607500076294, 'learning_rate': 4.789590254706533e-06, 'epoch': 6.67}
+{'loss': 0.2573, 'grad_norm': 2.0043234825134277, 'learning_rate': 4.235880398671096e-06, 'epoch': 6.71}
+{'loss': 0.2604, 'grad_norm': 1.9544789791107178, 'learning_rate': 3.6821705426356594e-06, 'epoch': 6.74}
+{'loss': 0.258, 'grad_norm': 2.0533411502838135, 'learning_rate': 3.1284606866002216e-06, 'epoch': 6.78}
+{'loss': 0.2601, 'grad_norm': 2.049853801727295, 'learning_rate': 2.5747508305647842e-06, 'epoch': 6.82}
+{'loss': 0.2446, 'grad_norm': 2.2803122997283936, 'learning_rate': 2.021040974529347e-06, 'epoch': 6.86}
+{'loss': 0.2466, 'grad_norm': 1.974682092666626, 'learning_rate': 1.4673311184939093e-06, 'epoch': 6.9}
+{'loss': 0.2559, 'grad_norm': 1.4917097091674805, 'learning_rate': 9.136212624584719e-07, 'epoch': 6.94}
+{'loss': 0.2515, 'grad_norm': 2.1329987049102783, 'learning_rate': 3.5991140642303437e-07, 'epoch': 6.98}
+{'eval_loss': 0.29566529393196106, 'eval_runtime': 19.9359, 'eval_samples_per_second': 23.024, 'eval_steps_per_second': 11.537, 'epoch': 7.0}
+{'train_runtime': 3528.3415, 'train_samples_per_second': 8.182, 'train_steps_per_second': 1.024, 'train_loss': 0.36527095291173606, 'epoch': 7.0}
+Input: Category: music, Subcategory: queue, Action: add, Sentence: Insert track in queue at 7 PM
+Expected: Song will be added to queue at 7 PM.
+Generated: 1 track will be added to the queue in one hour
+ROUGE-L Score: 50.00%
+BERTScore: 93.06%
+
+Input: Category: music, Subcategory: power, Action: turnon, Sentence: Switch on music tonight
+Expected: Music switched on tonight.
+Generated: music powered tonight.
+ROUGE-L Score: 57.14%
+BERTScore: 91.86%
+
+Input: Category: music, Subcategory: playlist, Action: create, Sentence: Initiate new playlist
+Expected: New playlist initiated
+Generated: New playlist initiated.
+ROUGE-L Score: 100.00%
+BERTScore: 97.98%
+
+Input: Category: camera, Subcategory: library, Action: on, Sentence: Launch camera now
+Expected: Camera launched now
+Generated: Camera launched now in library.
+ROUGE-L Score: 75.00%
+BERTScore: 95.22%
+
+Input: Category: shutters, Subcategory: kitchen, Action: up, Sentence: Elevate kitchen blinds
+Expected: Blinds elevated
+Generated: Blinds elevated in the kitchen
+ROUGE-L Score: 57.14%
+BERTScore: 93.95%
+
+Input: Category: camera, Subcategory: toilet, Action: on, Sentence: Reactivate toilet camera
+Expected: Toilet camera reactivated
+Generated: Toilet camera reactivated.
+ROUGE-L Score: 100.00%
+BERTScore: 98.00%
+
+Input: Category: lights, Subcategory: basement, Action: on, Sentence: Enable basement lights "next Monday, June 9"
+Expected: Basement lights will be turned on next Monday.
+Generated: Basement lights will be turned on next Monday.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: shutters, Subcategory: cellar, Action: statusquery, Sentence: Observe cellar shades status
+Expected: Shades status observed
+Generated: Shades status observed.
+ROUGE-L Score: 100.00%
+BERTScore: 99.06%
+
+Input: Category: camera, Subcategory: toilet, Action: on, Sentence: Enable toilet camera at six o'clock
+Expected: Toilet camera will be turned on at six o'clock.
+Generated: Toilet camera will be turned on at 6:00 PM.
+ROUGE-L Score: 70.00%
+BERTScore: 96.33%
+
+Input: Category: camera, Subcategory: all, Action: statusquery, Sentence: Analyze all camera performance
+Expected: Performance analyzed
+Generated: Performance analyzed for all cameras.
+ROUGE-L Score: 57.14%
+BERTScore: 90.55%
+
+Input: Category: lights, Subcategory: bathroom, Action: off, Sentence: Stop bathroom lighting
+Expected: Bathroom lighting stopped
+Generated: Bathroom lighting stopped.
+ROUGE-L Score: 100.00%
+BERTScore: 97.08%
+
+Input: Category: music, Subcategory: power, Action: turnon, Sentence: Power on music system at 8 AM
+Expected: Player will power up at 8 AM.
+Generated: Music system will power on at eight.
+ROUGE-L Score: 42.86%
+BERTScore: 94.71%
+
+Input: Category: music, Subcategory: schedule, Action: stop, Sentence: Deactivate schedule now
+Expected: Schedule deactivated now
+Generated: Schedule deactivated now.
+ROUGE-L Score: 100.00%
+BERTScore: 99.15%
+
+Input: Category: music, Subcategory: playlist, Action: reorder, Sentence: Change track order after 1 hour
+Expected: Track order will change after 1 hour. 
+Generated: Playlist will reorder after one hour.
+ROUGE-L Score: 46.15%
+BERTScore: 92.06%
+
+Input: Category: music, Subcategory: artist, Action: check, Sentence: Is the artist playing live?
+Expected: Artist is playing live now.
+Generated: The artist is performing live
+ROUGE-L Score: 60.00%
+BERTScore: 85.15%
+
+Input: Category: lights, Subcategory: living room, Action: on, Sentence: Turn on living room lights at eight o'clock
+Expected: Living room lights will be turned on at eight o'clock.
+Generated: Living-room lights will be turned on at 8:00.
+ROUGE-L Score: 76.19%
+BERTScore: 95.24%
+
+Input: Category: lights, Subcategory: bathroom, Action: on, Sentence: Light up bathroom
+Expected: Bathroom lit up
+Generated: Bathroom lit up.
+ROUGE-L Score: 100.00%
+BERTScore: 96.06%
+
+Input: Category: lights, Subcategory: cellar, Action: on, Sentence: Can you make it less dark in the cellar in 85 minutes?
+Expected: Brightening the cellar in 85 minutes.
+Generated: Brightening the cellar now
+ROUGE-L Score: 60.00%
+BERTScore: 93.03%
+
+Input: Category: music, Subcategory: podcast, Action: skip, Sentence: Advance to next episode immediately
+Expected: Next episode advanced immediately
+Generated: Next episode advanced immediately.
+ROUGE-L Score: 100.00%
+BERTScore: 99.21%
+
+Input: Category: shutters, Subcategory: bathroom, Action: down, Sentence: Lower blinds after 15 minutes
+Expected: Blinds will be lowered after 15 minutes.
+Generated: Blinds will be lowered shortly
+ROUGE-L Score: 66.67%
+BERTScore: 93.65%
+
+Input: Category: music, Subcategory: none, Action: off, Sentence: Halt all playback at 9 PM
+Expected: All music will be turned off at 9 PM.
+Generated: All playback will be turned off at nine PM.
+ROUGE-L Score: 77.78%
+BERTScore: 90.71%
+
+Input: Category: lights, Subcategory: none, Action: on, Sentence: Turn on all lights at seven o'clock
+Expected: All lights will be turned on at seven o'clock.
+Generated: All lights will be turned on at 07:00.
+ROUGE-L Score: 73.68%
+BERTScore: 95.92%
+
+Input: Category: shutters, Subcategory: kitchen, Action: up, Sentence: Open shutters immediately
+Expected: Shutters opened immediately
+Generated: Shutters opened immediately.
+ROUGE-L Score: 100.00%
+BERTScore: 98.08%
+
+Input: Category: camera, Subcategory: kitchen, Action: statusquery, Sentence: Was there movement in the kitchen?
+Expected: Yes, movement was detected in the kitchen minute.
+Generated: Yes there was movement detected.
+ROUGE-L Score: 46.15%
+BERTScore: 93.41%
+
+Input: Category: shutters, Subcategory: cellar, Action: down, Sentence: Close cellar shutters
+Expected: Cellar shutters closed
+Generated: Shutters closed in the cellar.
+ROUGE-L Score: 50.00%
+BERTScore: 86.99%
+
+Input: Category: music, Subcategory: playback, Action: check, Sentence: Is music playing in the background?
+Expected: Music is playing in the background.
+Generated: Background music detected.
+ROUGE-L Score: 22.22%
+BERTScore: 90.94%
+
+Input: Category: camera, Subcategory: kitchen, Action: on, Sentence: Begin kitchen camera feed
+Expected: Feed begun
+Generated: kitchen feed begun.
+ROUGE-L Score: 80.00%
+BERTScore: 91.71%
+
+Input: Category: music, Subcategory: volume, Action: adjustvolume, Sentence: Adjust volume "this evening, 8 PM"
+Expected: Volume will be adjusted this evening.
+Generated: Volume will be adjusted this evening.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: lights, Subcategory: library, Action: on, Sentence: Enable all library lights
+Expected: All library lights enabled
+Generated: Library lights enabled.
+ROUGE-L Score: 85.71%
+BERTScore: 94.86%
+
+Input: Category: music, Subcategory: power, Action: turnon, Sentence: Activate music system now
+Expected: Player powered up now.
+Generated: Music system activated now.
+ROUGE-L Score: 25.00%
+BERTScore: 89.47%
+
+Input: Category: shutters, Subcategory: none, Action: down, Sentence: Close all shutters
+Expected: All shutters closed
+Generated: Shutters closed.
+ROUGE-L Score: 80.00%
+BERTScore: 89.42%
+
+Input: Category: camera, Subcategory: living room, Action: statusquery, Sentence: Observe living room camera operations
+Expected: Living room camera operations observed.
+Generated: Living room operations observed.
+ROUGE-L Score: 88.89%
+BERTScore: 97.64%
+
+Input: Category: music, Subcategory: multisource, Action: check, Sentence: List music sources
+Expected: Sources displayed.
+Generated: Sources listed.
+ROUGE-L Score: 50.00%
+BERTScore: 95.83%
+
+Input: Category: camera, Subcategory: library, Action: statusquery, Sentence: Examine library camera condition
+Expected: Library camera status examined.
+Generated: Library condition examined.
+ROUGE-L Score: 57.14%
+BERTScore: 94.44%
+
+Input: Category: music, Subcategory: power, Action: turnoff, Sentence: Turn off power in one hour
+Expected: Power will be turned off in one hour.
+Generated: Power will be turned off in 1 hour.
+ROUGE-L Score: 87.50%
+BERTScore: 99.22%
+
+Input: Category: music, Subcategory: source, Action: check, Sentence: Observe source status
+Expected: Source status observed
+Generated: Source status observed
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: lights, Subcategory: dining room, Action: on, Sentence: Switch on dining lights next Friday
+Expected: Dining lights will activate next Friday
+Generated: Dining room lights will be turned on next friday.
+ROUGE-L Score: 66.67%
+BERTScore: 93.74%
+
+Input: Category: lights, Subcategory: bathroom, Action: on, Sentence: Turn on bathroom lights at seven o'clock
+Expected: Bathroom lights will be turned on at seven o'clock.
+Generated: Bathroom lights scheduled to turn on at 7:00 PM.
+ROUGE-L Score: 50.00%
+BERTScore: 94.51%
+
+Input: Category: lights, Subcategory: attic, Action: on, Sentence: Activate attic lights
+Expected: Attic lights activated
+Generated: Attic lights activated.
+ROUGE-L Score: 100.00%
+BERTScore: 99.41%
+
+Input: Category: music, Subcategory: status, Action: check, Sentence: Check status after 15 minutes
+Expected: Status will be checked after 15 minutes.
+Generated: music status will be reviewed then.
+ROUGE-L Score: 46.15%
+BERTScore: 90.30%
+
+Input: Category: camera, Subcategory: kitchen, Action: on, Sentence: Engage surveillance after 10 minutes
+Expected: Surveillance will be engaged after 10 minutes
+Generated: 1:10: Kitchen camera will be turned on then.
+ROUGE-L Score: 25.00%
+BERTScore: 85.44%
+
+Input: Category: music, Subcategory: device, Action: check, Sentence: Is the device on this morning?
+Expected: Device was on this morning.
+Generated: Device status reviewed
+ROUGE-L Score: 25.00%
+BERTScore: 85.79%
+
+Input: Category: music, Subcategory: schedule, Action: check, Sentence: Get schedule information
+Expected: Schedule information obtained
+Generated: Schedule information obtained.
+ROUGE-L Score: 100.00%
+BERTScore: 97.45%
+
+Input: Category: lights, Subcategory: living room, Action: on, Sentence: Switch on living room lights next Thursday
+Expected: Living room lights scheduled for next Thursday
+Generated: Living room lighting will be turned on on Thursday.
+ROUGE-L Score: 50.00%
+BERTScore: 91.26%
+
+Input: Category: music, Subcategory: playlist, Action: selectplaylist, Sentence: Select playlist in 25 minutes
+Expected: Playlist will be selected in 25 minutes.
+Generated: Playlist will be selected in twenty-five minutes.
+ROUGE-L Score: 80.00%
+BERTScore: 98.39%
+
+Input: Category: music, Subcategory: equalizer, Action: adjust, Sentence: Fine-tune equalizer "next Tuesday, June 10"
+Expected: Equalizer settings will be adjusted next Tuesday.
+Generated: Equalizer settings will be adjusted next Tuesday.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: shutters, Subcategory: bathroom, Action: up, Sentence: Open shutters at 7 AM
+Expected: Shutters will be opened at 7 AM.
+Generated: Shutters will be opened at seven AM.
+ROUGE-L Score: 85.71%
+BERTScore: 99.17%
+
+Input: Category: lights, Subcategory: toilet, Action: off, Sentence: Turn off toilet lights in one hour
+Expected: Toilet lights will be turned off in one hour.
+Generated: Toilet lights will be turned off in 1 hour.
+ROUGE-L Score: 88.89%
+BERTScore: 99.47%
+
+Input: Category: music, Subcategory: queue, Action: check, Sentence: Review queue at 7 PM
+Expected: Queue will be reviewed at 7 PM.
+Generated: 2023:07:08 07 PM, queue status will be reviewed at that time
+ROUGE-L Score: 50.00%
+BERTScore: 83.69%
+
+Input: Category: camera, Subcategory: attic, Action: on, Sentence: Launch attic camera system
+Expected: System launched
+Generated: System launched.
+ROUGE-L Score: 100.00%
+BERTScore: 97.38%
+
+Input: Category: lights, Subcategory: cellar, Action: off, Sentence: Turn off the lights in the cellar
+Expected: Turning off the cellar lights.
+Generated: Lights off in cellar
+ROUGE-L Score: 44.44%
+BERTScore: 89.43%
+
+Input: Category: music, Subcategory: playback, Action: loop, Sentence: Enable loop mode after 15 minutes
+Expected: Loop mode will activate soon.
+Generated: Loop mode will be enabled shortly.
+ROUGE-L Score: 54.55%
+BERTScore: 96.81%
+
+Input: Category: music, Subcategory: ambient, Action: play, Sentence: Play rainforest sounds in the study
+Expected: Rainforest sounds are now playing in the study.
+Generated: Study ambient sounds playing.
+ROUGE-L Score: 33.33%
+BERTScore: 89.29%
+
+Input: Category: shutters, Subcategory: none, Action: up, Sentence: Elevate all shutters now
+Expected: All shutters elevated now
+Generated: all Shutters elevated)  now 1 hour 45 minutes.
+ROUGE-L Score: 66.67%
+BERTScore: 86.87%
+
+Input: Category: music, Subcategory: source, Action: switchsource, Sentence: Swap source at 8 PM
+Expected: Source will be swapped at 8 PM.
+Generated: Source will be switched at eight PM.
+ROUGE-L Score: 71.43%
+BERTScore: 97.61%
+
+Input: Category: music, Subcategory: schedule, Action: cancel, Sentence: Delete music schedule
+Expected: Music schedule deleted
+Generated: Schedule deleted.
+ROUGE-L Score: 80.00%
+BERTScore: 91.34%
+
+Input: Category: camera, Subcategory: attic, Action: on, Sentence: Engage monitoring now
+Expected: Monitoring engaged now
+Generated: monitoring engaged now  in the attic  for the next 24 hours.
+ROUGE-L Score: 42.86%
+BERTScore: 88.33%
+
+Input: Category: music, Subcategory: playback, Action: play, Sentence: Launch playback "next Tuesday, June 10"
+Expected: Playback will start next Tuesday.
+Generated: Playback will start next Tuesday.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: camera, Subcategory: cellar, Action: statusquery, Sentence: Check for activity in the cellar
+Expected: Cellar activity status checked
+Generated: Activity status retrieved from cellar camera.
+ROUGE-L Score: 40.00%
+BERTScore: 88.15%
+
+Input: Category: music, Subcategory: schedule, Action: stop, Sentence: Stop scheduled music
+Expected: Scheduled music stopped
+Generated: Scheduled music stopped.
+ROUGE-L Score: 100.00%
+BERTScore: 97.61%
+
+Input: Category: camera, Subcategory: living room, Action: on, Sentence: Power up living room camera
+Expected: Living room camera powered up
+Generated: Living room  camera  powered  up  now
+ROUGE-L Score: 90.91%
+BERTScore: 88.94%
+
+Input: Category: music, Subcategory: playback, Action: previous, Sentence: Play previous track
+Expected: Previous track playing.
+Generated: Previous track playing.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: artist, Action: play, Sentence: Play artist's music until midnight
+Expected: Music will play until midnight.
+Generated: Artist’s music is now playing.
+ROUGE-L Score: 36.36%
+BERTScore: 87.75%
+
+Input: Category: music, Subcategory: playback, Action: skip, Sentence: Skip the song
+Expected: Song skipped.
+Generated: Song skipped to next track
+ROUGE-L Score: 57.14%
+BERTScore: 91.21%
+
+Input: Category: music, Subcategory: artist, Action: play, Sentence: Start artist’s songs
+Expected: Artist’s music started
+Generated: Songs starting now.
+ROUGE-L Score: 28.57%
+BERTScore: 87.83%
+
+Input: Category: music, Subcategory: playback, Action: repeat, Sentence: Repeat the current song
+Expected: Current song set to repeat.
+Generated: Song repeating.
+ROUGE-L Score: 57.14%
+BERTScore: 89.77%
+
+Input: Category: shutters, Subcategory: basement, Action: down, Sentence: Lower shades now
+Expected: Shades lowered now
+Generated: Shades lowered now for the basement.
+ROUGE-L Score: 66.67%
+BERTScore: 94.09%
+
+Input: Category: shutters, Subcategory: library, Action: down, Sentence: Drop curtains at 6 PM
+Expected: Curtains will be dropped at 6 PM.
+Generated: Curtains will be dropped at six PM
+ROUGE-L Score: 85.71%
+BERTScore: 98.06%
+
+Input: Category: music, Subcategory: device, Action: multiroom, Sentence: Play multi-room music this evening, 8 PM
+Expected: Multi-room music will start this evening.
+Generated: All rooms music will start this afternoon
+ROUGE-L Score: 71.43%
+BERTScore: 95.69%
+
+Input: Category: music, Subcategory: playback, Action: resume, Sentence: Resume song in fifteen minutes
+Expected: Playback will resume in fifteen minutes.
+Generated: Song will resume in 15 minutes
+ROUGE-L Score: 66.67%
+BERTScore: 94.80%
+
+Input: Category: lights, Subcategory: basement, Action: on, Sentence: Turn on basement lights in 20 minutes
+Expected: Basement lights will be turned on in 20 minutes.
+Generated: Basement lights will be turned on in twenty minutes
+ROUGE-L Score: 88.89%
+BERTScore: 98.98%
+
+Input: Category: music, Subcategory: volume, Action: unmute, Sentence: Enable sound now
+Expected: Sound enabled now
+Generated: Sound enabled now.
+ROUGE-L Score: 100.00%
+BERTScore: 99.14%
+
+Input: Category: music, Subcategory: equalizer, Action: adjust, Sentence: Set equalizer to bass boost
+Expected: Equalizer set to bass boost.
+Generated: Equalizer set to boost bass level.
+ROUGE-L Score: 72.73%
+BERTScore: 95.45%
+
+Input: Category: camera, Subcategory: bathroom, Action: statusquery, Sentence: Observe bathroom camera operations
+Expected: Operations observed
+Generated: Bathroom operations observed.
+ROUGE-L Score: 80.00%
+BERTScore: 89.67%
+
+Input: Category: music, Subcategory: none, Action: off, Sentence: Turn off the music system
+Expected: Music system turned off.
+Generated: Music system turned off.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: playlist, Action: shuffle, Sentence: Mix playlist tonight
+Expected: Playlist mixed tonight. 
+Generated: Playlist mixed tonight.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: none, Action: off, Sentence: Stop all music at 7 PM
+Expected: Music will be turned off at 7 PM.
+Generated: All music will be turned off at seven PM
+ROUGE-L Score: 82.35%
+BERTScore: 95.54%
+
+Input: Category: shutters, Subcategory: library, Action: up, Sentence: Raise the shutters in the library
+Expected: Raising the shutters in the library today.
+Generated: Raising the shades in library now
+ROUGE-L Score: 61.54%
+BERTScore: 94.73%
+
+Input: Category: music, Subcategory: ambient, Action: stop, Sentence: Stop ambient music now
+Expected: Ambient music stopped.
+Generated: Ambient music stopped.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: lights, Subcategory: attic, Action: on, Sentence: Turn on attic lighting next morning
+Expected: Attic lighting will activate next morning
+Generated: Attic lights will be turned on tomorrow.
+ROUGE-L Score: 46.15%
+BERTScore: 93.06%
+
+Input: Category: music, Subcategory: playlist, Action: reorder, Sentence: Rearrange songs today
+Expected: Songs rearranged today
+Generated: Songs rearranged today.
+ROUGE-L Score: 100.00%
+BERTScore: 98.69%
+
+Input: Category: music, Subcategory: playbackspeed, Action: resetspeed, Sentence: Adjust speed to normal
+Expected: Speed adjusted to normal
+Generated: Normal speed adjusted.
+ROUGE-L Score: 57.14%
+BERTScore: 90.64%
+
+Input: Category: music, Subcategory: playback, Action: stop, Sentence: End music at 7 PM
+Expected: Playback will stop at 7 PM.
+Generated: Music will stop at the scheduled time.
+ROUGE-L Score: 46.15%
+BERTScore: 91.11%
+
+Input: Category: shutters, Subcategory: toilet, Action: up, Sentence: Lift shades tonight
+Expected: Shades lifted tonight.
+Generated: Shades lifted tonight.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: shutters, Subcategory: living room, Action: up, Sentence: Elevate drapes after 15 minutes
+Expected: Drapes will be elevated after 15 minutes.
+Generated: Drapes will be elevated shortly
+ROUGE-L Score: 66.67%
+BERTScore: 94.46%
+
+Input: Category: shutters, Subcategory: none, Action: statusquery, Sentence: Evaluate all blinds
+Expected: Blinds evaluated
+Generated: All blinds evaluated.
+ROUGE-L Score: 80.00%
+BERTScore: 90.59%
+
+Input: Category: music, Subcategory: playlist, Action: delete, Sentence: Delete playlist now
+Expected: Playlist deleted now
+Generated: Playlist deleted now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.93%
+
+Input: Category: shutters, Subcategory: living room, Action: up, Sentence: Unveil living room shutters
+Expected: Shutters unveiled
+Generated: Shutters unveiled now.
+ROUGE-L Score: 80.00%
+BERTScore: 95.54%
+
+Input: Category: shutters, Subcategory: toilet, Action: up, Sentence: Raise toilet blinds next Monday, June 9
+Expected: Toilet blinds will be raised next Monday.
+Generated: Blinds will be raised nextMonday.
+ROUGE-L Score: 66.67%
+BERTScore: 89.87%
+
+Input: Category: music, Subcategory: source, Action: switchsource, Sentence: Change source today
+Expected: Source changed today
+Generated: Source changed today.
+ROUGE-L Score: 100.00%
+BERTScore: 97.84%
+
+Input: Category: music, Subcategory: multisource, Action: sync, Sentence: Align audio sources in 10 minutes
+Expected: Sources will be synchronized in 10 minutes.
+Generated: Sources will be synchronized in ten minutes.
+ROUGE-L Score: 85.71%
+BERTScore: 98.46%
+
+Input: Category: camera, Subcategory: basement, Action: statusquery, Sentence: What's the basement camera status?
+Expected: Basement camera details displayed
+Generated: Basement camera details displayed
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: playlist, Action: check, Sentence: How many songs are in my workout playlist?
+Expected: Your workout playlist has 15 songs.
+Generated: 25 songs found in playlist.
+ROUGE-L Score: 18.18%
+BERTScore: 90.08%
+
+Input: Category: camera, Subcategory: living room, Action: on, Sentence: Activate living room camera
+Expected: Living room camera turned on
+Generated: Living room  camera  activated.
+ROUGE-L Score: 66.67%
+BERTScore: 91.82%
+
+Input: Category: lights, Subcategory: dining room, Action: on, Sentence: Turn on the light in the dining room in 1 day
+Expected: Turning on the dining room lights in 1 day.
+Generated: Activating the dinner room lights in one day
+ROUGE-L Score: 58.82%
+BERTScore: 94.16%
+
+Input: Category: lights, Subcategory: attic, Action: off, Sentence: Disable attic lighting
+Expected: Attic lighting disabled
+Generated: Attic lighting disabled.
+ROUGE-L Score: 100.00%
+BERTScore: 99.21%
+
+Input: Category: music, Subcategory: playback, Action: previous, Sentence: Play previous song
+Expected: Previous song playing.
+Generated: Previous song playing.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: playback, Action: previous, Sentence: Play the previous song
+Expected: Previous song playing.
+Generated: Previous song is now playing.
+ROUGE-L Score: 75.00%
+BERTScore: 93.04%
+
+Input: Category: music, Subcategory: ambient, Action: play, Sentence: Launch ambient music "next Wednesday, June 11"
+Expected: Ambient music will start next Wednesday.
+Generated: Ambient music will start next Wednesday
+ROUGE-L Score: 100.00%
+BERTScore: 98.99%
+
+Input: Category: music, Subcategory: ambient, Action: check, Sentence: Inspect ambient music at 6 PM
+Expected: Ambient music status will be checked at 6 PM.
+Generated: Ambient music status will be reviewed at six PM
+ROUGE-L Score: 77.78%
+BERTScore: 97.01%
+
+Input: Category: music, Subcategory: playback, Action: restart, Sentence: Restart the track
+Expected: Track restarted.
+Generated: Track restarted
+ROUGE-L Score: 100.00%
+BERTScore: 98.39%
+
+Input: Category: music, Subcategory: ambient, Action: play, Sentence: Launch ambient music at 6 PM
+Expected: Ambient music will start at 6 PM.
+Generated: Ambient music will start in six hours.
+ROUGE-L Score: 57.14%
+BERTScore: 94.64%
+
+Input: Category: lights, Subcategory: basement, Action: off, Sentence: Shut off basement lighting
+Expected: Basement lighting shut off
+Generated: Basement lighting shut off.
+ROUGE-L Score: 100.00%
+BERTScore: 98.68%
+
+Input: Category: music, Subcategory: status, Action: check, Sentence: Inspect music status
+Expected: Music status inspected
+Generated: Music status inspected.
+ROUGE-L Score: 100.00%
+BERTScore: 98.76%
+
+Input: Category: camera, Subcategory: outside, Action: on, Sentence: Activate outside camera
+Expected: Outside camera turned on
+Generated: outside  camera  activated  now.
+ROUGE-L Score: 50.00%
+BERTScore: 86.78%
+
+Input: Category: music, Subcategory: playback, Action: restart, Sentence: Reset playback at six o'clock
+Expected: Playback will restart at six o'clock.
+Generated: Playback will restart then.
+ROUGE-L Score: 54.55%
+BERTScore: 91.54%
+
+Input: Category: camera, Subcategory: outside, Action: on, Sentence: Initiate all outdoor cameras
+Expected: All outdoor cameras initiated
+Generated: All outside cameras initiated.
+ROUGE-L Score: 75.00%
+BERTScore: 95.81%
+
+Input: Category: camera, Subcategory: dining room, Action: statusquery, Sentence: View dining room camera
+Expected: Dining room camera view active
+Generated: Dining room view active
+ROUGE-L Score: 88.89%
+BERTScore: 98.40%
+
+Input: Category: lights, Subcategory: living room, Action: on, Sentence: Activate all living room lights
+Expected: All living room lights activated
+Generated: all  living  room  lights  activated  now.
+ROUGE-L Score: 90.91%
+BERTScore: 88.16%
+
+Input: Category: music, Subcategory: source, Action: check, Sentence: Review source in one hour
+Expected: Source status will be checked in one hour.
+Generated: Source status will be reviewed in an hour
+ROUGE-L Score: 75.00%
+BERTScore: 97.03%
+
+Input: Category: shutters, Subcategory: basement, Action: down, Sentence: Close basement shutters at 8 PM
+Expected: Basement shutters will be closed at 8 PM.
+Generated: Shutters will be closed at eight PM.
+ROUGE-L Score: 80.00%
+BERTScore: 93.89%
+
+Input: Category: camera, Subcategory: kitchen, Action: statusquery, Sentence: Review feed immediately
+Expected: Feed reviewed immediately
+Generated: Feed reviewed immediately.
+ROUGE-L Score: 100.00%
+BERTScore: 99.06%
+
+Input: Category: camera, Subcategory: cellar, Action: statusquery, Sentence: Monitor cellar camera activity
+Expected: Activity monitored
+Generated: Cellar activity monitored.
+ROUGE-L Score: 80.00%
+BERTScore: 90.66%
+
+Input: Category: music, Subcategory: sleeptimer, Action: set, Sentence: Set a sleep timer for 30 minutes
+Expected: Music will stop in 30 minutes.
+Generated: Sleep timer set for thirty minutes.
+ROUGE-L Score: 16.67%
+BERTScore: 89.17%
+
+Input: Category: music, Subcategory: playlist, Action: check, Sentence: Review playlist at 7 PM
+Expected: Playlist will be reviewed at 7 PM. 
+Generated: 2018 playlist will be reviewed at seven PM.
+ROUGE-L Score: 80.00%
+BERTScore: 96.28%
+
+Input: Category: shutters, Subcategory: none, Action: up, Sentence: Raise all shutters in 10 minutes
+Expected: All shutters will be raised in 10 minutes.
+Generated: All shades will be raised in ten minutes.
+ROUGE-L Score: 75.00%
+BERTScore: 95.06%
+
+Input: Category: shutters, Subcategory: kitchen, Action: down, Sentence: Shut the shutters in the kitchen
+Expected: The shutters in the kitchen are now closed.
+Generated: Shutting the shutter now in kitchen.
+ROUGE-L Score: 57.14%
+BERTScore: 90.63%
+
+Input: Category: music, Subcategory: artist, Action: play, Sentence: Play songs by the artist after 15 minutes
+Expected: Songs will start shortly.
+Generated: Songs by artist will start soon
+ROUGE-L Score: 60.00%
+BERTScore: 91.85%
+
+Input: Category: shutters, Subcategory: toilet, Action: up, Sentence: Open toilet shutters at 8 AM
+Expected: Toilet shutters will be opened at 8 AM.
+Generated: Toile toilet shutter will be opened at eight AM.
+ROUGE-L Score: 82.35%
+BERTScore: 94.98%
+
+Input: Category: camera, Subcategory: bathroom, Action: statusquery, Sentence: Analyze feed yesterday
+Expected: Feed analyzed for yesterday
+Generated: Feed analyzed for yesterday.
+ROUGE-L Score: 100.00%
+BERTScore: 97.30%
+
+Input: Category: lights, Subcategory: toilet, Action: on, Sentence: Turn on toilet lighting
+Expected: Toilet lighting turned on
+Generated: Toilet lighting turned on.
+ROUGE-L Score: 100.00%
+BERTScore: 98.96%
+
+Input: Category: lights, Subcategory: library, Action: off, Sentence: Turn off library lights after 40 minutes
+Expected: Library lights will turn off in 40 minutes
+Generated: Library lights will turn off shortly.
+ROUGE-L Score: 71.43%
+BERTScore: 94.98%
+
+Input: Category: music, Subcategory: podcast, Action: skip, Sentence: Go to next podcast
+Expected: Next podcast started
+Generated: Next podcast active.
+ROUGE-L Score: 66.67%
+BERTScore: 93.76%
+
+Input: Category: music, Subcategory: genre, Action: play, Sentence: Play alternative music this 20 July
+Expected: Alternative music playing this 20 July.
+Generated: Alternative music playing this afternoon.
+ROUGE-L Score: 72.73%
+BERTScore: 93.51%
+
+Input: Category: shutters, Subcategory: library, Action: down, Sentence: Close library shutters at 8 PM
+Expected: Library shutters will be closed at 8 PM.
+Generated: library Shutters will be closed at8:00 PM.
+ROUGE-L Score: 75.00%
+BERTScore: 95.15%
+
+Input: Category: music, Subcategory: playbackspeed, Action: adjustspeed, Sentence: Speed adjusted to 1.25x
+Expected: Speed set.
+Generated: Playback speed adjusted.
+ROUGE-L Score: 40.00%
+BERTScore: 88.28%
+
+Input: Category: lights, Subcategory: library, Action: on, Sentence: Can you make it more bright in the library in 2 minutes?
+Expected: Brightening the library in 2 minutes.
+Generated: Adjusting library lighting in two minutes.
+ROUGE-L Score: 50.00%
+BERTScore: 92.67%
+
+Input: Category: music, Subcategory: genre, Action: play, Sentence: Start playing metal music this evening
+Expected: Metal music playing this evening.
+Generated: Metal music is now playing.
+ROUGE-L Score: 60.00%
+BERTScore: 91.75%
+
+Input: Category: camera, Subcategory: all, Action: on, Sentence: Wake up all cameras
+Expected: All Cameras are now active.
+Generated: All cameras are now active
+ROUGE-L Score: 100.00%
+BERTScore: 97.08%
+
+Input: Category: music, Subcategory: playlist, Action: shuffle, Sentence: Randomize playlist
+Expected: Playlist randomized
+Generated: Playlist randomized.
+ROUGE-L Score: 100.00%
+BERTScore: 98.86%
+
+Input: Category: music, Subcategory: schedule, Action: check, Sentence: Verify schedule at 7 PM
+Expected: Schedule status will be checked at 7 PM.
+Generated: 2018 schedule will be reviewed then.
+ROUGE-L Score: 42.86%
+BERTScore: 90.72%
+
+Input: Category: camera, Subcategory: kitchen, Action: on, Sentence: Enable video in kitchen camera
+Expected: Kitchen camera video enabled.
+Generated: Kitchen camera video enabled.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: playback, Action: skip, Sentence: Play next song
+Expected: Next song started
+Generated: Next song playing.
+ROUGE-L Score: 66.67%
+BERTScore: 93.30%
+
+Input: Category: shutters, Subcategory: basement, Action: down, Sentence: Shut basement blinds
+Expected: Blinds shut
+Generated: Blinds shut in the basement
+ROUGE-L Score: 57.14%
+BERTScore: 93.74%
+
+Input: Category: camera, Subcategory: bathroom, Action: on, Sentence: Activate bathroom surveillance in two hours
+Expected: Bathroom camera will start in two hours.
+Generated: Bathroom camera will be turned on in 2 hours.
+ROUGE-L Score: 62.50%
+BERTScore: 95.27%
+
+Input: Category: camera, Subcategory: basement, Action: on, Sentence: Turn on basement surveillance at 9 AM
+Expected: Camera will start at 9 AM.
+Generated: Basement camera will start at nine o'clock.
+ROUGE-L Score: 57.14%
+BERTScore: 92.03%
+
+Input: Category: music, Subcategory: device, Action: volumesync, Sentence: Set volume across devices this evening
+Expected: Volume synced this evening.
+Generated: all devices volume set this  evening 7:00 PM.
+ROUGE-L Score: 46.15%
+BERTScore: 89.24%
+
+Input: Category: shutters, Subcategory: bathroom, Action: statusquery, Sentence: Inspect shutters now
+Expected: Shutters inspected now
+Generated: Shutters inspected now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.69%
+
+Input: Category: music, Subcategory: status, Action: check, Sentence: Examine music system
+Expected: Music system examined
+Generated: Music system examined.
+ROUGE-L Score: 100.00%
+BERTScore: 98.01%
+
+Input: Category: music, Subcategory: radio, Action: play, Sentence: Launch radio
+Expected: Radio launched
+Generated: Radio launched.
+ROUGE-L Score: 100.00%
+BERTScore: 97.38%
+
+Input: Category: shutters, Subcategory: living room, Action: down, Sentence: Drop drapes today
+Expected: Drapes dropped today
+Generated: Drapes dropped today.
+ROUGE-L Score: 100.00%
+BERTScore: 98.35%
+
+Input: Category: lights, Subcategory: random, Action: on, Sentence: Turn random lights on
+Expected: Random lights on
+Generated: Random lights are on now.
+ROUGE-L Score: 75.00%
+BERTScore: 92.34%
+
+Input: Category: music, Subcategory: song, Action: play, Sentence: Start song playback
+Expected: Song playback started
+Generated: Song playback started
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: camera, Subcategory: living room, Action: on, Sentence: I would like it that you'd tell me if the camera in the living room is on
+Expected: Yes the living room camera is currently on.
+Generated: Living room camera status will be reviewed.
+ROUGE-L Score: 40.00%
+BERTScore: 88.35%
+
+Input: Category: lights, Subcategory: basement, Action: off, Sentence: Turn off the lights in the basement
+Expected: Turning off the basement lights.
+Generated: Turning off basement lights.
+ROUGE-L Score: 88.89%
+BERTScore: 97.58%
+
+Input: Category: music, Subcategory: song, Action: play, Sentence: Start track next week, June 12
+Expected: Song will start next week.
+Generated: Next song will play next weekend.
+ROUGE-L Score: 54.55%
+BERTScore: 92.80%
+
+Input: Category: shutters, Subcategory: bathroom, Action: statusquery, Sentence: Verify blinds now
+Expected: Blinds verified now
+Generated: Blinds verified now
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: schedule, Action: check, Sentence: Check music schedule
+Expected: Schedule details displayed
+Generated: schedule retrieved.
+ROUGE-L Score: 40.00%
+BERTScore: 91.41%
+
+Input: Category: music, Subcategory: playback, Action: stop, Sentence: Halt playback in 15 minutes
+Expected: Playback will stop in fifteen minutes.
+Generated: Playback will stop shortly.
+ROUGE-L Score: 60.00%
+BERTScore: 95.14%
+
+Input: Category: music, Subcategory: playlist, Action: addsong, Sentence: Add Sweet Child O Mine to chill playlist tomorrow June 7
+Expected: Sweet Child O Mine will be added to chill playlist tomorrow
+Generated: sweet child o mine will be added to Chill Playlist tomorrow 6/7.
+ROUGE-L Score: 91.67%
+BERTScore: 93.11%
+
+Input: Category: camera, Subcategory: none, Action: on, Sentence: Activate all cameras at 5 PM
+Expected: All cameras will be turned on at 5 PM.
+Generated: All cameras will be turned on at five.
+ROUGE-L Score: 82.35%
+BERTScore: 98.40%
+
+Input: Category: shutters, Subcategory: living room, Action: up, Sentence: Raise shutters at nine o'clock
+Expected: Living room shutters will be opened at nine o'clock.
+Generated: Shutters will be opened at 9 o’clock
+ROUGE-L Score: 77.78%
+BERTScore: 92.64%
+
+Input: Category: camera, Subcategory: living room, Action: statusquery, Sentence: Monitor living room camera activity
+Expected: Activity monitored
+Generated: Living room activity monitored.
+ROUGE-L Score: 66.67%
+BERTScore: 92.51%
+
+Input: Category: music, Subcategory: song, Action: play, Sentence: Play current song
+Expected: Current song playing
+Generated: Song is now playing.
+ROUGE-L Score: 57.14%
+BERTScore: 86.78%
+
+Input: Category: music, Subcategory: volume, Action: adjustvolume, Sentence: Tweak volume in two hours
+Expected: Volume will be adjusted in two hours.
+Generated: Volume will be adjusted in 2 hours
+ROUGE-L Score: 85.71%
+BERTScore: 98.69%
+
+Input: Category: music, Subcategory: song, Action: check, Sentence: Monitor song
+Expected: Song monitored
+Generated: Song monitored.
+ROUGE-L Score: 100.00%
+BERTScore: 98.30%
+
+Input: Category: music, Subcategory: volume, Action: check, Sentence: Check volume level in 25 minutes
+Expected: Volume level will be checked in 25 minutes.
+Generated: 1:25: Volume level will be reviewed then.
+ROUGE-L Score: 50.00%
+BERTScore: 89.04%
+
+Input: Category: music, Subcategory: podcast, Action: play, Sentence: Start podcast in thirty minutes
+Expected: Podcast episode will start in thirty minutes.
+Generated: 30 minutes
+ROUGE-L Score: 22.22%
+BERTScore: 86.45%
+
+Input: Category: music, Subcategory: playlist, Action: delete, Sentence: Delete playlist immediately
+Expected: Playlist deleted immediately
+Generated: Playlist deleted immediately.
+ROUGE-L Score: 100.00%
+BERTScore: 98.62%
+
+Input: Category: camera, Subcategory: library, Action: on, Sentence: Power on library camera
+Expected: Library camera powered on
+Generated: Library camera powered on.
+ROUGE-L Score: 100.00%
+BERTScore: 98.72%
+
+Input: Category: shutters, Subcategory: bathroom, Action: up, Sentence: Open bathroom shutters at 8 AM
+Expected: Bathroom shutters will be opened at 8 AM.
+Generated: Shutters will be opened at eight AM.
+ROUGE-L Score: 80.00%
+BERTScore: 93.60%
+
+Input: Category: shutters, Subcategory: bathroom, Action: down, Sentence: Lower bathroom blinds
+Expected: Blinds lowered
+Generated: Blinds lowered in the bathroom.
+ROUGE-L Score: 57.14%
+BERTScore: 90.55%
+
+Input: Category: lights, Subcategory: random, Action: on, Sentence: Activate all random lights
+Expected: All random lights activated
+Generated: Random lights activated.
+ROUGE-L Score: 85.71%
+BERTScore: 94.82%
+
+Input: Category: music, Subcategory: ambient, Action: stop, Sentence: End ambient music at 9 PM
+Expected: Ambient music will stop at 9 PM.
+Generated: Ambient music will stop at nine PM.
+ROUGE-L Score: 85.71%
+BERTScore: 99.23%
+
+Input: Category: shutters, Subcategory: toilet, Action: up, Sentence: Lift toilet blinds in 15 minutes
+Expected: Toilet blinds will be lifted in 15 minutes.
+Generated: Toilet blinds will be lifted in fifteen minutes
+ROUGE-L Score: 87.50%
+BERTScore: 98.91%
+
+Input: Category: camera, Subcategory: backyard, Action: on, Sentence: Switch on backyard camera
+Expected: Backyard camera switched on
+Generated: Backyard camera switched on.
+ROUGE-L Score: 100.00%
+BERTScore: 98.77%
+
+Input: Category: music, Subcategory: podcast, Action: play, Sentence: Start podcast "tomorrow, June 7"
+Expected: Podcast will start tomorrow.
+Generated: Next podcast episode will start tomorrow.
+ROUGE-L Score: 80.00%
+BERTScore: 93.88%
+
+Input: Category: music, Subcategory: podcast, Action: skip, Sentence: Move to next podcast
+Expected: Next podcast moved
+Generated: Next podcast started.
+ROUGE-L Score: 66.67%
+BERTScore: 93.10%
+
+Input: Category: camera, Subcategory: none, Action: statusquery, Sentence: Check camera system status in 15 minutes
+Expected: Camera system status will be checked in 15 minutes.
+Generated: 2024:15:02: Camera system will be reviewed at that time.
+ROUGE-L Score: 40.00%
+BERTScore: 87.88%
+
+Input: Category: lights, Subcategory: kitchen, Action: off, Sentence: Extinguish kitchen lighting
+Expected: Kitchen lighting extinguished
+Generated: Kitchen lighting extinguished
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: shutters, Subcategory: cellar, Action: down, Sentence: Lower shutters in one hour
+Expected: Cellar shutters will be lowered in one hour.
+Generated: Shutters will be lowered in 1 hour
+ROUGE-L Score: 80.00%
+BERTScore: 92.99%
+
+Input: Category: camera, Subcategory: backyard, Action: statusquery, Sentence: Check backyard camera status
+Expected: Backyard camera status retrieved
+Generated: Backyard camera details displayed
+ROUGE-L Score: 50.00%
+BERTScore: 95.78%
+
+Input: Category: lights, Subcategory: kitchen, Action: on, Sentence: Illuminate the kitchen tomorrow
+Expected: Turning on the kitchen lights tomorrow.
+Generated: All kitchen lights will be turned on tomorrow.
+ROUGE-L Score: 42.86%
+BERTScore: 94.47%
+
+Input: Category: shutters, Subcategory: none, Action: up, Sentence: Lift all shades tonight
+Expected: All shades lifted tonight.
+Generated: All shades lifted tonight.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: multisource, Action: sync, Sentence: Synchronize audio sources "next Monday, June 9"
+Expected: Sources will be synchronized next Monday.
+Generated: All sources will be synchronized next Monday.
+ROUGE-L Score: 92.31%
+BERTScore: 97.09%
+
+Input: Category: camera, Subcategory: basement, Action: on, Sentence: Start basement camera next Wednesday June 11
+Expected: Basement camera will start next Wednesday next Wednesday June 11.
+Generated: Basement camera will start next week.
+ROUGE-L Score: 62.50%
+BERTScore: 94.39%
+
+Input: Category: music, Subcategory: source, Action: switchsource, Sentence: Update source now
+Expected: Source updated now
+Generated: source updated now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.41%
+
+Input: Category: camera, Subcategory: attic, Action: statusquery, Sentence: Monitor attic feed at eight o'clock
+Expected: Attic feed will be monitored at eight o'clock.
+Generated: 8:08: Attic feed status will be reviewed at that time.
+ROUGE-L Score: 50.00%
+BERTScore: 87.43%
+
+Input: Category: music, Subcategory: voicecontrol, Action: disable, Sentence: Disable voice commands
+Expected: Voice commands disabled
+Generated: Voice commands disabled.
+ROUGE-L Score: 100.00%
+BERTScore: 99.39%
+
+Input: Category: music, Subcategory: playlist, Action: shuffle, Sentence: Shuffle playlist now
+Expected: Playlist shuffled now
+Generated: Playlist shuffled now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.56%
+
+Input: Category: shutters, Subcategory: none, Action: statusquery, Sentence: Avoid adjusting shutters tomorrow, June 7
+Expected: Shutters will not be adjusted tomorrow.
+Generated: Shutters will not be adjusted tomorrow.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: camera, Subcategory: cellar, Action: statusquery, Sentence: Evaluate cellar camera status
+Expected: Camera status evaluated
+Generated: Cellar status evaluated.
+ROUGE-L Score: 66.67%
+BERTScore: 94.76%
+
+Input: Category: camera, Subcategory: dining room, Action: statusquery, Sentence: Probe dining room camera logs
+Expected: dining room Logs probed.
+Generated: Logs probed successfully
+ROUGE-L Score: 57.14%
+BERTScore: 88.52%
+
+Input: Category: camera, Subcategory: none, Action: on, Sentence: Turn all cameras on
+Expected: All cameras on
+Generated: All cameras turned on.
+ROUGE-L Score: 85.71%
+BERTScore: 93.86%
+
+Input: Category: camera, Subcategory: all, Action: on, Sentence: Activate all cameras
+Expected: All cameras turned on
+Generated: All cameras activated.
+ROUGE-L Score: 57.14%
+BERTScore: 95.87%
+
+Input: Category: camera, Subcategory: all, Action: statusquery, Sentence: Verify all camera feeds at 2 PM
+Expected: All camera feeds will be checked at 2 PM.
+Generated: 1 PM: All camera status will be reviewed at that time
+ROUGE-L Score: 50.00%
+BERTScore: 90.71%
+
+Input: Category: music, Subcategory: volume, Action: unmute, Sentence: Activate audio
+Expected: Audio activated
+Generated: Audio activated
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: camera, Subcategory: cellar, Action: on, Sentence: Activate cellar surveillance in 30 minutes
+Expected: Cellar camera will start in 30 minutes.
+Generated: Cellar camera will start in thirty minutes.
+ROUGE-L Score: 85.71%
+BERTScore: 99.28%
+
+Input: Category: music, Subcategory: sleeptimer, Action: set, Sentence: Start timer now
+Expected: Timer started now
+Generated: Timer started now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.97%
+
+Input: Category: camera, Subcategory: library, Action: on, Sentence: Enable library camera feed
+Expected: Library camera feed enabled
+Generated: Library feed enabled
+ROUGE-L Score: 85.71%
+BERTScore: 95.99%
+
+Input: Category: music, Subcategory: volume, Action: adjustvolume, Sentence: Tune volume now
+Expected: Volume tuned now
+Generated: Volume tuned now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.67%
+
+Input: Category: music, Subcategory: device, Action: volumesync, Sentence: Set volume for all music devices to 20 Percent
+Expected: All devices volume adjusted to 20 percent.
+Generated: All devices volume adjusted to20 percent.
+ROUGE-L Score: 76.92%
+BERTScore: 97.21%
+
+Input: Category: music, Subcategory: schedule, Action: cancel, Sentence: Cancel the scheduled music for tomorrow
+Expected: Music schedule for tomorrow canceled.
+Generated: Music will not play tomorrow.
+ROUGE-L Score: 40.00%
+BERTScore: 90.06%
+
+Input: Category: camera, Subcategory: basement, Action: statusquery, Sentence: Inspect basement camera performance
+Expected: Performance inspected
+Generated: Performance inspected.
+ROUGE-L Score: 100.00%
+BERTScore: 98.01%
+
+Input: Category: camera, Subcategory: attic, Action: statusquery, Sentence: Is the attic camera feed live?
+Expected: Attic camera feed is live
+Generated: Attic feed is live now.
+ROUGE-L Score: 80.00%
+BERTScore: 91.71%
+
+Input: Category: shutters, Subcategory: library, Action: up, Sentence: Lift library shutters
+Expected: Library shutters lifted
+Generated: Shutters lifted in the library.
+ROUGE-L Score: 50.00%
+BERTScore: 88.74%
+
+Input: Category: camera, Subcategory: library, Action: statusquery, Sentence: Assess activity at 9 PM
+Expected: Activity will be assessed at 9 PM
+Generated: Camera activity will be assessed then.
+ROUGE-L Score: 61.54%
+BERTScore: 91.38%
+
+Input: Category: music, Subcategory: device, Action: volumesync, Sentence: Sync audio levels for bedroom and kitchen devices
+Expected: Volume synced for bedroom and kitchen.
+Generated: Volume levels synced.
+ROUGE-L Score: 44.44%
+BERTScore: 91.59%
+
+Input: Category: lights, Subcategory: cellar, Action: off, Sentence: Turn off cellar lights
+Expected: Cellar lights turned off
+Generated: Cellar lights turned off.
+ROUGE-L Score: 100.00%
+BERTScore: 98.84%
+
+Input: Category: lights, Subcategory: dining room, Action: on, Sentence: Turn on dining room lights in 15 minutes
+Expected: Dining room lights will be turned on in 15 minutes.
+Generated: Dining room lighting will activate in fifteen minutes.
+ROUGE-L Score: 66.67%
+BERTScore: 96.29%
+
+Input: Category: lights, Subcategory: none, Action: statusquery, Sentence: Lights system check
+Expected: lights system details retrieved.
+Generated: System reviewed
+ROUGE-L Score: 33.33%
+BERTScore: 87.15%
+
+Input: Category: camera, Subcategory: bathroom, Action: statusquery, Sentence: Inspect bathroom camera performance
+Expected: Performance inspected
+Generated: Camera performance inspected.
+ROUGE-L Score: 80.00%
+BERTScore: 91.52%
+
+Input: Category: lights, Subcategory: attic, Action: on, Sentence: Turn on attic lighting
+Expected: Attic lighting turned on
+Generated: Attic lighting turned on.
+ROUGE-L Score: 100.00%
+BERTScore: 98.60%
+
+Input: Category: music, Subcategory: volume, Action: mute, Sentence: Quiet music now
+Expected: Music quieted now
+Generated: music quieted now  for the day.
+ROUGE-L Score: 66.67%
+BERTScore: 90.82%
+
+Input: Category: music, Subcategory: voicecontrol, Action: check, Sentence: Inspect voice control at 8 PM
+Expected: Voice control status will be checked at 8 PM.
+Generated: Voice control status will be reviewed at eight PM
+ROUGE-L Score: 77.78%
+BERTScore: 97.38%
+
+Input: Category: shutters, Subcategory: bathroom, Action: down, Sentence: Drop bathroom shades
+Expected: Shades dropped
+Generated: Shades dropped for bathroom.
+ROUGE-L Score: 66.67%
+BERTScore: 91.88%
+
+Input: Category: lights, Subcategory: attic, Action: on, Sentence: Enable attic lights at 9 PM
+Expected: Attic lights will be turned on at 9 PM.
+Generated: Attic lights will be turned on at nine PM.
+ROUGE-L Score: 88.89%
+BERTScore: 99.45%
+
+Input: Category: shutters, Subcategory: library, Action: down, Sentence: Lower library blinds
+Expected: Blinds lowered
+Generated: Blinds lowered in the library.
+ROUGE-L Score: 57.14%
+BERTScore: 92.12%
+
+Input: Category: music, Subcategory: podcast, Action: play, Sentence: Launch podcast at 9 PM
+Expected: Podcast episode will start at 9 PM.
+Generated: Podcast will start at nine PM.
+ROUGE-L Score: 76.92%
+BERTScore: 96.00%
+
+Input: Category: lights, Subcategory: basement, Action: off, Sentence: Extinguish basement lights
+Expected: Basement lights extinguished
+Generated: Basement lights extinguished
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: shutters, Subcategory: kitchen, Action: up, Sentence: Lift shutters immediately
+Expected: Shutters lifted immediately
+Generated: Shutters lifted immediately in the kitchen
+ROUGE-L Score: 66.67%
+BERTScore: 95.68%
+
+Input: Category: lights, Subcategory: random, Action: off, Sentence: Stop random lighting
+Expected: Random lighting stopped
+Generated: Random lighting stopped.
+ROUGE-L Score: 100.00%
+BERTScore: 97.21%
+
+Input: Category: music, Subcategory: artist, Action: check, Sentence: Is the artist performing now?
+Expected: Artist performing now.
+Generated: Artist is currently performing.
+ROUGE-L Score: 57.14%
+BERTScore: 91.68%
+
+Input: Category: shutters, Subcategory: toilet, Action: down, Sentence: Close toilet shutters at 8 PM
+Expected: Toilet shutters will be closed at 8 PM.
+Generated: Toilets will be shutted at eight PM
+ROUGE-L Score: 66.67%
+BERTScore: 92.37%
+
+Input: Category: shutters, Subcategory: basement, Action: up, Sentence: Open basement shades
+Expected: Shades opened
+Generated: Shades opened for basement.
+ROUGE-L Score: 66.67%
+BERTScore: 91.04%
+
+Input: Category: shutters, Subcategory: toilet, Action: down, Sentence: Close blinds after 15 minutes
+Expected: Blinds will be closed after 15 minutes.
+Generated: Blinds will be closed shortly.
+ROUGE-L Score: 66.67%
+BERTScore: 94.68%
+
+Input: Category: music, Subcategory: voicecontrol, Action: disable, Sentence: Turn off voice control "tomorrow, June 7"
+Expected: Voice control will be disabled tomorrow.
+Generated: Voice control will be disabled tomorrow.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: lights, Subcategory: living room, Action: off, Sentence: Switch off living room lights
+Expected: Living room lights switched off
+Generated: Living room  lights  switched off.
+ROUGE-L Score: 100.00%
+BERTScore: 94.50%
+
+Input: Category: music, Subcategory: device, Action: switchdevice, Sentence: Switch to outdoor speaker now
+Expected: Music switched to outdoor speaker.
+Generated: Music switched to outside speaker.
+ROUGE-L Score: 80.00%
+BERTScore: 97.92%
+
+Input: Category: camera, Subcategory: cellar, Action: statusquery, Sentence: Assess status now
+Expected: Status assessed now
+Generated: Status assessed now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.41%
+
+Input: Category: lights, Subcategory: bathroom, Action: on, Sentence: Is the light on in the bathroom?
+Expected: Yes, the bathroom light is on.
+Generated: The bathroom light is on.
+ROUGE-L Score: 90.91%
+BERTScore: 96.86%
+
+Input: Category: shutters, Subcategory: kitchen, Action: statusquery, Sentence: Inspect blinds for today
+Expected: Blinds inspected for today.
+Generated: Blind inspection completed today.
+ROUGE-L Score: 75.00%
+BERTScore: 92.09%
+
+Input: Category: lights, Subcategory: toilet, Action: off, Sentence: Power down toilet lighting next week
+Expected: Toilet lighting will be powered down next week
+Generated: Toilet lighting will power down.
+ROUGE-L Score: 76.92%
+BERTScore: 94.72%
+
+Input: Category: lights, Subcategory: none, Action: statusquery, Sentence: Avoid dimming lights this evening, 8 PM
+Expected: Lights will not be dimmed this evening.
+Generated: All non-dimming lights will be turned to 100% this afternoon.
+ROUGE-L Score: 44.44%
+BERTScore: 89.91%
+
+Input: Category: lights, Subcategory: toilet, Action: on, Sentence: Turn on toilet lights at eight o'clock
+Expected: Toilet lights will be turned on at eight o'clock.
+Generated: Toilet lights will be turned on at 8 o’clock.
+ROUGE-L Score: 90.00%
+BERTScore: 99.11%
+
+Input: Category: shutters, Subcategory: bathroom, Action: down, Sentence: Close bathroom shades next week, June 12
+Expected: Bathroom shades will be closed next week.
+Generated: Bathroom shades will be closed next weeks.
+ROUGE-L Score: 100.00%
+BERTScore: 98.55%
+
+Input: Category: music, Subcategory: sleeptimer, Action: check, Sentence: What's the sleep timer?
+Expected: Sleep timer status retrieved
+Generated: Sleep timer status retrieved.
+ROUGE-L Score: 100.00%
+BERTScore: 98.83%
+
+Input: Category: shutters, Subcategory: none, Action: down, Sentence: Shut all drapes after 30 minutes
+Expected: All drapes will be shut after 30 minutes.
+Generated: Drapes will be shut shortly.
+ROUGE-L Score: 61.54%
+BERTScore: 89.03%
+
+Input: Category: music, Subcategory: source, Action: check, Sentence: Review source now
+Expected: Source reviewed now
+Generated: source reviewed now  for you  now.
+ROUGE-L Score: 66.67%
+BERTScore: 84.89%
+
+Input: Category: shutters, Subcategory: basement, Action: up, Sentence: Raise basement shades
+Expected: Shades raised
+Generated: Shades raised for the basement
+ROUGE-L Score: 57.14%
+BERTScore: 91.50%
+
+Input: Category: music, Subcategory: playbackspeed, Action: check, Sentence: Check speed at 5 PM
+Expected: Speed info will be available at 5 PM.
+Generated: Playback speed status will be reviewed at the scheduled time.
+ROUGE-L Score: 44.44%
+BERTScore: 88.83%
+
+Input: Category: music, Subcategory: playlist, Action: create, Sentence: Initiate playlist today
+Expected: Playlist initiated today
+Generated: Playlist initiated today.
+ROUGE-L Score: 100.00%
+BERTScore: 98.42%
+
+Input: Category: camera, Subcategory: basement, Action: statusquery, Sentence: Review feed immediately
+Expected: Feed reviewed immediately
+Generated: Feed reviewed immediately.
+ROUGE-L Score: 100.00%
+BERTScore: 99.06%
+
+Input: Category: music, Subcategory: playbackspeed, Action: adjustspeed, Sentence: Set playback speed
+Expected: Playback speed updated
+Generated: Playback speed set.
+ROUGE-L Score: 66.67%
+BERTScore: 95.66%
+
+Input: Category: camera, Subcategory: dining room, Action: statusquery, Sentence: Assess dining room surveillance
+Expected: dining room Surveillance assessed.
+Generated: Surveillance assessed successfully.
+ROUGE-L Score: 57.14%
+BERTScore: 91.47%
+
+Input: Category: lights, Subcategory: library, Action: off, Sentence: Deactivate library lighting
+Expected: Library lighting deactivated
+Generated: Library lighting deactivated.
+ROUGE-L Score: 100.00%
+BERTScore: 99.16%
+
+Input: Category: camera, Subcategory: cellar, Action: on, Sentence: Turn on cellar camera at 7 PM
+Expected: Cellar camera will start at 7 PM.
+Generated: Cellar camera will start at seven PM
+ROUGE-L Score: 85.71%
+BERTScore: 97.72%
+
+Input: Category: music, Subcategory: voicecontrol, Action: enable, Sentence: Engage voice commands for music system
+Expected: Voice commands engaged
+Generated: Voice commands engaged.
+ROUGE-L Score: 100.00%
+BERTScore: 98.72%
+
+Input: Category: lights, Subcategory: kitchen, Action: on, Sentence: Turn on kitchen lights after 25 minutes
+Expected: Kitchen lights will turn on after 25 minutes
+Generated: Kitchen lights will be turned on in twenty-five minutes.
+ROUGE-L Score: 66.67%
+BERTScore: 94.60%
+
+Input: Category: camera, Subcategory: attic, Action: statusquery, Sentence: Assess camera condition now
+Expected: Condition of camera assessed now.
+Generated: Camera assessed now
+ROUGE-L Score: 75.00%
+BERTScore: 93.28%
+
+Input: Category: camera, Subcategory: all, Action: statusquery, Sentence: Assess all camera conditions
+Expected: Conditions assessed
+Generated: Camera conditions assessed.
+ROUGE-L Score: 80.00%
+BERTScore: 93.63%
+
+Input: Category: music, Subcategory: song, Action: play, Sentence: Play song at nine o'clock
+Expected: Song will start at nine o'clock.
+Generated: Song will start at 9 o’clock.
+ROUGE-L Score: 85.71%
+BERTScore: 98.46%
+
+Input: Category: camera, Subcategory: all, Action: on, Sentence: Turn all cameras on
+Expected: All cameras on
+Generated: Cameras turned on.
+ROUGE-L Score: 66.67%
+BERTScore: 89.18%
+
+Input: Category: music, Subcategory: genre, Action: play, Sentence: Play alternative music this 03 March
+Expected: Alternative music playing this 03 March.
+Generated: Alternative music playing this afternoon
+ROUGE-L Score: 72.73%
+BERTScore: 91.89%
+
+Input: Category: camera, Subcategory: kitchen, Action: statusquery, Sentence: Examine kitchen camera condition
+Expected: Condition examined
+Generated: Kitchen camera status examined
+ROUGE-L Score: 33.33%
+BERTScore: 91.04%
+
+Input: Category: shutters, Subcategory: library, Action: up, Sentence: Elevate drapes after 15 minutes
+Expected: Drapes will be elevated after 15 minutes.
+Generated: Drapes will be elevated shortly
+ROUGE-L Score: 66.67%
+BERTScore: 94.46%
+
+Input: Category: music, Subcategory: playlist, Action: removesong, Sentence: Delete track "this evening, 8 PM"
+Expected: Song will be removed from playlist this evening.
+Generated: Track will be removed from playlist this evening
+ROUGE-L Score: 87.50%
+BERTScore: 99.52%
+
+Input: Category: music, Subcategory: voicecontrol, Action: enable, Sentence: Turn on voice control in 10 minutes
+Expected: Voice control will be enabled in 10 minutes.
+Generated: Voice control will be enabled in ten minutes
+ROUGE-L Score: 87.50%
+BERTScore: 98.93%
+
+Input: Category: music, Subcategory: schedule, Action: stop, Sentence: End schedule "next Monday, June 9"
+Expected: Scheduled music will be stopped next Monday.
+Generated: Schedule will be stopped next Monday
+ROUGE-L Score: 92.31%
+BERTScore: 93.97%
+
+Input: Category: music, Subcategory: schedule, Action: play, Sentence: Activate schedule at 6 PM
+Expected: Schedule will be activated at 6 PM.
+Generated: Schedule will be activated at six PM.
+ROUGE-L Score: 85.71%
+BERTScore: 99.16%
+
+Input: Category: shutters, Subcategory: cellar, Action: down, Sentence: Drop cellar shades
+Expected: Shades dropped
+Generated: Shades dropped for the cellar.
+ROUGE-L Score: 57.14%
+BERTScore: 89.33%
+
+Input: Category: camera, Subcategory: backyard, Action: statusquery, Sentence: Analyze backyard surveillance status
+Expected: Status analyzed
+Generated: Status analyzed
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: shutters, Subcategory: bathroom, Action: up, Sentence: Raise bathroom shades
+Expected: Shades raised
+Generated: Shades raised for the bathroom.
+ROUGE-L Score: 57.14%
+BERTScore: 91.60%
+
+Input: Category: lights, Subcategory: kitchen, Action: statusquery, Sentence: Show kitchen lights
+Expected: Kitchen lights status shown
+Generated: Kitchen lights status shown.
+ROUGE-L Score: 100.00%
+BERTScore: 98.29%
+
+Input: Category: camera, Subcategory: bathroom, Action: on, Sentence: Turn on bathroom surveillance system
+Expected: Bathroom system powered on
+Generated: Bathroom surveillance started
+ROUGE-L Score: 28.57%
+BERTScore: 92.22%
+
+Input: Category: camera, Subcategory: dining room, Action: statusquery, Sentence: Review dining room camera footage
+Expected: Footage reviewed
+Generated: Dining room footage reviewed.
+ROUGE-L Score: 66.67%
+BERTScore: 87.72%
+
+Input: Category: music, Subcategory: playback, Action: repeat, Sentence: Enable repeat mode
+Expected: Repeat mode on
+Generated: Repeat mode enabled
+ROUGE-L Score: 66.67%
+BERTScore: 96.24%
+
+Input: Category: camera, Subcategory: backyard, Action: on, Sentence: Begin surveillance now
+Expected: Surveillance begun now
+Generated: Surveillance begun now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.48%
+
+Input: Category: lights, Subcategory: random, Action: on, Sentence: Switch on random lighting
+Expected: Random lighting switched on
+Generated: Random lighting switched on.
+ROUGE-L Score: 100.00%
+BERTScore: 97.61%
+
+Input: Category: camera, Subcategory: dining room, Action: statusquery, Sentence: Monitor activity today
+Expected: Activity monitored today
+Generated: Activity monitored today
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: camera, Subcategory: backyard, Action: on, Sentence: Begin backyard camera feed
+Expected: Feed begun
+Generated: Backyard feed activated.
+ROUGE-L Score: 40.00%
+BERTScore: 86.38%
+
+Input: Category: camera, Subcategory: toilet, Action: on, Sentence: Enable monitoring in the toilet at 2 AM
+Expected: toilet monitoring scheduled at 2 AM
+Generated: Toilet monitoring will start then.
+ROUGE-L Score: 36.36%
+BERTScore: 87.01%
+
+Input: Category: camera, Subcategory: all, Action: on, Sentence: Activate all surveillance now
+Expected: Surveillance activated now
+Generated: All surveillance activated now.
+ROUGE-L Score: 85.71%
+BERTScore: 94.75%
+
+Input: Category: music, Subcategory: multisource, Action: check, Sentence: Check multi-source playback "this evening, 8 PM"
+Expected: Multi-source status will be checked this evening.
+Generated: Multi-source status will be reviewed this evening.
+ROUGE-L Score: 87.50%
+BERTScore: 98.69%
+
+Input: Category: shutters, Subcategory: none, Action: down, Sentence: Close all shades at seven o'clock
+Expected: All shutters will be closed at seven o'clock.
+Generated: All shades will be closed at 7 o’clock.
+ROUGE-L Score: 77.78%
+BERTScore: 96.00%
+
+Input: Category: lights, Subcategory: all, Action: on, Sentence: Activate entire lighting
+Expected: Entire lighting activated
+Generated: Entire lighting activated.
+ROUGE-L Score: 100.00%
+BERTScore: 99.32%
+
+Input: Category: music, Subcategory: volume, Action: mute, Sentence: Stop sound now
+Expected: Sound stopped now
+Generated: sound stopped  now  for  the  next  few  hours.
+ROUGE-L Score: 54.55%
+BERTScore: 83.50%
+
+Input: Category: camera, Subcategory: attic, Action: on, Sentence: Engage attic surveillance
+Expected: Attic surveillance is now active.
+Generated: Surveillance engaged in attic.
+ROUGE-L Score: 22.22%
+BERTScore: 87.25%
+
+Input: Category: music, Subcategory: podcast, Action: play, Sentence: Launch podcast immediately
+Expected: Podcast launched immediately
+Generated: Podcast launched immediately
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: shutters, Subcategory: kitchen, Action: down, Sentence: Shut curtains tonight
+Expected: Curtains shut tonight.
+Generated: Curtains shut tonight.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: shutters, Subcategory: toilet, Action: statusquery, Sentence: Keep toilet shutters unchanged in 20 minutes
+Expected: Toilet shutters will remain unchanged in 20 minutes.
+Generated: Toilet shutter status will not be changed.
+ROUGE-L Score: 40.00%
+BERTScore: 90.95%
+
+Input: Category: lights, Subcategory: none, Action: off, Sentence: Disable all lights "next Monday, June 9"
+Expected: All lights will be turned off next Monday.
+Generated: All lights will be turned off next Monday.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: queue, Action: add, Sentence: Include song now
+Expected: Song included now
+Generated: Song included now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.91%
+
+Input: Category: music, Subcategory: schedule, Action: play, Sentence: Launch schedule
+Expected: Schedule launched
+Generated: schedule launched 1:30 PM
+ROUGE-L Score: 57.14%
+BERTScore: 89.71%
+
+Input: Category: shutters, Subcategory: cellar, Action: statusquery, Sentence: Monitor cellar blinds
+Expected: Blinds monitored
+Generated: Blinds monitored for the cellar
+ROUGE-L Score: 57.14%
+BERTScore: 95.09%
+
+Input: Category: shutters, Subcategory: basement, Action: up, Sentence: Raise shutters at six o'clock
+Expected: Basement shutters will be opened at six o'clock.
+Generated: All basement shades will be lifted at 06:00.
+ROUGE-L Score: 44.44%
+BERTScore: 90.32%
+
+Input: Category: music, Subcategory: queue, Action: check, Sentence: Monitor queue contents
+Expected: Queue contents monitored
+Generated: Queue contents monitored.
+ROUGE-L Score: 100.00%
+BERTScore: 97.73%
+
+Input: Category: music, Subcategory: playlist, Action: selectplaylist, Sentence: Activate playlist today
+Expected: Playlist activated today
+Generated: Playlist activated today.
+ROUGE-L Score: 100.00%
+BERTScore: 98.66%
+
+Input: Category: music, Subcategory: playback, Action: skip, Sentence: Advance to the next song now
+Expected: Playback skipped to next song.
+Generated: Next song playing now.
+ROUGE-L Score: 44.44%
+BERTScore: 87.02%
+
+Input: Category: camera, Subcategory: living room, Action: statusquery, Sentence: Analyze living room camera
+Expected: Living room camera analyzed
+Generated: Living room analysis completed.
+ROUGE-L Score: 50.00%
+BERTScore: 92.58%
+
+Input: Category: camera, Subcategory: kitchen, Action: statusquery, Sentence: Open kitchen camera
+Expected: Camera opened
+Generated: Kitchen camera opened.
+ROUGE-L Score: 80.00%
+BERTScore: 90.76%
+
+Input: Category: lights, Subcategory: library, Action: on, Sentence: Power on library lights
+Expected: Library lights powered on
+Generated: Library lights powered on.
+ROUGE-L Score: 100.00%
+BERTScore: 99.08%
+
+Input: Category: music, Subcategory: podcast, Action: skip, Sentence: Skip forward 30 seconds in the podcast
+Expected: Skipped forward 30 seconds in the podcast.
+Generated: Podcast will advance by thirty seconds.
+ROUGE-L Score: 15.38%
+BERTScore: 86.99%
+
+Input: Category: music, Subcategory: device, Action: switchdevice, Sentence: Switch device to patio speaker "this evening, 7 PM"
+Expected: Music will switch to patio speaker this evening.
+Generated: Device will be switched this evening.
+ROUGE-L Score: 57.14%
+BERTScore: 93.83%
+
+Input: Category: music, Subcategory: playback, Action: pause, Sentence: Pause music playback "next Monday, June 9"
+Expected: Playback will be paused next Monday.
+Generated: Playback will be paused next Monday.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: artist, Action: play, Sentence: Start artist’s songs
+Expected: Artist’s music started.
+Generated: Songs starting now.
+ROUGE-L Score: 28.57%
+BERTScore: 88.51%
+
+Input: Category: music, Subcategory: multisource, Action: play, Sentence: Play Spotify in the living room and radio in the kitchen
+Expected: Spotify playing in the living room radio in the kitchen.
+Generated: Spotify is now playing, radio is playing in kitchen.
+ROUGE-L Score: 52.63%
+BERTScore: 90.54%
+
+Input: Category: camera, Subcategory: library, Action: statusquery, Sentence: Verify library camera feed
+Expected: Library feed verified
+Generated: Library feed verified.
+ROUGE-L Score: 100.00%
+BERTScore: 98.12%
+
+Input: Category: music, Subcategory: playback, Action: loop, Sentence: Loop the current song after 10 minutes
+Expected: Loop will start shortly.
+Generated: Song will loop shortly
+ROUGE-L Score: 50.00%
+BERTScore: 92.12%
+
+Input: Category: lights, Subcategory: none, Action: on, Sentence: I would like if you made it brighter in 3 minutes
+Expected: Making it brighter in 3 minutes.
+Generated: All lights will be turned on in three minutes
+ROUGE-L Score: 26.67%
+BERTScore: 89.16%
+
+Input: Category: lights, Subcategory: cellar, Action: off, Sentence: Turn off cellar light after 1 hour
+Expected: Cellar light will go off after 1 hour
+Generated: Cellar light will turn off in one hour.
+ROUGE-L Score: 62.50%
+BERTScore: 96.35%
+
+Input: Category: camera, Subcategory: attic, Action: statusquery, Sentence: Monitor attic feed in twenty minutes
+Expected: Attic feed will be monitored in twenty minutes.
+Generated: Attic feed will be monitored in 20 minutes.
+ROUGE-L Score: 87.50%
+BERTScore: 99.44%
+
+Input: Category: camera, Subcategory: basement, Action: on, Sentence: Activate basement surveillance in two hours
+Expected: Basement camera will start in two hours.
+Generated: Basement camera will be turned on in 2 hours.
+ROUGE-L Score: 62.50%
+BERTScore: 95.74%
+
+Input: Category: camera, Subcategory: bathroom, Action: statusquery, Sentence: Check bathroom camera logs
+Expected: Logs reviewed for bathroom.
+Generated: Bathroom logs displayed
+ROUGE-L Score: 28.57%
+BERTScore: 85.83%
+
+Input: Category: music, Subcategory: artist, Action: check, Sentence: Check artist playing now
+Expected: Artist currently playing.
+Generated: Artist is currently playing.
+ROUGE-L Score: 85.71%
+BERTScore: 95.04%
+
+Input: Category: music, Subcategory: playlist, Action: addsong, Sentence: Include track after 15 minutes
+Expected: Track will be included after 15 minutes. 
+Generated: Song will be included in the playlist in fifteen minutes.
+ROUGE-L Score: 47.06%
+BERTScore: 93.20%
+
+Input: Category: music, Subcategory: playback, Action: play, Sentence: Play my favorite song
+Expected: Favorite song playing.
+Generated: Favorite song is now playing
+ROUGE-L Score: 75.00%
+BERTScore: 92.72%
+
+Input: Category: lights, Subcategory: kitchen, Action: statusquery, Sentence: Avoid changing kitchen lights this afternoon, 3 PM
+Expected: Kitchen lights will not be changed this afternoon.
+Generated: Kitchen lights will not be changed this 2:00 PM.
+ROUGE-L Score: 77.78%
+BERTScore: 95.52%
+
+Input: Category: camera, Subcategory: living room, Action: statusquery, Sentence: Show living room camera activity for today
+Expected: Living room activity shown for today. 
+Generated: Living room feed activity shown for day.
+ROUGE-L Score: 76.92%
+BERTScore: 95.62%
+
+Input: Category: music, Subcategory: playlist, Action: removesong, Sentence: Delete track from playlist
+Expected: Track deleted from playlist
+Generated: Track has been removed from the playlist.
+ROUGE-L Score: 54.55%
+BERTScore: 93.78%
+
+Input: Category: shutters, Subcategory: toilet, Action: down, Sentence: Drop curtains at 8 PM
+Expected: Curtains will be dropped at 8 PM.
+Generated: Curtains will be dropped at eight PM
+ROUGE-L Score: 85.71%
+BERTScore: 98.08%
+
+Input: Category: music, Subcategory: playback, Action: repeat, Sentence: Turn on repeat mode
+Expected: Repeat mode enabled.
+Generated: Repeat mode turned on.
+ROUGE-L Score: 57.14%
+BERTScore: 97.39%
+
+Input: Category: music, Subcategory: ambient, Action: stop, Sentence: Cease ambient music in two hours
+Expected: Ambient music will stop in two hours.
+Generated: Ambient music will stop in 2 hours.
+ROUGE-L Score: 85.71%
+BERTScore: 99.55%
+
+Input: Category: music, Subcategory: queue, Action: add, Sentence: Append song tonight
+Expected: Song appended tonight.
+Generated: Song appended tonight
+ROUGE-L Score: 100.00%
+BERTScore: 98.77%
+
+Input: Category: shutters, Subcategory: bathroom, Action: statusquery, Sentence: Inspect bathroom shutter status
+Expected: Shutter status inspected
+Generated: Shutter status inspected.
+ROUGE-L Score: 100.00%
+BERTScore: 99.04%
+
+Input: Category: music, Subcategory: multisource, Action: play, Sentence: Combine music sources
+Expected: Multi-source playback active.
+Generated: Sources combined.
+ROUGE-L Score: 33.33%
+BERTScore: 86.21%
+
+Input: Category: camera, Subcategory: basement, Action: on, Sentence: Engage surveillance after 15 minutes
+Expected: Surveillance will be engaged after 15 minutes
+Generated: 1:15: Basement surveillance will be engaged after then
+ROUGE-L Score: 62.50%
+BERTScore: 84.91%
+
+Input: Category: shutters, Subcategory: basement, Action: down, Sentence: Shut shutters tonight
+Expected: Shutters shut tonight.
+Generated: Shutters shut tonight
+ROUGE-L Score: 100.00%
+BERTScore: 99.17%
+
+Input: Category: shutters, Subcategory: none, Action: statusquery, Sentence: Maintain shutters at seven o'clock
+Expected: All shutters will remain unchanged at seven o'clock.
+Generated: Shutters will remain unchanged at 7:00 PM.
+ROUGE-L Score: 58.82%
+BERTScore: 91.37%
+
+Input: Category: lights, Subcategory: kitchen, Action: statusquery, Sentence: Kitchen lighting status check
+Expected: Status retrieved for kitchen lighting.
+Generated: Status retrieved.
+ROUGE-L Score: 57.14%
+BERTScore: 93.63%
+
+Input: Category: music, Subcategory: playback, Action: restart, Sentence: Restart current song
+Expected: Song restarted
+Generated: Current song restarted.
+ROUGE-L Score: 80.00%
+BERTScore: 93.56%
+
+Input: Category: music, Subcategory: playback, Action: loop, Sentence: Loop my playlist now
+Expected: Playlist is looping now.
+Generated: Playlist set to loop.
+ROUGE-L Score: 50.00%
+BERTScore: 94.32%
+
+Input: Category: camera, Subcategory: kitchen, Action: on, Sentence: Activate kitchen camera system
+Expected: Kitchen camera system activated
+Generated: kitchen  camera  system  activated  now.
+ROUGE-L Score: 88.89%
+BERTScore: 88.86%
+
+Input: Category: lights, Subcategory: living room, Action: off, Sentence: Switch off living lights tomorrow
+Expected: Living lights scheduled to turn off tomorrow
+Generated: Living room lights will be off tomorrow.
+ROUGE-L Score: 57.14%
+BERTScore: 92.98%
+
+Input: Category: music, Subcategory: sleeptimer, Action: set, Sentence: Configure timer immediately
+Expected: Timer configured immediately
+Generated: Timer configured immediately
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: queue, Action: clear, Sentence: Wipe queue
+Expected: Queue wiped
+Generated: Queue wiped.
+ROUGE-L Score: 100.00%
+BERTScore: 98.82%
+
+Input: Category: music, Subcategory: playlist, Action: selectplaylist, Sentence: Switch playlist
+Expected: Playlist switched
+Generated: Playlist switched.
+ROUGE-L Score: 100.00%
+BERTScore: 97.74%
+
+Input: Category: camera, Subcategory: bathroom, Action: on, Sentence: Launch bathroom camera
+Expected: Camera launched
+Generated: Bathroom camera launched.
+ROUGE-L Score: 80.00%
+BERTScore: 90.06%
+
+Input: Category: music, Subcategory: power, Action: turnon, Sentence: Activate music player at mid night
+Expected: Player will power up at mid night.
+Generated: Power will be turned on at midnight
+ROUGE-L Score: 28.57%
+BERTScore: 93.47%
+
+Input: Category: lights, Subcategory: kitchen, Action: off, Sentence: Turn off the lights in the kitchen
+Expected: Turning off the kitchen lights.
+Generated: Activating kitchen lights off
+ROUGE-L Score: 44.44%
+BERTScore: 92.07%
+
+Input: Category: music, Subcategory: schedule, Action: cancel, Sentence: Clear schedule after 20 minutes
+Expected: Schedule will be cleared after 20 minutes.
+Generated: Schedule still not cleared, will try again.
+ROUGE-L Score: 28.57%
+BERTScore: 86.85%
+
+Input: Category: lights, Subcategory: none, Action: statusquery, Sentence: Keep lights as is "this afternoon, 4 PM"
+Expected: All lights will remain unchanged this afternoon.
+Generated: All lights will remain unchanged this afternoon.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: power, Action: turnoff, Sentence: Power down after 1 hour
+Expected: Player will power down after 1 hour.
+Generated: System will power down in one hour.
+ROUGE-L Score: 57.14%
+BERTScore: 97.19%
+
+Input: Category: music, Subcategory: schedule, Action: play, Sentence: Begin schedule immediately
+Expected: Schedule began immediately
+Generated: Schedule began immediately.
+ROUGE-L Score: 100.00%
+BERTScore: 98.98%
+
+Input: Category: shutters, Subcategory: kitchen, Action: down, Sentence: Lower blinds now
+Expected: Blinds lowered now
+Generated: Blinds lowered now for the kitchen.
+ROUGE-L Score: 66.67%
+BERTScore: 95.32%
+
+Input: Category: camera, Subcategory: backyard, Action: statusquery, Sentence: Show backyard camera
+Expected: Backyard camera status shown
+Generated: Backyard camera status shown.
+ROUGE-L Score: 100.00%
+BERTScore: 99.08%
+
+Input: Category: music, Subcategory: device, Action: multiroom, Sentence: Enable multi-room music at eight o'clock
+Expected: Multi-room music will start at eight o'clock.
+Generated: All rooms music will start at 8:00 PM.
+ROUGE-L Score: 55.56%
+BERTScore: 93.64%
+
+Input: Category: lights, Subcategory: none, Action: statusquery, Sentence: Keep all lights as they are now
+Expected: Lights unchanged.
+Generated: All lights unchanged
+ROUGE-L Score: 80.00%
+BERTScore: 91.83%
+
+Input: Category: music, Subcategory: playlist, Action: removesong, Sentence: Take song off playlist
+Expected: Song removed from playlist
+Generated: Song has been removed from the playlist.
+ROUGE-L Score: 72.73%
+BERTScore: 94.99%
+
+Input: Category: lights, Subcategory: cellar, Action: on, Sentence: Start all cellar lights
+Expected: All cellar lights started
+Generated: all  cellar  lights  started  successfully.
+ROUGE-L Score: 88.89%
+BERTScore: 88.08%
+
+Input: Category: music, Subcategory: playlist, Action: reorder, Sentence: Organize songs immediately
+Expected: Songs organized immediately
+Generated: Songs organized immediately.
+ROUGE-L Score: 100.00%
+BERTScore: 99.15%
+
+Input: Category: shutters, Subcategory: kitchen, Action: statusquery, Sentence: Examine kitchen shutters
+Expected: Shutters examined
+Generated: Shutters examined.
+ROUGE-L Score: 100.00%
+BERTScore: 98.41%
+
+Input: Category: music, Subcategory: sleeptimer, Action: check, Sentence: Verify sleep timer
+Expected: Sleep timer verified
+Generated: Sleep timer verified
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: camera, Subcategory: basement, Action: on, Sentence: Enable basement camera
+Expected: Basement camera enabled
+Generated: Basement camera enabled.
+ROUGE-L Score: 100.00%
+BERTScore: 99.19%
+
+Input: Category: camera, Subcategory: kitchen, Action: on, Sentence: Launch camera at 8 AM
+Expected: Camera will be launched at 8 AM
+Generated: Camera will be turned on at eight o'clock.
+ROUGE-L Score: 50.00%
+BERTScore: 92.16%
+
+Input: Category: camera, Subcategory: none, Action: statusquery, Sentence: Show all cameras
+Expected: All cameras status shown
+Generated: All camera feeds displayed.
+ROUGE-L Score: 50.00%
+BERTScore: 93.12%
+
+Input: Category: camera, Subcategory: none, Action: statusquery, Sentence: Verify camera network at 3 PM
+Expected: Camera system status will be checked at 3 PM.
+Generated: Camera network will be reviewed at PM
+ROUGE-L Score: 62.50%
+BERTScore: 93.12%
+
+Input: Category: lights, Subcategory: cellar, Action: on, Sentence: Enable cellar lighting
+Expected: Cellar lighting enabled
+Generated: Cellar lighting enabled.
+ROUGE-L Score: 100.00%
+BERTScore: 99.23%
+
+Input: Category: camera, Subcategory: outside, Action: on, Sentence: Turn on the camera in the outside
+Expected: Turning on the outside camera tomorrow.
+Generated: Activating outside camera now.
+ROUGE-L Score: 40.00%
+BERTScore: 90.47%
+
+Input: Category: lights, Subcategory: bathroom, Action: off, Sentence: Stop bathroom lights
+Expected: Bathroom lights stopped
+Generated: Bathroom lights stopped.
+ROUGE-L Score: 100.00%
+BERTScore: 96.81%
+
+Input: Category: lights, Subcategory: dining room, Action: statusquery, Sentence: What was the dining room light status in 2023?
+Expected: Dining room lighting status from 2023 retrieved
+Generated: Dining room lights were turned on from June 15 to July 22, in the past year
+ROUGE-L Score: 34.78%
+BERTScore: 87.94%
+
+Input: Category: music, Subcategory: sleeptimer, Action: check, Sentence: Assess sleep timer
+Expected: Sleep timer assessed
+Generated: Sleep timer assessed.
+ROUGE-L Score: 100.00%
+BERTScore: 98.22%
+
+Input: Category: shutters, Subcategory: cellar, Action: up, Sentence: Lift shades tonight
+Expected: Shades lifted tonight.
+Generated: Shades lifted tonight
+ROUGE-L Score: 100.00%
+BERTScore: 97.40%
+
+Input: Category: shutters, Subcategory: toilet, Action: statusquery, Sentence: Examine toilet shutters
+Expected: Shutters examined
+Generated: Shutters examined.
+ROUGE-L Score: 100.00%
+BERTScore: 98.41%
+
+Input: Category: lights, Subcategory: all, Action: on, Sentence: Start all lighting
+Expected: All lighting started
+Generated: All lighting started.
+ROUGE-L Score: 100.00%
+BERTScore: 98.62%
+
+Input: Category: music, Subcategory: device, Action: multiroom, Sentence: Play music in all rooms
+Expected: Multi-room music enabled.
+Generated: Multi-room music activated.
+ROUGE-L Score: 75.00%
+BERTScore: 98.69%
+
+Input: Category: music, Subcategory: queue, Action: add, Sentence: Add song "this afternoon, 3 PM"
+Expected: Song will be added to queue this afternoon.
+Generated: Song will be added to queue this afternoon.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: ambient, Action: play, Sentence: Play ambient sounds for 30 minutes
+Expected: Playing ambient sounds for 30 minutes.
+Generated: Ambient sounds playing for thirty minutes.
+ROUGE-L Score: 66.67%
+BERTScore: 94.72%
+
+Input: Category: music, Subcategory: volume, Action: check, Sentence: Verify volume at 9 PM
+Expected: Volume will be verified at 9 PM.
+Generated: Volume will reviewed at nine PM.
+ROUGE-L Score: 61.54%
+BERTScore: 92.83%
+
+Input: Category: music, Subcategory: queue, Action: check, Sentence: How many songs are in the queue?
+Expected: There are 5 songs in the queue.
+Generated: 15 songs in queue.
+ROUGE-L Score: 54.55%
+BERTScore: 94.16%
+
+Input: Category: lights, Subcategory: bathroom, Action: off, Sentence: Switch off all bathroom lights
+Expected: All bathroom lights switched off
+Generated: all  bathroom  lights  switched  off.
+ROUGE-L Score: 100.00%
+BERTScore: 90.90%
+
+Input: Category: lights, Subcategory: cellar, Action: on, Sentence: Can you make it less dark in the cellar in 45 minutes?
+Expected: Brightening the cellar in 45 minutes.
+Generated: Adjusting cellar lighting in forty-five minutes.
+ROUGE-L Score: 46.15%
+BERTScore: 92.83%
+
+Input: Category: music, Subcategory: multisource, Action: play, Sentence: Play all sources on all devices
+Expected: All sources playing now.
+Generated: All sources playing on devices.
+ROUGE-L Score: 66.67%
+BERTScore: 91.80%
+
+Input: Category: music, Subcategory: playlist, Action: delete, Sentence: Clear playlist after 15 minutes
+Expected: Playlist will be cleared after 15 minutes. 
+Generated: Playlist will be cleared in fifteen minutes.
+ROUGE-L Score: 71.43%
+BERTScore: 97.50%
+
+Input: Category: camera, Subcategory: basement, Action: statusquery, Sentence: Assess basement surveillance
+Expected: Surveillance assessed
+Generated: Basement surveillance assessed.
+ROUGE-L Score: 80.00%
+BERTScore: 90.02%
+
+Input: Category: music, Subcategory: volume, Action: check, Sentence: Evaluate volume level
+Expected: Volume level evaluated
+Generated: Volume level evaluated.
+ROUGE-L Score: 100.00%
+BERTScore: 99.02%
+
+Input: Category: music, Subcategory: voicecontrol, Action: disable, Sentence: Disable voice control at nine o'clock
+Expected: Voice control will be disabled at nine o'clock.
+Generated: Voice control will be disabled at that time.
+ROUGE-L Score: 70.59%
+BERTScore: 93.64%
+
+Input: Category: music, Subcategory: genre, Action: play, Sentence: Play hip-hop music now
+Expected: Hip-hop music is now playing.
+Generated: Hip-hop playing now.
+ROUGE-L Score: 60.00%
+BERTScore: 94.75%
+
+Input: Category: shutters, Subcategory: cellar, Action: statusquery, Sentence: Assess shades now
+Expected: Shades assessed now
+Generated: Shades assessed now
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: camera, Subcategory: cellar, Action: on, Sentence: Begin surveillance now
+Expected: Surveillance begun now
+Generated: Surveillance begun now.
+ROUGE-L Score: 100.00%
+BERTScore: 98.48%
+
+Input: Category: camera, Subcategory: library, Action: statusquery, Sentence: View library camera
+Expected: Library camera view active
+Generated: Library camera view active.
+ROUGE-L Score: 100.00%
+BERTScore: 99.42%
+
+Input: Category: camera, Subcategory: attic, Action: on, Sentence: Activate surveillance after 15 minutes
+Expected: Surveillance will be activated after 15 minutes.
+Generated: Surveillance will be turned on shortly
+ROUGE-L Score: 46.15%
+BERTScore: 83.59%
+
+Input: Category: music, Subcategory: playback, Action: play, Sentence: Play music at seven o'clock
+Expected: Playback will start at seven o'clock.
+Generated: Music will start at 7:00 PM.
+ROUGE-L Score: 42.86%
+BERTScore: 91.39%
+
+Input: Category: lights, Subcategory: toilet, Action: off, Sentence: Turn off all toilet lights
+Expected: All toilet lights turned off
+Generated: all  toilet  lights  off  now.
+ROUGE-L Score: 80.00%
+BERTScore: 87.77%
+
+Input: Category: music, Subcategory: multisource, Action: sync, Sentence: Align music sources at 6 PM
+Expected: Sources will be synchronized at 6 PM.
+Generated: Sources will be synchronized at six.
+ROUGE-L Score: 76.92%
+BERTScore: 97.99%
+
+Input: Category: music, Subcategory: device, Action: switchdevice, Sentence: Switch music to the kitchen speaker
+Expected: Music switched to the kitchen speaker.
+Generated: Music switched to kitchen.
+ROUGE-L Score: 80.00%
+BERTScore: 94.18%
+
+Input: Category: lights, Subcategory: dining room, Action: statusquery, Sentence: View dining room lights status
+Expected: Lights status view active
+Generated: Lights status shown.
+ROUGE-L Score: 57.14%
+BERTScore: 88.23%
+
+Input: Category: camera, Subcategory: none, Action: on, Sentence: Power on security system
+Expected: Security system powered on
+Generated: Security system powered on.
+ROUGE-L Score: 100.00%
+BERTScore: 98.65%
+
+Input: Category: lights, Subcategory: all, Action: on, Sentence: Enable all house lights tomorrow morning
+Expected: All house lights will be enabled tomorrow morning
+Generated: All lights will be turned on tomorrow.
+ROUGE-L Score: 66.67%
+BERTScore: 94.34%
+
+Input: Category: lights, Subcategory: kitchen, Action: statusquery, Sentence: Keep kitchen lights unchanged in one day
+Expected: Kitchen lights will remain unchanged in one day.
+Generated: Kitchen lights will remain unchanged tomorrow.
+ROUGE-L Score: 71.43%
+BERTScore: 94.96%
+
+Input: Category: camera, Subcategory: cellar, Action: on, Sentence: Launch camera at 9 AM
+Expected: Camera will be launched at 9 AM
+Generated: Camera will be turned on at nine o'clock.
+ROUGE-L Score: 50.00%
+BERTScore: 92.17%
+
+Input: Category: music, Subcategory: playbackspeed, Action: resetspeed, Sentence: Restore default playback speed
+Expected: Default playback speed restored
+Generated: Default speed restored.
+ROUGE-L Score: 85.71%
+BERTScore: 93.69%
+
+Input: Category: camera, Subcategory: outside, Action: statusquery, Sentence: Check outside camera status
+Expected: Outside camera details displayed.
+Generated: Outside camera details displayed
+ROUGE-L Score: 100.00%
+BERTScore: 98.65%
+
+Input: Category: lights, Subcategory: dining room, Action: statusquery, Sentence: Check dining room lights status
+Expected: Dining room lights status retrieved
+Generated: Dining room lighting status retrieved.
+ROUGE-L Score: 100.00%
+BERTScore: 97.80%
+
+Input: Category: shutters, Subcategory: kitchen, Action: statusquery, Sentence: Assess kitchen shades
+Expected: Shades assessed
+Generated: Shade assessment completed.
+ROUGE-L Score: 80.00%
+BERTScore: 92.10%
+
+Input: Category: music, Subcategory: playback, Action: resume, Sentence: Start music again
+Expected: music resumed.
+Generated: music resumed.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: playback, Action: pause, Sentence: Pause the music
+Expected: Music paused.
+Generated: Music is paused.
+ROUGE-L Score: 80.00%
+BERTScore: 92.99%
+
+Input: Category: lights, Subcategory: kitchen, Action: statusquery, Sentence: Keep kitchen lights on in twenty minutes
+Expected: Kitchen lights will remain on in twenty minutes.
+Generated: Kitchen lights will remain active in 20 minutes
+ROUGE-L Score: 75.00%
+BERTScore: 96.71%
+
+Input: Category: camera, Subcategory: kitchen, Action: statusquery, Sentence: Monitor kitchen camera activity
+Expected: Activity monitored
+Generated: Kitchen activity monitored.
+ROUGE-L Score: 80.00%
+BERTScore: 94.73%
+
+Input: Category: lights, Subcategory: toilet, Action: on, Sentence: Turn toilet lights on
+Expected: Toilet lights on
+Generated: Toilet lights are on now.
+ROUGE-L Score: 75.00%
+BERTScore: 95.42%
+
+Input: Category: music, Subcategory: playback, Action: pause, Sentence: Hold music playback
+Expected: Music is paused.
+Generated: music is paused.
+ROUGE-L Score: 100.00%
+BERTScore: 98.94%
+
+Input: Category: music, Subcategory: playbackspeed, Action: adjustspeed, Sentence: Adjust tempo
+Expected: Tempo adjusted.
+Generated: Tempo adjusted
+ROUGE-L Score: 100.00%
+BERTScore: 98.76%
+
+Input: Category: music, Subcategory: radio, Action: play, Sentence: Play BBC Radio 1
+Expected: BBC Radio 1 is now playing.
+Generated: playing  now
+ROUGE-L Score: 25.00%
+BERTScore: 80.92%
+
+Input: Category: shutters, Subcategory: kitchen, Action: statusquery, Sentence: Examine shutters today
+Expected: Shutters examined today
+Generated: Shutters examined today.
+ROUGE-L Score: 100.00%
+BERTScore: 98.56%
+
+Input: Category: lights, Subcategory: kitchen, Action: on, Sentence: Activate kitchen lights at 8 PM
+Expected: Kitchen lights will be turned on at 8 PM.
+Generated: Kitchen lights will be turned on at eight PM.
+ROUGE-L Score: 88.89%
+BERTScore: 99.48%
+
+Input: Category: music, Subcategory: device, Action: volumesync, Sentence: Balance audio across all devices now
+Expected: Volume synced across all devices.
+Generated: Audio balanced now.
+ROUGE-L Score: 0.00%
+BERTScore: 88.06%
+
+Input: Category: shutters, Subcategory: kitchen, Action: down, Sentence: Close kitchen shutters
+Expected: Shutters closed
+Generated: Shutters closed in the kitchen.
+ROUGE-L Score: 57.14%
+BERTScore: 93.00%
+
+Input: Category: lights, Subcategory: none, Action: off, Sentence: Disable all lighting
+Expected: All lighting disabled
+Generated: All lighting disabled.
+ROUGE-L Score: 100.00%
+BERTScore: 98.41%
+
+Input: Category: camera, Subcategory: cellar, Action: on, Sentence: Turn on the camera in the cellar
+Expected: Turning on the cellar camera minute.
+Generated: Activating cellar camera now.
+ROUGE-L Score: 40.00%
+BERTScore: 89.40%
+
+Input: Category: camera, Subcategory: bathroom, Action: statusquery, Sentence: Check for activity on the bathroom camera
+Expected: Activity checked
+Generated: Bathroom camera activity status retrieved.
+ROUGE-L Score: 28.57%
+BERTScore: 84.69%
+
+Input: Category: lights, Subcategory: dining room, Action: off, Sentence: Shut off dining room lights
+Expected: Dining room lights shut off
+Generated: Dining room  lights shut off
+ROUGE-L Score: 100.00%
+BERTScore: 96.38%
+
+Input: Category: music, Subcategory: voicecontrol, Action: check, Sentence: Check voice control yesterday
+Expected: Voice control checked for yesterday.
+Generated: Voice control reviewed for yesterday.
+ROUGE-L Score: 80.00%
+BERTScore: 97.78%
+
+Input: Category: music, Subcategory: volume, Action: unmute, Sentence: Turn on volume at 7 PM
+Expected: Volume will be turned on at 7 PM.
+Generated: 1:07 PM: Music volume will be turned on at that time.
+ROUGE-L Score: 60.00%
+BERTScore: 89.77%
+
+Input: Category: music, Subcategory: playback, Action: check, Sentence: Is music playing?
+Expected: Playback status: on
+Generated: Music is playing.
+ROUGE-L Score: 0.00%
+BERTScore: 83.79%
+
+Input: Category: lights, Subcategory: random, Action: off, Sentence: Stop random lights
+Expected: Random lights stopped
+Generated: Random lights stopped.
+ROUGE-L Score: 100.00%
+BERTScore: 97.93%
+
+Input: Category: lights, Subcategory: library, Action: off, Sentence: Power off library lights
+Expected: Library lights powered off
+Generated: Library lights powered off.
+ROUGE-L Score: 100.00%
+BERTScore: 98.30%
+
+Input: Category: camera, Subcategory: bathroom, Action: on, Sentence: Switch on bathroom camera
+Expected: Bathroom camera switched on
+Generated: Bathroom camera switched on.
+ROUGE-L Score: 100.00%
+BERTScore: 98.79%
+
+Input: Category: music, Subcategory: device, Action: check, Sentence: Check music device status
+Expected: Device is active
+Generated: Device status: active.
+ROUGE-L Score: 66.67%
+BERTScore: 90.82%
+
+Input: Category: lights, Subcategory: kitchen, Action: off, Sentence: Turn off kitchen lights in two hours
+Expected: Kitchen lights will be turned off in two hours.
+Generated: Kitchen lights will be turned off in 2 hours.
+ROUGE-L Score: 88.89%
+BERTScore: 99.56%
+
+Input: Category: shutters, Subcategory: living room, Action: down, Sentence: Shut drapes now
+Expected: Drapes shut now
+Generated: Drapes shut now.
+ROUGE-L Score: 100.00%
+BERTScore: 97.03%
+
+Input: Category: music, Subcategory: playlist, Action: check, Sentence: Inspect playlist contents
+Expected: Playlist contents inspected
+Generated: Playlist contents inspected.
+ROUGE-L Score: 100.00%
+BERTScore: 98.11%
+
+Input: Category: lights, Subcategory: basement, Action: on, Sentence: Switch on basement lighting
+Expected: Basement lighting switched on
+Generated: Basement lighting switched on.
+ROUGE-L Score: 100.00%
+BERTScore: 98.82%
+
+Input: Category: music, Subcategory: playback, Action: check, Sentence: Is music paused?
+Expected: Music is not paused.
+Generated: music status: paused
+ROUGE-L Score: 57.14%
+BERTScore: 85.70%
+
+Input: Category: camera, Subcategory: backyard, Action: on, Sentence: Enable backyard monitoring at seven o'clock
+Expected: Backyard camera will start at seven o'clock.
+Generated: backyard camera will start at 07:00.
+ROUGE-L Score: 66.67%
+BERTScore: 91.43%
+
+Input: Category: music, Subcategory: multisource, Action: sync, Sentence: Sync all music sources now
+Expected: Sources synchronized now.
+Generated: Sources synced now
+ROUGE-L Score: 66.67%
+BERTScore: 96.71%
+
+Input: Category: music, Subcategory: song, Action: check, Sentence: Verify song at 8 PM
+Expected: Song will be verified at 8 PM.
+Generated: Song will be verified at eight PM
+ROUGE-L Score: 85.71%
+BERTScore: 97.07%
+
+Input: Category: shutters, Subcategory: kitchen, Action: up, Sentence: Lift blinds now
+Expected: Blinds lifted now
+Generated: Blinds lifted now for the kitchen
+ROUGE-L Score: 66.67%
+BERTScore: 95.37%
+
+Input: Category: lights, Subcategory: attic, Action: off, Sentence: Switch off all attic lights
+Expected: All attic lights switched off
+Generated: ALL ATTIC LIGHTS SWITCHED OFF.
+ROUGE-L Score: 100.00%
+BERTScore: 90.45%
+
+Input: Category: lights, Subcategory: living room, Action: off, Sentence: Deactivate living room lights
+Expected: Living room lights deactivated
+Generated: Living room  lights  deactivated.
+ROUGE-L Score: 100.00%
+BERTScore: 93.89%
+
+Input: Category: music, Subcategory: playback, Action: stop, Sentence: Stop music at 10 PM
+Expected: Music will stop at 10 PM.
+Generated: Playback will stop at that time.
+ROUGE-L Score: 50.00%
+BERTScore: 88.68%
+
+Input: Category: camera, Subcategory: backyard, Action: on, Sentence: Enable backyard monitoring in twenty minutes
+Expected: Backyard camera will start in twenty minutes.
+Generated: Backyard camera will be turned on in 20 minutes.
+ROUGE-L Score: 62.50%
+BERTScore: 96.68%
+
+Input: Category: shutters, Subcategory: kitchen, Action: statusquery, Sentence: Assess kitchen shades
+Expected: Shades assessed
+Generated: Shade assessment completed.
+ROUGE-L Score: 80.00%
+BERTScore: 92.10%
+
+Input: Category: music, Subcategory: playlist, Action: addsong, Sentence: Integrate track into playlist
+Expected: Track integrated into playlist
+Generated: Track integrated successfully.
+ROUGE-L Score: 57.14%
+BERTScore: 91.35%
+
+Input: Category: lights, Subcategory: random, Action: off, Sentence: Turn off random lights in 10 minutes
+Expected: Random lights will turn off in 10 minutes
+Generated: Random lights will be turned off in ten minutes.
+ROUGE-L Score: 82.35%
+BERTScore: 97.65%
+
+Input: Category: music, Subcategory: voicecontrol, Action: enable, Sentence: Enable voice control for music in 10 minutes
+Expected: Voice control will be enabled in 10 minutes.
+Generated: Voice control will be enabled in ten minutes.
+ROUGE-L Score: 87.50%
+BERTScore: 99.59%
+
+Input: Category: music, Subcategory: equalizer, Action: adjust, Sentence: Set equalizer presets now
+Expected: Equalizer presets applied.
+Generated: Presets set now.
+ROUGE-L Score: 33.33%
+BERTScore: 88.59%
+
+Input: Category: lights, Subcategory: attic, Action: off, Sentence: Stop attic lights
+Expected: Attic lights stopped
+Generated: Attic lights stopped.
+ROUGE-L Score: 100.00%
+BERTScore: 97.57%
+
+Input: Category: lights, Subcategory: dining room, Action: off, Sentence: Disable dining room lights next weekend
+Expected: Dining room lights scheduled to turn off next weekend
+Generated: Dining room lighting will be off next week.
+ROUGE-L Score: 58.82%
+BERTScore: 93.86%
+
+Input: Category: camera, Subcategory: library, Action: on, Sentence: Start feed today
+Expected: Feed started today
+Generated: Feed started today.
+ROUGE-L Score: 100.00%
+BERTScore: 99.00%
+
+Input: Category: camera, Subcategory: attic, Action: statusquery, Sentence: Review attic feed this afternoon, 2 PM
+Expected: Attic feed will be reviewed this afternoon.
+Generated: Attic feed will be reviewed this morning
+ROUGE-L Score: 85.71%
+BERTScore: 97.81%
+
+Input: Category: music, Subcategory: song, Action: check, Sentence: Assess song status
+Expected: Song status assessed
+Generated: Song status assessed.
+ROUGE-L Score: 100.00%
+BERTScore: 98.27%
+
+Input: Category: shutters, Subcategory: none, Action: down, Sentence: Shut drapes now
+Expected: Drapes shut now
+Generated: Drapes shut now.
+ROUGE-L Score: 100.00%
+BERTScore: 97.03%
+
+Input: Category: lights, Subcategory: dining room, Action: off, Sentence: Extinguish dining room lighting
+Expected: Dining room lighting extinguished
+Generated: Dining room light extinguished.
+ROUGE-L Score: 100.00%
+BERTScore: 97.57%
+
+Input: Category: music, Subcategory: playbackspeed, Action: resetspeed, Sentence: Clear playback speed changes
+Expected: Playback speed changes cleared
+Generated: Speeds cleared.
+ROUGE-L Score: 66.67%
+BERTScore: 88.71%
+
+Input: Category: camera, Subcategory: attic, Action: statusquery, Sentence: Display attic camera
+Expected: Attic camera displayed
+Generated: Attic camera displayed.
+ROUGE-L Score: 100.00%
+BERTScore: 99.25%
+
+Input: Category: shutters, Subcategory: toilet, Action: statusquery, Sentence: Assess toilet shades
+Expected: Shades assessed
+Generated: Shade assessment completed.
+ROUGE-L Score: 80.00%
+BERTScore: 92.10%
+
+Input: Category: camera, Subcategory: outside, Action: statusquery, Sentence: Display feed from outside camera
+Expected: Outside camera feed displayed
+Generated: Outside camera feed displayed.
+ROUGE-L Score: 100.00%
+BERTScore: 99.19%
+
+Input: Category: music, Subcategory: multisource, Action: check, Sentence: List music sources
+Expected: Sources displayed
+Generated: Sources listed.
+ROUGE-L Score: 50.00%
+BERTScore: 93.29%
+
+Input: Category: music, Subcategory: playlist, Action: create, Sentence: Create playlist at six o'clock
+Expected: New playlist will be created at six o'clock.
+Generated: 6 o’clock playlist will be created.
+ROUGE-L Score: 50.00%
+BERTScore: 93.49%
+
+Input: Category: lights, Subcategory: none, Action: on, Sentence: Turn on the lights when I get home
+Expected: Turning on the lights when you get home.
+Generated: Activating lights to turn on at home.
+ROUGE-L Score: 40.00%
+BERTScore: 89.00%
+
+Input: Category: music, Subcategory: ambient, Action: check, Sentence: Is ambient music playing this morning?
+Expected: Ambient music is playing this morning.
+Generated: Ambient music is currently playing
+ROUGE-L Score: 72.73%
+BERTScore: 91.93%
+
+Input: Category: lights, Subcategory: none, Action: off, Sentence: Switch off all lights at 9 PM
+Expected: All lights will be turned off at 9 PM.
+Generated: All lights will be turned off at nine PM.
+ROUGE-L Score: 88.89%
+BERTScore: 99.57%
+
+Input: Category: shutters, Subcategory: cellar, Action: up, Sentence: Raise shutters after 20 minutes
+Expected: Shutters will be raised after 20 minutes.
+Generated: Shutters will be raised shortly.
+ROUGE-L Score: 66.67%
+BERTScore: 93.62%
+
+Input: Category: lights, Subcategory: none, Action: on, Sentence: Enable all lights this evening, 7 PM
+Expected: All lights will be turned on this evening.
+Generated: All lights will be turned on this afternoon.
+ROUGE-L Score: 87.50%
+BERTScore: 99.41%
+
+Input: Category: shutters, Subcategory: living room, Action: down, Sentence: Seal shades tonight
+Expected: Shades sealed tonight.
+Generated: Shades sealed tonight
+ROUGE-L Score: 100.00%
+BERTScore: 99.00%
+
+Input: Category: shutters, Subcategory: none, Action: statusquery, Sentence: Keep all shutters unchanged in 25 minutes
+Expected: All shutters will remain unchanged in 25 minutes.
+Generated: All windows will remain as they are in twenty-five minutes.
+ROUGE-L Score: 52.63%
+BERTScore: 92.01%
+
+Input: Category: camera, Subcategory: living room, Action: on, Sentence: Switch on living room camera
+Expected: Living room camera switched on
+Generated: Living room  camera  switched  on
+ROUGE-L Score: 100.00%
+BERTScore: 90.54%
+
+Input: Category: music, Subcategory: ambient, Action: check, Sentence: Check ambient music status this afternoon, 3 PM
+Expected: Ambient music status will be checked this afternoon.
+Generated: Ambient status will be reviewed this  afternoon.
+ROUGE-L Score: 80.00%
+BERTScore: 94.57%
+
+Input: Category: camera, Subcategory: basement, Action: on, Sentence: I want the basement camera turned on
+Expected: Basement camera is now on.
+Generated: Basement camera is now on.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: camera, Subcategory: backyard, Action: statusquery, Sentence: Check if backyard camera was triggered
+Expected: Camera was triggered recently
+Generated: Backyard camera status retrieved.
+ROUGE-L Score: 25.00%
+BERTScore: 85.58%
+
+Input: Category: camera, Subcategory: bathroom, Action: on, Sentence: Activate bathroom surveillance in 5 minutes
+Expected: Bathroom camera will start in 5 minutes.
+Generated: Bathroom camera will start in five minutes.
+ROUGE-L Score: 85.71%
+BERTScore: 99.67%
+
+Input: Category: shutters, Subcategory: cellar, Action: up, Sentence: Raise cellar shutters
+Expected: Cellar shutters raised
+Generated: Shutters raised in the cellar.
+ROUGE-L Score: 50.00%
+BERTScore: 86.05%
+
+Input: Category: music, Subcategory: device, Action: volumesync, Sentence: Sync volume across devices "next Monday, June 14"
+Expected: Volume will be synchronized next Monday.
+Generated: Volume will be synchronized for all devices next Monday.
+ROUGE-L Score: 80.00%
+BERTScore: 95.29%
+
+Input: Category: music, Subcategory: device, Action: multiroom, Sentence: Enable multi-room music from 7 PM to 9 PM
+Expected: Music playing from 7 PM to 9 PM.
+Generated: Multiroom music enabled in one hour.
+ROUGE-L Score: 14.29%
+BERTScore: 84.40%
+
+Input: Category: music, Subcategory: queue, Action: clear, Sentence: Wipe queue immediately
+Expected: Queue wiped immediately
+Generated: Queue wiped immediately.
+ROUGE-L Score: 100.00%
+BERTScore: 98.89%
+
+Input: Category: music, Subcategory: volume, Action: mute, Sentence: Silence audio after 15 minutes
+Expected: Audio will be silenced after 15 minutes.
+Generated: Audio will be muted after fifteen minutes.
+ROUGE-L Score: 71.43%
+BERTScore: 96.52%
+
+Input: Category: music, Subcategory: device, Action: check, Sentence: Which speaker is currently active?
+Expected: The speaker is active.
+Generated: the music is active in the living room speaker.
+ROUGE-L Score: 46.15%
+BERTScore: 92.28%
+
+Input: Category: music, Subcategory: radio, Action: play, Sentence: Start radio "this afternoon, 4 PM"
+Expected: Radio will start this afternoon.
+Generated: Radio will start this afternoon.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: playback, Action: resume, Sentence: Continue music "tomorrow, June 7"
+Expected: Playback will resume tomorrow.
+Generated: Playback will resume tomorrow.
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: playbackspeed, Action: check, Sentence: Display playback speed
+Expected: Speed displayed.
+Generated: Playback speed displayed.
+ROUGE-L Score: 80.00%
+BERTScore: 91.94%
+
+Input: Category: music, Subcategory: playlist, Action: addsong, Sentence: Add "Stairway to Heaven" to my morning playlist
+Expected: Stairway to Heaven added to morning playlist.
+Generated: Song has been added to the playlist
+ROUGE-L Score: 42.86%
+BERTScore: 86.89%
+
+Input: Category: music, Subcategory: playbackspeed, Action: check, Sentence: Check playback speed
+Expected: Current speed displayed.
+Generated: Playback speed retrieved
+ROUGE-L Score: 33.33%
+BERTScore: 90.97%
+
+Input: Category: lights, Subcategory: basement, Action: off, Sentence: Switch off basement lighting in 20 minutes
+Expected: Basement lights will be turned off in 20 minutes.
+Generated: Basement lights will be turned off in twenty minutes
+ROUGE-L Score: 88.89%
+BERTScore: 99.01%
+
+Input: Category: music, Subcategory: queue, Action: clear, Sentence: Clear queue at six o'clock
+Expected: Queue will be cleared at six o'clock.
+Generated: music queue will be cleared then.
+ROUGE-L Score: 57.14%
+BERTScore: 87.06%
+
+Input: Category: music, Subcategory: voicecontrol, Action: check, Sentence: Inspect voice control immediately
+Expected: Voice control inspected immediately
+Generated: Voice control inspected immediately
+ROUGE-L Score: 100.00%
+BERTScore: 100.00%
+
+Input: Category: music, Subcategory: power, Action: turnoff, Sentence: Deactivate music system
+Expected: Music system deactivated
+Generated: Music system deactivated.
+ROUGE-L Score: 100.00%
+BERTScore: 99.05%
+
+Input: Category: camera, Subcategory: outside, Action: statusquery, Sentence: Show last 24-hour feed of outside camera
+Expected: 24-hour feed displayed
+Generated: Outside camera feed shown for the past day.
+ROUGE-L Score: 16.67%
+BERTScore: 90.62%
+
+Input: Category: music, Subcategory: playback, Action: skip, Sentence: Skip to next
+Expected: Skipped to next.
+Generated: Next track playing.
+ROUGE-L Score: 33.33%
+BERTScore: 86.57%
+
+Input: Category: camera, Subcategory: basement, Action: on, Sentence: Launch system today
+Expected: System launched today
+Generated: System launched today.
+ROUGE-L Score: 100.00%
+BERTScore: 98.15%
+
+Average ROUGE-L Score: 86.88%
+Average BERTScore: 94.68%
+
+Metrics by Category, Subcategory, and Action:
+Category   Subcategory         Action  Count  ROUGE-L (%)  BERTScore (%)
+  camera           all             on      4        77.38          94.22
+  camera           all    statusquery      3        62.38          91.63
+  camera         attic             on      4        72.81          89.14
+  camera         attic    statusquery      6        79.70          94.82
+  camera      backyard             on      5        73.83          94.35
+  camera      backyard    statusquery      4        68.75          95.11
+  camera      basement             on      7        77.81          94.92
+  camera      basement    statusquery      4        95.00          96.77
+  camera      bathroom             on      5        71.36          95.20
+  camera      bathroom    statusquery      5        63.43          89.80
+  camera        cellar             on      5        72.29          95.41
+  camera        cellar    statusquery      4        71.67          93.00
+  camera   dining room    statusquery      5        73.97          93.22
+  camera       kitchen             on      5        68.78          91.63
+  camera       kitchen    statusquery      5        67.90          93.80
+  camera       library             on      4        90.18          97.23
+  camera       library    statusquery      4        79.67          95.84
+  camera   living room             on      4        74.39          89.91
+  camera   living room    statusquery      4        70.62          94.59
+  camera          none             on      3        89.36          96.97
+  camera          none    statusquery      3        50.83          91.37
+  camera       outside             on      3        55.00          91.02
+  camera       outside    statusquery      3        72.22          96.15
+  camera        toilet             on      3        68.79          93.78
+  lights           all             on      3        88.89          97.43
+  lights         attic            off      3       100.00          95.74
+  lights         attic             on      4        83.76          97.63
+  lights      basement            off      4        94.44          98.82
+  lights      basement             on      3        96.30          99.27
+  lights      bathroom            off      3       100.00          94.93
+  lights      bathroom             on      3        80.30          95.81
+  lights        cellar            off      3        68.98          94.87
+  lights        cellar             on      4        73.76          93.29
+  lights   dining room            off      3        86.27          95.94
+  lights   dining room             on      3        64.05          94.73
+  lights   dining room    statusquery      3        63.98          91.32
+  lights       kitchen            off      3        77.78          97.21
+  lights       kitchen             on      3        66.14          96.18
+  lights       kitchen    statusquery      5        76.27          95.82
+  lights       library            off      3        90.48          97.48
+  lights       library             on      3        78.57          95.54
+  lights   living room            off      3        85.71          93.79
+  lights   living room             on      3        72.37          91.56
+  lights          none            off      3        96.30          99.33
+  lights          none             on      4        56.96          93.37
+  lights          none    statusquery      4        64.44          92.22
+  lights        random            off      3        94.12          97.60
+  lights        random             on      3        86.90          94.93
+  lights        toilet            off      3        81.94          93.98
+  lights        toilet             on      3        88.33          97.83
+   music       ambient          check      3        76.84          94.50
+   music       ambient           play      4        64.29          94.41
+   music       ambient           stop      3        90.48          99.59
+   music        artist          check      3        67.62          90.62
+   music        artist           play      4        38.38          88.99
+   music        device          check      3        45.94          89.63
+   music        device      multiroom      4        54.07          93.11
+   music        device   switchdevice      3        72.38          95.31
+   music        device     volumesync      5        49.50          92.28
+   music     equalizer         adjust      3        68.69          94.68
+   music         genre           play      4        66.36          92.98
+   music   multisource          check      3        62.50          95.94
+   music   multisource           play      3        50.88          89.52
+   music   multisource           sync      4        80.40          97.56
+   music          none            off      3        86.71          95.42
+   music      playback          check      3        26.46          86.81
+   music      playback           loop      3        51.52          94.42
+   music      playback          pause      3        93.33          97.31
+   music      playback           play      3        72.62          94.70
+   music      playback       previous      3        91.67          97.68
+   music      playback         repeat      3        60.32          94.47
+   music      playback        restart      3        78.18          94.50
+   music      playback         resume      3        88.89          98.27
+   music      playback           skip      4        50.40          89.52
+   music      playback           stop      3        52.05          91.64
+   music playbackspeed    adjustspeed      3        68.89          94.23
+   music playbackspeed          check      3        52.59          90.58
+   music playbackspeed     resetspeed      3        69.84          91.01
+   music      playlist        addsong      4        59.68          91.13
+   music      playlist          check      3        66.06          94.82
+   music      playlist         create      3        83.33          96.63
+   music      playlist         delete      3        90.48          98.35
+   music      playlist     removesong      3        71.59          96.10
+   music      playlist        reorder      3        82.05          96.64
+   music      playlist selectplaylist      3        93.33          98.26
+   music      playlist        shuffle      3       100.00          99.14
+   music       podcast           play      4        69.79          94.08
+   music       podcast           skip      4        62.18          93.26
+   music         power        turnoff      3        81.55          98.49
+   music         power         turnon      4        38.39          92.37
+   music         queue            add      4        87.50          97.69
+   music         queue          check      3        68.18          91.86
+   music         queue          clear      3        85.71          94.93
+   music         radio           play      3        75.00          92.77
+   music      schedule         cancel      3        49.52          89.42
+   music      schedule          check      3        60.95          93.19
+   music      schedule           play      3        80.95          95.95
+   music      schedule           stop      3        97.44          96.91
+   music    sleeptimer          check      3       100.00          99.02
+   music    sleeptimer            set      3        72.22          96.05
+   music          song          check      3        95.24          97.88
+   music          song           play      4        74.35          94.51
+   music        source          check      3        80.56          93.97
+   music        source   switchsource      3        90.48          97.95
+   music        status          check      3        82.05          95.69
+   music  voicecontrol          check      3        85.93          98.39
+   music  voicecontrol        disable      3        90.20          97.68
+   music  voicecontrol         enable      3        91.67          99.08
+   music        volume   adjustvolume      3        95.24          99.12
+   music        volume          check      3        70.51          93.63
+   music        volume           mute      3        64.21          90.28
+   music        volume         unmute      3        86.67          96.30
+shutters      basement           down      4        75.95          95.22
+shutters      basement             up      3        56.08          90.95
+shutters      bathroom           down      4        72.62          93.66
+shutters      bathroom    statusquery      3       100.00          99.24
+shutters      bathroom             up      3        74.29          94.79
+shutters        cellar           down      3        62.38          89.77
+shutters        cellar    statusquery      3        85.71          98.05
+shutters        cellar             up      3        72.22          92.36
+shutters       kitchen           down      4        70.24          94.74
+shutters       kitchen    statusquery      5        87.00          94.65
+shutters       kitchen             up      4        72.62          95.77
+shutters       library           down      3        72.62          95.11
+shutters       library             up      3        59.40          92.64
+shutters   living room           down      3       100.00          98.13
+shutters   living room             up      3        74.81          94.21
+shutters          none           down      4        79.83          92.87
+shutters          none    statusquery      4        72.86          93.49
+shutters          none             up      3        80.56          93.98
+shutters        toilet           down      3        73.02          95.04
+shutters        toilet    statusquery      3        73.33          93.82
+shutters        toilet             up      4        84.13          95.94
+
+Results saved to 'metrics_by_combination.csv'
+
+Memory Usage at After Clearing GPU Memory:
+  Allocated: 6.48 GiB
+  Reserved: 6.50 GiB
+  Free: 4.87 GiB
+  Total: 11.35 GiB

@@ -117,11 +117,11 @@ model, tokenizer = load_model_and_tokenizer()
 
 # Streamlit app
 st.title("Smart Assistant for Home Automation")
-st.write("Enter a command below (e.g., 'Can you make it more bright in the basement in 5 minutes?') to get a response from the fine-tuned Llama-3.2-3B model.")
+st.write("Enter a command below (e.g., 'Can you make room bright in the basement') to get a response from the fine-tuned Llama-3.2-3B model.")
 
 # Input form
 with st.form(key="input_form"):
-    sentence = st.text_area("Command", value="", placeholder="e.g., Can you make it more bright in the basement in 5 minutes?")
+    sentence = st.text_area("Command", value="", placeholder="e.g., Can you make room bright in the basement.")
     submit_button = st.form_submit_button(label="Generate Response")
 
 # Process input and generate response

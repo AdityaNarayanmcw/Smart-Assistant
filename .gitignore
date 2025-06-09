@@ -6,4 +6,7 @@ finetuned_llama/
 list.txt
 Llama-3.2-3B/
 music.csv
+datasetBalanced.csv
+dataset.csv
+finetuned_Wcsa
 
