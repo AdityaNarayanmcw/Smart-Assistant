@@ -78,7 +78,7 @@ music,playbackspeed,resetspeed,set speed to normal,playback speed normalized
 music,playbackspeed,resetspeed,restore default speed,default speed restored
 music,playlist,addsong,add song to playlist,song added
 music,playlist,addsong,put song in playlist,playlist updated with song
-music,playlist,check,check current playlist,playlist details retrieved
+music,playlist,check,current playlist retrieved.,playlist details retrieved
 music,playlist,check,show playlist contents,playlist shown
 music,playlist,create,start a new playlist,playlist started
 music,playlist,create,make a playlist,playlist created
@@ -171,7 +171,7 @@ camera,all,on,power on all cameras,all cameras powered on
 camera,all,on,switch on all cameras,cameras switched on
 camera,all,on,turn all cameras on,all cameras on
 camera,all,on,activate camera system,camera system activated
-,attic,statusquery,check attic camera status,attic camera status retrieved
+camera,attic,statusquery,check attic camera status,attic camera status retrieved
 camera,attic,statusquery,show attic camera,attic camera status shown
 camera,attic,statusquery,what's the attic camera status?,attic camera details retrieved
 camera,attic,statusquery,attic camera check,status checked
@@ -1485,7 +1485,7 @@ lights,attic,on,turn on attic lighting next morning,attic lighting will activate
 lights,attic,on,power on attic light after 45 minutes,attic light will power on after 45 minutes
 lights,basement,off,turn off basement lights in 10 minutes,basement lights will turn off in 10 minutes
 lights,basement,off,switch off basement lighting tonight,basement lighting will be off tonight
-lights,basement,off,disable basement lights from 2022 to 2024,basement lights will be disabled for two years.
+lights,basement,off,disable basement lights from 2022 to 2024,basement lights will be disabled for 2 years.
 lights,basement,off,turn off basement light next friday,basement light scheduled to turn off next friday
 lights,basement,off,switch off basement after 1 hour,basement will be switched off in 1 hour
 lights,basement,on,turn on basement lights tomorrow,basement lights will turn on tomorrow
@@ -1623,7 +1623,7 @@ music,ambient,play,play calm ambient music this evening,calm ambient music playi
 music,ambient,play,play ambient music from 8 pm to 10 pm,ambient music playing from 8 to 10 pm.
 music,ambient,play,start ambient sounds in 5 minutes,ambient sounds will start in 5 minutes.
 music,ambient,play,play soft ambient music now,soft ambient music playing.
-music,ambient,play,play ambient music for the next two hours,ambient music playing for two hours.
+music,ambient,play,play ambient music for the next 2 hours,ambient music playing for 2 hours.
 music,ambient,play,start ambient music after 15 minutes,ambient music will start after 15 minutes.
 music,ambient,play,put on ambient music at 7 pm,ambient music playing at 7 pm.
 music,ambient,play,play ambient music until midnight,ambient music will play until midnight.
@@ -1716,7 +1716,7 @@ music,device,multiroom,play music in all rooms after 10 minutes,music will play 
 music,device,multiroom,start multi room music this evening,multi room music started this evening.
 music,device,multiroom,play synchronized music in all rooms,music synchronized in all rooms.
 music,device,multiroom,start multi room playback now,multi room playback started.
-music,device,multiroom,play music in all rooms for 2 hours,music will play for two hours.
+music,device,multiroom,play music in all rooms for 2 hours,music will play for 2 hours.
 music,device,multiroom,enable multi room music from 7 pm to 9 pm,music playing from 7 pm to 9 pm.
 music,device,multiroom,play music across all rooms now,music playing now in all rooms.
 music,device,multiroom,start multi room music after 30 minutes,music will start soon after 30 minutes in all rooms.
@@ -1782,7 +1782,7 @@ music,genre,play,play reggae music in the backyard,reggae music is now playing i
 music,genre,play,play pop music after 10 minutes,pop music will play shortly.
 music,genre,play,start playing country music this afternoon,country music playing this afternoon.
 music,genre,play,play electronic music tonight,electronic music playing tonight.
-music,genre,play,play rock music for 2 hours,rock music playing for two hours.
+music,genre,play,play rock music for 2 hours,rock music playing for 2 hours.
 music,genre,play,play blues music after 30 minutes,blues music will start after 30 minutes.
 music,genre,play,play disco music now,disco music playing now.
 music,genre,play,start playing metal music this evening,metal music playing this evening.
@@ -1818,7 +1818,7 @@ music,multisource,play,combine music sources,multi source playback active.
 music,multisource,play,play spotify and radio together,spotify and radio playing.
 music,multisource,play,play multiple sources this evening,multi source music playing tonight.
 music,multisource,play,start playing multiple sources after 15 minutes,music will start after 15 minutes.
-music,multisource,play,play multiple sources for 2 hours,playing multiple sources for two hours.
+music,multisource,play,play multiple sources for 2 hours,playing multiple sources for 2 hours.
 music,multisource,play,play music from radio and spotify now,radio and spotify playing now.
 music,multisource,play,play all sources on all devices,all sources playing now.
 music,multisource,play,start multi source playback this afternoon,multi source playback started this afternoon.
@@ -1866,7 +1866,7 @@ music,playback,loop,loop my playlist,playlist set to loop.
 music,playback,loop,loop the current song after 10 minutes,loop will start shortly.
 music,playback,loop,repeat this track this evening,track set to loop this evening.
 music,playback,loop,enable looping now,loop enabled now.
-music,playback,loop,set playlist to loop for 2 hours,playlist looping for two hours.
+music,playback,loop,set playlist to loop for 2 hours,playlist looping for 2 hours.
 music,playback,loop,repeat this song tomorrow,song looping tomorrow.
 music,playback,loop,enable loop mode after 15 minutes,loop mode will activate soon.
 music,playback,loop,loop my playlist now,playlist is looping now.
@@ -3547,7 +3547,7 @@ music,device,volumesync,synchronize volume across all room devices,volume synced
 music,device,volumesync,set uniform volume for multi room speakers,volume synced for multi room.
 music,device,volumesync,sync audio levels for bedroom and kitchen devices,volume synced for bedroom and kitchen.
 music,device,volumesync,equalize volume on all connected devices,volume synced across all devices.
-music,device,volumesync,adjust volume to be consistent across devices,volume synced for all devices.
+music,device,volumesync,adjust volume to be consistent across devices,volume synchronized for all devices.
 music,genre,play,play jazz music in the living room,jazz music playing in the living room.
 music,genre,play,start some classical music now,classical music playing now.
 music,genre,play,play 90s pop music in the backyard,90s pop music playing in the backyard.
@@ -3643,7 +3643,7 @@ music,playlist,addsong,"add ""stairway to heaven"" to my morning playlist",stair
 music,playlist,addsong,"include ""imagine"" in the party playlist",imagine added to party playlist.
 music,playlist,addsong,"add ""thriller"" to my workout playlist in 5 minutes",thriller will be added to workout playlist in 5 minutes.
 music,playlist,addsong,"insert ""hey jude"" into the evening playlist at 6 pm",hey jude will be added to evening playlist at 6 pm.
-music,playlist,addsong,"add ""bohemian rhapsody"" to my playlist in ten minutes",bohemian rhapsody will be added to playlist in ten minutes.
+music,playlist,addsong,"add ""bohemian rhapsody"" to my playlist in 10 minutes",bohemian rhapsody will be added to playlist in 10 minutes.
 music,playlist,addsong,"include ""sweet child o' mine"" in the chill playlist in 10 minutes",sweet child o' mine will be added to chill playlist in 10 minutes
 music,playlist,addsong,"add ""sweet child o' mine"" to the chill playlist at 2 pm",sweet child o' mine will be added to chill playlist at 2 pm
 music,playlist,addsong,add sweet child o mine to chill playlist in 10 minutes,sweet child o mine will be added to chill playlist in 10 minutes
@@ -3657,7 +3657,7 @@ music,playback,stop,stop playing in 30 minutes,playback will stop in 30 minutes.
 music,playback,stop,stop music in 10 minutes,playback will stop in 10 minutes
 music,playback,stop,halt music at 2 pm,playback will stop at 2 pm
 music,playback,stop,cease music next tuesday june 10,playback will stop next tuesday
-music,playback,stop,end music at ten o'clock,playback will stop at ten o'clock
+music,playback,stop,end music at 10 o'clock,playback will stop at 10 o'clock
 music,playback,stop,stop playback tomorrow evening june 7,playback will stop tomorrow evening
 camera,basement,on,turn on basement camera now,basement camera turned on.
 camera,basement,on,activate basement surveillance in 20 minutes,basement camera will start in 20 minutes.
@@ -3668,7 +3668,7 @@ camera,basement,on,activate basement camera at 2 pm,basement camera will start a
 camera,basement,on,start basement camera next wednesday june 11,basement camera will start next wednesday next wednesday june 11.
 camera,basement,on,enable basement camera at 8 pm,basement camera will start at 8 pm
 camera,basement,on,turn on basement camera tomorrow june 7,basement camera will start tomorrow
-camera,basement,on,activate basement surveillance in two hours,basement camera will start in two hours.
+camera,basement,on,activate basement surveillance in 2 hours,basement camera will start in 2 hours.
 music,multisource,sync,synchronize music across all devices now,sources synchronized.
 music,multisource,sync,align audio sources in 10 minutes,sources will be synchronized in 10 minutes.
 music,multisource,sync,sync music sources at 6 pm,sources will be synchronized at 6 pm.
@@ -3681,21 +3681,21 @@ music,multisource,sync,synchronize audio tomorrow june 7,sources will be synchro
 camera,bathroom,on,start bathroom camera now,bathroom camera started.
 camera,bathroom,on,activate bathroom surveillance in 5 minutes,bathroom camera will start in 5 minutes.
 camera,bathroom,on,turn on bathroom camera at 10 pm,bathroom camera will start at 10 pm.
-camera,bathroom,on,enable bathroom monitoring in twenty minutes,bathroom camera will start in twenty minutes.
+camera,bathroom,on,enable bathroom monitoring in 20 minutes,bathroom camera will start in 20 minutes.
 camera,bathroom,on,"start bathroom camera next monday, june 9",bathroom camera will start next monday.
 camera,bathroom,on,"activate bathroom surveillance this evening, 7 pm",bathroom camera will start this evening.
 camera,bathroom,on,turn on bathroom camera in 1 day,bathroom camera will start in 1 day.
 camera,bathroom,on,enable bathroom monitoring at 7 o'clock,bathroom camera will start at 7 o'clock.
 camera,bathroom,on,"start bathroom camera tomorrow, june 7",bathroom camera will start tomorrow.
-camera,bathroom,on,activate bathroom surveillance in two hours,bathroom camera will start in two hours.
+camera,bathroom,on,activate bathroom surveillance in 2 hours,bathroom camera will start in 2 hours.
 music,queue,add,add song to queue now,song added to queue.
 music,queue,add,insert track into queue in 30 minutes,song will be added to queue in 30 minutes.
 music,queue,add,add song to queue at 8 pm,song will be added to queue at 8 pm.
 music,queue,add,include track in queue in 40 minutes,song will be added to queue in 40 minutes.
 music,queue,add,"add song to queue next tuesday, june 10",song will be added to queue next tuesday.
 music,queue,add,"insert track into queue this afternoon, 3 pm",song will be added to queue this afternoon.
-music,queue,add,add song to queue in two hours,song will be added to queue in two hours.
-music,queue,add,include track in queue at six o'clock,song will be added to queue at six o'clock.
+music,queue,add,add song to queue in 2 hours,song will be added to queue in 2 hours.
+music,queue,add,include track in queue at 6 o'clock,song will be added to queue at 6 o'clock.
 music,queue,add,"add song to queue tomorrow, june 7",song will be added to queue tomorrow.
 music,queue,add,"insert track into queue next week, june 12",song will be added to queue next week.
 camera,bathroom,statusquery,check bathroom camera feed now,feed checked.
@@ -3717,25 +3717,25 @@ camera,kitchen,on,"activate kitchen surveillance this afternoon, 2 pm",kitchen c
 camera,kitchen,on,start kitchen camera in 1 day,kitchen camera will start in 1 day.
 camera,kitchen,on,enable kitchen monitoring at 9 o'clock,kitchen camera will start at 9 o'clock.
 camera,kitchen,on,"turn on kitchen camera tomorrow, june 7",kitchen camera will start tomorrow.
-camera,kitchen,on,activate kitchen surveillance in three hours,kitchen camera will start in three hours.
+camera,kitchen,on,activate kitchen surveillance in 3 hours,kitchen camera will start in 3 hours.
 shutters,none,down,lower all shutters now,all shutters lowered.
 shutters,none,down,close all shades in 20 minutes,all shades will be closed in 20 minutes.
 shutters,none,down,shut all shutters at 6 pm,all shutters will be closed at 6 pm.
 shutters,none,down,lower all shades in 30 minutes,all shades will be lowered in 30 minutes.
 shutters,none,down,"close all shutters next friday, june 13",all shutters will be closed next friday.
 shutters,none,down,"shut all shades this evening, 7 pm",all shutters will be closed this evening.
-shutters,none,down,lower all shutters in two hours,all shutters will be closed in two hours.
+shutters,none,down,lower all shutters in 2 hours,all shutters will be closed in 2 hours.
 shutters,none,down,close all shades at 7 o'clock,all shutters will be closed at 7 o'clock.
 shutters,none,down,"shut all shutters tomorrow, june 7",all shutters will be closed tomorrow.
 shutters,none,down,"lower all shades next week, june 12",all shades will be closed next week.
 music,artist,play,play songs by queen now,playing songs by queen.
 music,artist,play,start music by the rolling stones in 15 minutes,playing songs by the rolling stones in 15 minutes.
 music,artist,play,play bob dylan songs at 8 pm,playing songs by bob dylan at 8 pm.
-music,artist,play,start music by nirvana in twenty minutes,playing songs by nirvana in twenty minutes.
+music,artist,play,start music by nirvana in 20 minutes,playing songs by nirvana in 20 minutes.
 music,artist,play,"play songs by the doors next monday, june 9",playing songs by the doors next monday.
 music,artist,play,"start music by pink floyd this afternoon, 3 pm",playing songs by pink floyd this afternoon.
 music,artist,play,play songs by led zeppelin in 1 hour,playing songs by led zeppelin in 1 hour.
-music,artist,play,start music by the who at six o'clock,playing songs by the who at six o'clock.
+music,artist,play,start music by the who at 6 o'clock,playing songs by the who at 6 o'clock.
 music,artist,play,"play songs by u2 tomorrow, june 7",playing songs by u2 tomorrow.
 music,artist,play,"start music by coldplay next week, june 12",playing songs by coldplay next week.
 lights,none,statusquery,keep all lights as they are now,lights unchanged.
@@ -3744,14 +3744,14 @@ lights,none,statusquery,avoid changing lights at 9 pm,lights will not be changed
 lights,none,statusquery,keep lights on in 30 minutes,lights will remain on in 30 minutes.
 lights,none,statusquery,"don't adjust lights next tuesday, june 10",lights will not be adjusted next tuesday.
 lights,none,statusquery,"avoid dimming lights this evening, 8 pm",lights will not be dimmed this evening.
-lights,none,statusquery,keep lights unchanged in two hours,lights will remain unchanged in two hours.
+lights,none,statusquery,keep lights unchanged in 2 hours,lights will remain unchanged in 2 hours.
 lights,none,statusquery,don't change lights at 7 o'clock,lights will not be changed at 7 o'clock.
 lights,none,statusquery,"avoid adjusting lights tomorrow, june 7",lights will not be adjusted tomorrow.
 lights,none,statusquery,"keep lights as they are next week, june 12",lights will remain unchanged next week.
 camera,attic,statusquery,check attic camera status now,attic camera status checked.
 camera,attic,statusquery,review attic feed in 5 minutes,attic feed will be reviewed in 5 minutes.
 camera,attic,statusquery,inspect attic camera at 10 pm,attic feed will be inspected at 10 pm.
-camera,attic,statusquery,monitor attic feed in twenty minutes,attic feed will be monitored in twenty minutes.
+camera,attic,statusquery,monitor attic feed in 20 minutes,attic feed will be monitored in 20 minutes.
 camera,attic,statusquery,"check attic camera next wednesday, june 11",attic feed will be checked next wednesday.
 camera,attic,statusquery,"review attic feed this afternoon, 2 pm",attic feed will be reviewed this afternoon.
 camera,attic,statusquery,inspect attic camera in 1 day,attic feed will be inspected in 1 day.
@@ -3767,11 +3767,11 @@ camera,cellar,on,"activate cellar surveillance this evening, 8 pm",cellar camera
 camera,cellar,on,turn on cellar camera in 1 day,cellar camera will start in 1 day.
 camera,cellar,on,enable cellar monitoring at 9 o'clock,cellar camera will start at 9 o'clock.
 camera,cellar,on,"start cellar camera tomorrow, june 7",cellar camera will start tomorrow.
-camera,cellar,on,activate cellar surveillance in two hours,cellar camera will start in two hours.
+camera,cellar,on,activate cellar surveillance in 2 hours,cellar camera will start in 2 hours.
 shutters,toilet,up,raise toilet shutters now,toilet shutters raised.
 shutters,toilet,up,lift toilet blinds in 15 minutes,toilet blinds will be lifted in 15 minutes.
 shutters,toilet,up,open toilet shutters at 8 am,toilet shutters will be opened at 8 am.
-shutters,toilet,up,elevate toilet shades in twenty minutes,toilet shades will be elevated in twenty minutes.
+shutters,toilet,up,elevate toilet shades in 20 minutes,toilet shades will be elevated in 20 minutes.
 shutters,toilet,up,"raise toilet blinds next monday, june 9",toilet blinds will be raised next monday.
 shutters,toilet,up,"lift toilet shutters this morning, 11 am",toilet shutters will be lifted this morning.
 shutters,toilet,up,open toilet blinds in 1 day,toilet blinds will be opened in 1 day.
@@ -3804,14 +3804,14 @@ shutters,basement,down,shut basement shutters at 7 pm,basement shutters will be 
 shutters,basement,down,lower basement shades in 30 minutes,basement shades will be lowered in 30 minutes.
 shutters,basement,down,"close basement shutters next tuesday, june 10",basement shutters will be closed next tuesday.
 shutters,basement,down,"shut basement shades this evening, 8 pm",basement shades will be closed this evening.
-shutters,basement,down,lower basement shutters in two hours,basement shutters will be closed in two hours.
+shutters,basement,down,lower basement shutters in 2 hours,basement shutters will be closed in 2 hours.
 shutters,basement,down,close basement shades at 8 pm,basement shades will be closed at 8 pm.
 shutters,basement,down,"shut basement shutters tomorrow, june 7",basement shutters will be closed tomorrow.
 shutters,basement,down,"lower basement shades next week, june 12",basement shades will be closed next week.
 camera,backyard,on,start backyard camera now,backyard camera started.
 camera,backyard,on,activate backyard surveillance in 10 minutes,backyard camera will start in 10 minutes.
 camera,backyard,on,turn on backyard camera at 8 am,backyard camera will start at 8 am.
-camera,backyard,on,enable backyard monitoring in twenty minutes,backyard camera will start in twenty minutes.
+camera,backyard,on,enable backyard monitoring in 20 minutes,backyard camera will start in 20 minutes.
 camera,backyard,on,"start backyard camera next monday, june 9",backyard camera will start next monday.
 camera,backyard,on,"activate backyard surveillance this morning, 11 am",backyard camera will start this morning.
 camera,backyard,on,turn on backyard camera in 1 day,backyard camera will start in 1 day.
@@ -3824,7 +3824,7 @@ shutters,none,statusquery,avoid changing shutters at 10 pm,shutters will not be 
 shutters,none,statusquery,keep shades as they are in fifteen minutes,shutters will remain unchanged in fifteen minutes.
 shutters,none,statusquery,"don't touch shutters next wednesday, june 11",shutters will not be touched next wednesday.
 shutters,none,statusquery,"avoid adjusting shades this evening, 7 pm",shutters will not be adjusted this evening.
-shutters,none,statusquery,keep shutters unchanged in two hours,shutters will remain unchanged in two hours.
+shutters,none,statusquery,keep shutters unchanged in 2 hours,shutters will remain unchanged in 2 hours.
 shutters,none,statusquery,don't change shades at 7 o'clock,shutters will not be changed at 7 o'clock.
 shutters,none,statusquery,"avoid adjusting shutters tomorrow, june 7",shutters will not be adjusted tomorrow.
 shutters,none,statusquery,"keep shades as they are next week, june 12",shutters will remain unchanged next week.
@@ -3851,11 +3851,11 @@ music,podcast,play,"start podcast next week, june 12",podcast episode will start
 music,device,volumesync,sync volume across all devices now,volume synchronized.
 music,device,volumesync,set volume to 40% on all speakers in 10 minutes,volume will be set to 40% in 10 minutes.
 music,device,volumesync,unify volume at 8 pm,volume will be synchronized at 8 pm.
-music,device,volumesync,sync volume in twenty minutes,volume will be synchronized in twenty minutes.
+music,device,volumesync,sync volume in 20 minutes,volume will be synchronized in 20 minutes.
 music,device,volumesync,"set volume across devices next monday, june 9",volume will be synchronized next monday.
 music,device,volumesync,"unify volume this afternoon, 2 pm",volume will be synchronized this afternoon.
 music,device,volumesync,sync volume in 1 day,volume will be synchronized in 1 day.
-music,device,volumesync,set volume at six o'clock,volume will be synchronized at six o'clock.
+music,device,volumesync,set volume at 6 o'clock,volume will be synchronized at 6 o'clock.
 music,device,volumesync,"unify volume tomorrow, june 7",volume will be synchronized tomorrow.
 music,device,volumesync,"sync volume next week, june 12",volume will be synchronized next week.
 shutters,bathroom,down,close bathroom shutters now,bathroom shutters closed.
@@ -3881,7 +3881,7 @@ music,device,multiroom,"start multi room playback next week, june 12",multi room
 lights,kitchen,statusquery,check kitchen lights now,kitchen lights status checked.
 lights,kitchen,statusquery,don't turn off kitchen lights in 10 minutes,kitchen lights will remain on in 10 minutes.
 lights,kitchen,statusquery,avoid dimming kitchen lights at 9 pm,kitchen lights will not be dimmed at 9 pm.
-lights,kitchen,statusquery,keep kitchen lights on in twenty minutes,kitchen lights will remain on in twenty minutes.
+lights,kitchen,statusquery,keep kitchen lights on in 20 minutes,kitchen lights will remain on in 20 minutes.
 lights,kitchen,statusquery,"don't adjust kitchen lights next monday, june 9",kitchen lights will not be adjusted next monday.
 lights,kitchen,statusquery,"avoid changing kitchen lights this afternoon, 3 pm",kitchen lights will not be changed this afternoon.
 lights,kitchen,statusquery,keep kitchen lights unchanged in 1 day,kitchen lights will remain unchanged in 1 day.
@@ -3895,7 +3895,7 @@ music,podcast,skip,skip podcast in 30 minutes,next podcast will start in 30 minu
 music,podcast,skip,"advance to next podcast next tuesday, june 10",next podcast will start next tuesday.
 music,podcast,skip,"move to next podcast this evening, 7 pm",next podcast will start this evening.
 music,podcast,skip,skip podcast in 1 day,next podcast will start in 1 day.
-music,podcast,skip,advance podcast at six o'clock,next podcast will start at six o'clock.
+music,podcast,skip,advance podcast at 6 o'clock,next podcast will start at 6 o'clock.
 music,podcast,skip,"move to next podcast tomorrow, june 7",next podcast will start tomorrow.
 music,podcast,skip,"skip podcast next week, june 12",next podcast will start next week.
 music,song,play,play song now,song started.
@@ -3946,7 +3946,7 @@ music,ambient,play,launch ambient music at 10 pm,ambient music will start at 10 
 music,ambient,play,launch ambient music at 9 am,ambient music will start at 9 am.
 music,ambient,play,launch ambient music at 11 am,ambient music will start at 11 am.
 music,ambient,play,"play ambient music ""this evening, 8 pm""",ambient music will start this evening.
-music,ambient,play,begin ambient music in twenty minutes,ambient music will start in twenty minutes.
+music,ambient,play,begin ambient music in 20 minutes,ambient music will start in 20 minutes.
 music,ambient,stop,"stop ambient music ""next monday, june 9""",ambient music will stop next monday.
 music,ambient,stop,halt ambient music in 15 minutes,ambient music will stop in 15 minutes.
 music,ambient,stop,end ambient music at 9 pm,ambient music will stop at 9 pm.
@@ -3981,9 +3981,9 @@ music,device,volumesync,"sync volume across devices ""next monday, june 14""",vo
 music,device,volumesync,set volume to 30% on all devices in 5 minutes,volume will be synchronized to 30% in 5 minutes.
 music,device,volumesync,unify volume at 6 pm,volume will be synchronized at 6 pm.
 music,device,volumesync,"sync volume ""this afternoon, 2 pm""",volume will be synchronized this afternoon.
-music,device,volumesync,adjust volume across devices in twenty minutes,volume will be synchronized in twenty minutes.
+music,device,volumesync,adjust volume across devices in 20 minutes,volume will be synchronized in 20 minutes.
 music,equalizer,adjust,"adjust equalizer settings ""tomorrow, june 15""",equalizer settings will be adjusted tomorrow.
-music,equalizer,adjust,tune equalizer in ten minutes,equalizer settings will be adjusted in ten minutes.
+music,equalizer,adjust,tune equalizer in 10 minutes,equalizer settings will be adjusted in 10 minutes.
 music,equalizer,adjust,modify equalizer at 7 pm,equalizer settings will be adjusted at 7 pm.
 music,equalizer,adjust,"fine-tune equalizer ""next tuesday, june 10""",equalizer settings will be adjusted next tuesday.
 music,equalizer,adjust,change equalizer settings in fifteen minutes,equalizer settings will be adjusted in fifteen minutes.
@@ -4001,9 +4001,9 @@ music,multisource,sync,"synchronize audio sources ""next monday, june 9""",sourc
 music,multisource,sync,align audio in 15 minutes,sources will be synchronized in 15 minutes.
 music,multisource,sync,sync music sources at 7 pm,sources will be synchronized at 7 pm.
 music,multisource,sync,"unify audio sources ""this evening, 8 pm""",sources will be synchronized this evening.
-music,multisource,sync,synchronize sources in twenty minutes,sources will be synchronized in twenty minutes.
+music,multisource,sync,synchronize sources in 20 minutes,sources will be synchronized in 20 minutes.
 music,none,off,"turn off all music playback ""next tuesday, june 10""",all music will be turned off next tuesday.
-music,none,off,stop all audio in ten minutes,all music will be turned off in ten minutes.
+music,none,off,stop all audio in 10 minutes,all music will be turned off in 10 minutes.
 music,none,off,halt all playback at 9 pm,all music will be turned off at 9 pm.
 music,none,off,"shut down music ""tomorrow, june 7""",all music will be turned off tomorrow.
 music,none,off,end all music in fifteen minutes,all music will be turned off in fifteen minutes.
@@ -4021,9 +4021,9 @@ music,playback,pause,"pause music playback ""next monday, june 9""",playback wil
 music,playback,pause,pause song in 15 minutes,playback will be paused in 15 minutes.
 music,playback,pause,halt playback at 7 pm,playback will be paused at 7 pm.
 music,playback,pause,"pause music ""this afternoon, 3 pm""",playback will be paused this afternoon.
-music,playback,pause,stop playback temporarily in twenty minutes,playback will be paused in twenty minutes.
+music,playback,pause,stop playback temporarily in 20 minutes,playback will be paused in 20 minutes.
 music,playback,play,"start music playback ""tomorrow, june 7""",playback will start tomorrow.
-music,playback,play,begin playing music in ten minutes,playback will start in ten minutes.
+music,playback,play,begin playing music in 10 minutes,playback will start in 10 minutes.
 music,playback,play,play music at 8 pm,playback will start at 8 pm.
 music,playback,play,"launch playback ""next tuesday, june 10""",playback will start next tuesday.
 music,playback,play,start music in fifteen minutes,playback will start in fifteen minutes.
@@ -4041,7 +4041,7 @@ music,playback,restart,"restart current song ""next monday, june 9""",current so
 music,playback,restart,replay song from start in 15 minutes,current song will restart in fifteen minutes.
 music,playback,restart,restart track at 7 pm,current song will restart at 7 pm.
 music,playback,restart,"begin song again ""this evening, june 3 pm""",current song will restart this evening.
-music,playback,restart,restart music in twenty minutes,current song will restart in twenty minutes.
+music,playback,restart,restart music in 20 minutes,current song will restart in 20 minutes.
 music,playback,resume,"resume music playback ""next tuesday, june 10""",playback will resume next tuesday.
 music,playback,resume,resume paused song in 10 minutes,playback will resume in 10 minutes.
 music,playback,resume,continue playback at 8 pm,playback will resume at 8 pm.
@@ -4051,7 +4051,6 @@ music,playback,skip,"skip to next song ""this afternoon, june 3 pm""",next song 
 music,playback,skip,advance to next track in 25 minutes,next song will play in 25 minutes.
 music,playback,skip,play next song at 6 pm,next song will play at 6 pm.
 music,playback,skip,"move to next track ""next wednesday, june 11""",next song will play next wednesday.
-music,skip,play,skip to next in twenty minutes,next song will play next in twenty minutes.
 music,playback,stop,"stop music playback ""tomorrow, june 7""",music stopped.
 music,playback,stop,halt playback in 15 minutes,playback will stop in fifteen minutes.
 music,playback,stop,halt playback; end music at 9 pm,playback stopped at 9 pm. stop.
@@ -4076,7 +4075,7 @@ music,ambient,play,"start ambient music ""tomorrow, june 7""",ambient music will
 music,ambient,stop,stop ambient music in 25 minutes,ambient music will stop in 25 minutes.
 music,ambient,stop,halt ambient music at 6 pm,ambient music will stop at 6 pm.
 music,ambient,stop,"end ambient music ""next thursday, june 12""",ambient music will stop next thursday.
-music,ambient,stop,cease ambient music in two hours,ambient music will stop in two hours.
+music,ambient,stop,cease ambient music in 2 hours,ambient music will stop in 2 hours.
 music,ambient,stop,"stop ambient music ""this evening, 7 pm""",ambient music will stop this evening.
 music,artist,check,check artist playlist status now,artist playlist status checked.
 music,artist,check,verify artist songs in 30 minutes,artist playlist status will be checked in 30 minutes.
@@ -4086,7 +4085,7 @@ music,artist,check,"check artist status ""tomorrow, june 7""",artist playlist st
 music,artist,play,play artist songs in 10 minutes,artist songs will start in 10 minutes.
 music,artist,play,start artist music at 9 pm,artist songs will start at 9 pm.
 music,artist,play,"launch artist tracks ""next monday, june 9""",artist songs will start next monday.
-music,artist,play,play artist songs at six o'clock,artist songs will start at six o'clock.
+music,artist,play,play artist songs at 6 o'clock,artist songs will start at 6 o'clock.
 music,artist,play,"begin artist music ""this afternoon, 2 pm""",artist songs will start this afternoon.
 music,device,check,check music device status in 15 minutes,device status will be checked in 15 minutes.
 music,device,check,verify device connection at 10 pm,device status will be checked at 10 pm.
@@ -4101,7 +4100,7 @@ music,device,multiroom,"enable multi room music ""tomorrow, june 7""",multi room
 music,device,switchdevice,switch music device in 25 minutes,device will be switched in 25 minutes.
 music,device,switchdevice,change music device at 6 pm,device will be switched at 6 pm.
 music,device,switchdevice,"swap music device ""next thursday, june 12""",device will be switched next thursday.
-music,device,switchdevice,switch device in two hours,device will be switched in two hours.
+music,device,switchdevice,switch device in 2 hours,device will be switched in 2 hours.
 music,device,switchdevice,"change music device ""this afternoon, 3 pm""",device will be switched this afternoon.
 music,device,volumesync,sync volume across devices in 10 minutes,volume will be synchronized in 10 minutes.
 music,equalizer,adjust,adjust equalizer settings in 30 minutes,equalizer settings will be adjusted in 30 minutes.
@@ -4112,7 +4111,7 @@ music,equalizer,adjust,"change equalizer ""this evening, 7 pm""",equalizer setti
 music,multisource,check,check multi source status in 15 minutes,multi source status will be checked in 15 minutes.
 music,multisource,check,verify multi source at 9 pm,multi source status will be checked at 9 pm.
 music,multisource,check,"inspect multi source settings ""next monday, june 9""",multi source status will be checked next monday.
-music,multisource,check,review multi source in two hours,multi source status will be checked in two hours.
+music,multisource,check,review multi source in 2 hours,multi source status will be checked in 2 hours.
 music,multisource,check,"check multi source ""tomorrow, june 7""",multi source status will be checked tomorrow.
 music,multisource,play,play multi source music in 20 minutes,multi source music will start in 20 minutes.
 music,multisource,play,start multi source playback at 10 pm,multi source music will start at 10 pm.
@@ -4127,7 +4126,7 @@ music,multisource,sync,"synchronize sources ""this evening, 8 pm""",sources will
 music,none,off,turn off music in 10 minutes,music will be turned off in 10 minutes.
 music,none,off,stop all music at 7 pm,music will be turned off at 7 pm.
 music,none,off,"shut off music ""next thursday, june 12""",music will be turned off next thursday.
-music,none,off,turn off music in two hours,music will be turned off in two hours.
+music,none,off,turn off music in 2 hours,music will be turned off in 2 hours.
 music,none,off,"end music ""tomorrow, june 7""",music will be turned off tomorrow.
 music,playback,check,check playback status in 15 minutes,playback status will be checked in 15 minutes.
 music,playback,check,verify playback at 8 pm,playback status will be checked at 8 pm.
@@ -4137,7 +4136,7 @@ music,playback,check,"check playback ""this afternoon, 2 pm""",playback status w
 music,playback,loop,enable loop playback in 20 minutes,loop playback will be enabled in 20 minutes.
 music,playback,loop,turn on loop at 9 pm,loop playback will be enabled at 9 pm.
 music,playback,loop,"activate loop ""next monday, june 9""",loop playback will be enabled next monday.
-music,playback,loop,loop playback at six o'clock,loop playback will be enabled at six o'clock.
+music,playback,loop,loop playback at 6 o'clock,loop playback will be enabled at 6 o'clock.
 music,playback,loop,"start loop ""next tuesday, june 10""",loop playback will be enabled next tuesday.
 music,playback,pause,pause music in 25 minutes,playback will be paused in 25 minutes.
 music,playback,pause,halt playback for 10 minutes.,halt playback for 10 minutes.
@@ -4163,7 +4162,7 @@ music,playback,repeat,"set repeat ""this evening, 8 pm""",repeat playback will b
 music,playback,restart,restart playback in 10 minutes,playback will restart in 10 minutes.
 music,playback,restart,begin playback again at 8 pm,playback will restart at 8 pm.
 music,playback,restart,"restart music ""next tuesday, june 10""",playback will restart next tuesday.
-music,playback,restart,reset playback at six o'clock,playback will restart at six o'clock.
+music,playback,restart,reset playback at 6 o'clock,playback will restart at 6 o'clock.
 music,playback,restart,"restart playback ""this afternoon, 4 pm""",playback will restart this afternoon.
 music,playback,resume,resume music in 15 minutes,playback will resume in 15 minutes.
 music,playback,resume,continue playback at 9 pm,playback will resume at 9 pm.
@@ -4178,7 +4177,7 @@ music,playbackspeed,adjustspeed,"adjust speed ""this evening, 7 pm""",playback s
 music,playbackspeed,check,check playback speed in 25 minutes,playback speed status will be checked in 25 minutes.
 music,playbackspeed,check,verify speed at 6 pm,playback speed status will be checked at 6 pm.
 music,playbackspeed,check,"inspect playback speed ""next friday, june 13""",playback speed status will be checked next friday.
-music,playbackspeed,check,review speed in two hours,playback speed status will be checked in two hours.
+music,playbackspeed,check,review speed in 2 hours,playback speed status will be checked in 2 hours.
 music,playbackspeed,check,"check speed ""this afternoon, 3 pm""",playback speed status will be checked this afternoon.
 music,playbackspeed,resetspeed,reset playback speed in 10 minutes,playback speed will be reset in 10 minutes.
 music,playbackspeed,resetspeed,restore default speed at 7 pm,playback speed will be reset at 7 pm.
@@ -4198,12 +4197,12 @@ music,playlist,check,"check playlist ""this evening, 7 pm""",playlist status wil
 music,playlist,create,create new playlist in 25 minutes,new playlist will be created in 25 minutes.
 music,playlist,create,make playlist at 10 pm,new playlist will be created at 10 pm.
 music,playlist,create,"start new playlist ""next thursday, june 12""",new playlist will be created next thursday.
-music,playlist,create,create playlist at six o'clock,new playlist will be created at six o'clock.
+music,playlist,create,create playlist at 6 o'clock,new playlist will be created at 6 o'clock.
 music,playlist,create,"make new playlist ""tomorrow, june 7""",new playlist will be created tomorrow.
 music,playlist,delete,delete playlist in 10 minutes,playlist will be deleted in 10 minutes.
 music,playlist,delete,remove playlist at 6 pm,playlist will be deleted at 6 pm.
 music,playlist,delete,"erase playlist ""next friday, june 13""",playlist will be deleted next friday.
-music,playlist,delete,delete playlist in two hours,playlist will be deleted in two hours.
+music,playlist,delete,delete playlist in 2 hours,playlist will be deleted in 2 hours.
 music,playlist,delete,"remove playlist ""this afternoon, 3 pm""",playlist will be deleted this afternoon.
 music,playlist,removesong,remove song from playlist in 15 minutes,song will be removed from playlist in 15 minutes.
 music,playlist,removesong,delete track from playlist at 7 pm,song will be removed from playlist at 7 pm.
@@ -4223,7 +4222,7 @@ music,playlist,selectplaylist,"choose playlist ""this afternoon, 4 pm""",playlis
 music,playlist,shuffle,shuffle playlist in 10 minutes,playlist will be shuffled in 10 minutes.
 music,playlist,shuffle,randomize playlist at 6 pm,playlist will be shuffled at 6 pm.
 music,playlist,shuffle,"mix playlist ""next thursday, june 12""",playlist will be shuffled next thursday.
-music,playlist,shuffle,shuffle tracks in two hours,playlist will be shuffled in two hours.
+music,playlist,shuffle,shuffle tracks in 2 hours,playlist will be shuffled in 2 hours.
 music,playlist,shuffle,"randomize playlist ""this evening, 7 pm""",playlist will be shuffled this evening.
 music,podcast,play,start podcast in 15 minutes,podcast will start in 15 minutes.
 music,podcast,play,launch podcast at 8 pm,podcast will start at 8 pm.
@@ -4233,7 +4232,7 @@ music,podcast,play,"start podcast ""tomorrow, june 7""",podcast will start tomor
 music,podcast,skip,skip podcast in 20 minutes,next podcast will start in 20 minutes.
 music,podcast,skip,advance podcast at 9 pm,next podcast will start at 9 pm.
 music,podcast,skip,"move to next podcast ""next monday, june 9""",next podcast will start next monday.
-music,podcast,skip,skip podcast at six o'clock,next podcast will start at six o'clock.
+music,podcast,skip,skip podcast at 6 o'clock,next podcast will start at 6 o'clock.
 music,podcast,skip,"advance podcast ""this afternoon, 2 pm""",next podcast will start this afternoon.
 music,power,turnoff,turn off music power in 25 minutes,power will be turned off in 25 minutes.
 music,power,turnoff,shut down music at 10 pm,power will be turned off at 10 pm.
@@ -4253,12 +4252,12 @@ music,queue,add,"add song ""this afternoon, 3 pm""",song will be added to queue 
 music,queue,check,check queue status in 20 minutes,queue status will be checked in 20 minutes.
 music,queue,check,verify queue at 8 pm,queue status will be checked at 8 pm.
 music,queue,check,"inspect queue ""next friday, june 13""",queue status will be checked next friday.
-music,queue,check,review queue in two hours,queue status will be checked in two hours.
+music,queue,check,review queue in 2 hours,queue status will be checked in 2 hours.
 music,queue,check,"check queue ""this evening, 7 pm""",queue status will be checked this evening.
 music,queue,clear,clear queue in 25 minutes,queue will be cleared in 25 minutes.
 music,queue,clear,empty queue at 9 pm,queue will be cleared at 9 pm.
 music,queue,clear,"reset queue ""next monday, june 9""",queue will be cleared next monday.
-music,queue,clear,clear queue at six o'clock,queue will be cleared at six o'clock.
+music,queue,clear,clear queue at 6 o'clock,queue will be cleared at 6 o'clock.
 music,queue,clear,"empty queue ""tomorrow, june 7""",queue will be cleared tomorrow.
 music,radio,play,start radio in 10 minutes,radio will start in 10 minutes.
 music,radio,play,play radio at 10 pm,radio will start at 10 pm.
@@ -4273,7 +4272,7 @@ music,schedule,cancel,"remove music schedule ""this evening, 8 pm""",schedule wi
 music,schedule,check,check music schedule in 20 minutes,schedule status will be checked in 20 minutes.
 music,schedule,check,verify schedule at 7 pm,schedule status will be checked at 7 pm.
 music,schedule,check,"inspect schedule ""next thursday, june 12""",schedule status will be checked next thursday.
-music,schedule,check,review schedule in two hours,schedule status will be checked in two hours.
+music,schedule,check,review schedule in 2 hours,schedule status will be checked in 2 hours.
 music,schedule,check,"check schedule ""tomorrow, june 7""",schedule status tomorrow june 7 showing.
 music,schedule,play,schedule music to play in 25 minutes,music will be scheduled to play in 25 minutes.
 music,schedule,play,set music to play at 8 pm,music will be scheduled to play at 8 pm.
@@ -4283,7 +4282,7 @@ music,schedule,play,"set music to play ""this afternoon, 2 pm""",music will be s
 music,schedule,stop,stop scheduled music in 10 minutes,scheduled music will be stopped in 10 minutes.
 music,schedule,stop,cancel music schedule at 9 pm,scheduled music will be stopped at 9 pm.
 music,schedule,stop,"end schedule ""next monday, june 9""",scheduled music will be stopped next monday.
-music,schedule,stop,stop schedule at six o'clock,scheduled music will be stopped at six o'clock.
+music,schedule,stop,stop schedule at 6 o'clock,scheduled music will be stopped at 6 o'clock.
 music,schedule,stop,"cancel scheduled music ""this evening, 7 pm""",scheduled music will be stopped this evening.
 music,sleeptimer,check,check sleep timer in 15 minutes,sleep timer status will be checked in 15 minutes.
 music,sleeptimer,check,verify sleep timer at 10 pm,sleep timer status will be checked at 10 pm.
@@ -4298,7 +4297,7 @@ music,sleeptimer,set,"activate sleep timer ""tomorrow, june 7""",sleep timer wil
 music,song,check,check song status in 25 minutes,song status will be checked in 25 minutes.
 music,song,check,verify current song at 7 pm,song status will be checked at 7 pm.
 music,song,check,"inspect song ""next thursday, june 12""",song status will be checked next thursday.
-music,song,check,review song in two hours,song status will be checked in two hours.
+music,song,check,review song in 2 hours,song status will be checked in 2 hours.
 music,song,check,"check song ""this evening, 8 pm""",song status will be checked this evening.
 music,song,play,play song in 10 minutes,song will start in 10 minutes.
 music,song,play,start song at 8 pm,song will start at 8 pm.
@@ -4313,12 +4312,12 @@ music,source,check,"check source ""tomorrow, june 7""",source status will be che
 music,source,switchsource,switch music source in 20 minutes,source will be switched in 20 minutes.
 music,source,switchsource,change source at 10 pm,source will be switched at 10 pm.
 music,source,switchsource,"swap source ""next tuesday, june 10""",source will be switched next tuesday.
-music,source,switchsource,switch source at six o'clock,source will be switched at six o'clock.
+music,source,switchsource,switch source at 6 o'clock,source will be switched at 6 o'clock.
 music,source,switchsource,"change music source ""this afternoon, 2 pm""",source will be switched this afternoon.
 music,status,check,check music status in 25 minutes,music status will be checked in 25 minutes.
 music,status,check,verify music status at 6 pm,music status will be checked at 6 pm.
 music,status,check,"inspect music status ""next wednesday, june 11""",music status will be checked next wednesday.
-music,status,check,review music status in two hours,music status will be checked in two hours.
+music,status,check,review music status in 2 hours,music status will be checked in 2 hours.
 music,status,check,"check music status ""this evening, 7 pm""",music status will be checked this evening.
 music,voicecontrol,check,check voice control status in 10 minutes,voice control status will be checked in 10 minutes.
 music,voicecontrol,check,verify voice control at 7 pm,voice control status will be checked at 7 pm.
@@ -4333,7 +4332,7 @@ music,voicecontrol,disable,"turn off voice control ""tomorrow, june 7""",voice c
 music,volume,adjustvolume,adjust volume in 20 minutes,volume will be adjusted in 20 minutes.
 music,volume,adjustvolume,change volume at 9 pm,volume will be adjusted at 9 pm.
 music,volume,adjustvolume,"modify volume ""next monday, june 9""",volume will be adjusted next monday.
-music,volume,adjustvolume,tweak volume in two hours,volume will be adjusted in two hours.
+music,volume,adjustvolume,tweak volume in 2 hours,volume will be adjusted in 2 hours.
 music,volume,adjustvolume,"adjust volume ""this evening, 8 pm""",volume will be adjusted this evening.
 music,volume,check,check volume level in 25 minutes,volume level will be checked in 25 minutes.
 music,volume,check,verify volume at 10 pm,volume level will be checked at 10 pm.
@@ -4358,12 +4357,12 @@ shutters,basement,down,"close basement shutters ""this evening, 7 pm""",basement
 shutters,basement,up,raise basement shutters in 25 minutes,basement shutters will be raised in 25 minutes.
 shutters,basement,up,open basement shutters at 9 am,basement shutters will be opened at 9 am.
 shutters,basement,up,"lift basement shutters ""next monday, june 9""",basement shutters will be opened next monday.
-shutters,basement,up,raise shutters at six o'clock,basement shutters will be opened at six o'clock.
+shutters,basement,up,raise shutters at 6 o'clock,basement shutters will be opened at 6 o'clock.
 shutters,basement,up,"open basement shutters ""tomorrow, june 7""",basement shutters will be opened tomorrow.
 shutters,bathroom,down,close bathroom shutters in 10 minutes,bathroom shutters will be closed in 10 minutes.
 shutters,bathroom,down,lower bathroom shutters at 10 pm,bathroom shutters will be closed at 10 pm.
 shutters,bathroom,down,"shut bathroom shutters ""next tuesday, june 10""",bathroom shutters will be closed next tuesday.
-shutters,bathroom,down,close shutters in two hours,bathroom shutters will be closed in two hours.
+shutters,bathroom,down,close shutters in 2 hours,bathroom shutters will be closed in 2 hours.
 shutters,bathroom,down,"lower bathroom shutters ""this afternoon, 3 pm""",bathroom shutters will be closed this afternoon.
 shutters,bathroom,statusquery,keep bathroom shutters unchanged in 15 minutes,bathroom shutters will remain unchanged in 15 minutes.
 shutters,bathroom,statusquery,don't adjust bathroom shutters at 6 pm,bathroom shutters will not be adjusted at 6 pm.
@@ -4383,7 +4382,7 @@ shutters,cellar,down,"close cellar shutters ""this afternoon, 4 pm""",cellar shu
 shutters,cellar,statusquery,keep cellar shutters unchanged in 10 minutes,cellar shutters will remain unchanged in 10 minutes.
 shutters,cellar,statusquery,don't adjust cellar shutters at 7 pm,cellar shutters will not be adjusted at 7 pm.
 shutters,cellar,statusquery,"avoid changing cellar shutters ""next monday, june 9""",cellar shutters will not be changed next monday.
-shutters,cellar,statusquery,maintain cellar shutters at six o'clock,cellar shutters will remain unchanged at six o'clock.
+shutters,cellar,statusquery,maintain cellar shutters at 6 o'clock,cellar shutters will remain unchanged at 6 o'clock.
 shutters,cellar,statusquery,"keep cellar shutters as is ""tomorrow, june 7""",cellar shutters will remain unchanged tomorrow.
 shutters,cellar,up,raise cellar shutters in 15 minutes,cellar shutters will be raised in 15 minutes.
 shutters,cellar,up,open cellar shutters at 10 am,cellar shutters will be opened at 10 am.
@@ -4393,7 +4392,7 @@ shutters,cellar,up,"open cellar shutters ""this afternoon, 2 pm""",cellar shutte
 shutters,library,down,lower library shutters in 20 minutes,library shutters will be lowered in 20 minutes.
 shutters,library,down,close library shutters at 8 pm,library shutters will be closed at 8 pm.
 shutters,library,down,"shut library shutters ""next wednesday, june 11""",library shutters will be closed next wednesday.
-shutters,library,down,lower shutters in two hours,library shutters will be lowered in two hours.
+shutters,library,down,lower shutters in 2 hours,library shutters will be lowered in 2 hours.
 shutters,library,down,"close library shutters ""this evening, 7 pm""",library shutters will be closed this evening.
 shutters,library,up,raise library shutters in 25 minutes,library shutters will be raised in 25 minutes.
 shutters,library,up,open library shutters at 9 am,library shutters will be opened at 9 am.
@@ -4413,7 +4412,7 @@ shutters,living room,up,"open living room shutters ""tomorrow, june 7""",living 
 shutters,none,down,lower all shutters in 20 minutes,all shutters will be lowered in 20 minutes.
 shutters,none,down,close all shutters at 9 pm,all shutters will be closed at 9 pm.
 shutters,none,down,"shut all shutters ""next tuesday, june 10""",all shutters will be closed next tuesday.
-shutters,none,down,lower shutters in two hours,all shutters will be lowered in two hours.
+shutters,none,down,lower shutters in 2 hours,all shutters will be lowered in 2 hours.
 shutters,none,down,"close all shutters ""this evening, 8 pm""",all shutters will be closed this evening.
 shutters,none,statusquery,keep all shutters unchanged in 25 minutes,all shutters will remain unchanged in 25 minutes.
 shutters,none,statusquery,don't adjust shutters at 6 pm,all shutters will not be adjusted at 6 pm.
@@ -4423,7 +4422,7 @@ shutters,none,statusquery,"keep shutters as is ""this afternoon, 4 pm""",all shu
 shutters,none,up,raise all shutters in 10 minutes,all shutters will be raised in 10 minutes.
 shutters,none,up,open all shutters at 10 am,all shutters will be opened at 10 am.
 shutters,none,up,"lift all shutters ""next thursday, june 12""",all shutters will be opened next thursday.
-shutters,none,up,raise shutters at six o'clock,all shutters will be opened at six o'clock.
+shutters,none,up,raise shutters at 6 o'clock,all shutters will be opened at 6 o'clock.
 shutters,none,up,"open all shutters ""tomorrow, june 7""",all shutters will be opened tomorrow.
 shutters,toilet,down,lower toilet shutters in 15 minutes,toilet shutters will be lowered in 15 minutes.
 shutters,toilet,down,close toilet shutters at 8 pm,toilet shutters will be closed at 8 pm.
@@ -4458,7 +4457,7 @@ camera,none,on,"turn on cameras ""tomorrow, june 7""",all cameras will be turned
 camera,outside,statusquery,check outside camera feeds in 25 minutes,outside camera feeds will be checked in 25 minutes.
 camera,outside,statusquery,verify outside cameras at 6 pm,outside camera feeds will be checked at 6 pm.
 camera,outside,statusquery,"inspect outside cameras ""next thursday, june 12""",outside camera feeds will be checked next thursday.
-camera,outside,statusquery,monitor outside feeds in two hours,outside camera feeds will be checked in two hours.
+camera,outside,statusquery,monitor outside feeds in 2 hours,outside camera feeds will be checked in 2 hours.
 camera,outside,statusquery,"review outside cameras ""this evening, 7 pm""",outside camera feeds will be checked this evening.
 camera,outside,on,activate outside cameras in 10 minutes,outside cameras will be turned on in 10 minutes.
 camera,outside,on,turn on outside cameras at 8 pm,outside cameras will be turned on at 8 pm.
@@ -4468,7 +4467,7 @@ camera,outside,on,"activate outside cameras ""this afternoon, 3 pm""",outside ca
 camera,toilet,on,turn on toilet camera in 15 minutes,toilet camera will be turned on in 15 minutes.
 camera,toilet,on,activate toilet camera at 9 pm,toilet camera will be turned on at 9 pm.
 camera,toilet,on,"start toilet camera ""next monday, june 9""",toilet camera will be turned on next monday.
-camera,toilet,on,enable toilet camera at six o'clock,toilet camera will be turned on at six o'clock.
+camera,toilet,on,enable toilet camera at 6 o'clock,toilet camera will be turned on at 6 o'clock.
 camera,toilet,on,"turn on toilet camera ""tomorrow, june 7""",toilet camera will be turned on tomorrow.
 lights,all,on,turn on all lights in 20 minutes,all lights will be turned on in 20 minutes.
 lights,all,on,activate all lights at 10 pm,all lights will be turned on at 10 pm.
@@ -4488,7 +4487,7 @@ lights,attic,on,"activate attic lights ""tomorrow, june 7""",attic lights will b
 lights,basement,off,switch off basement lights in 15 minutes,basement lights will be turned off in 15 minutes.
 lights,basement,off,turn off basement lights at 8 pm,basement lights will be turned off at 8 pm.
 lights,basement,off,"disable basement lights ""next friday, june 13""",basement lights will be turned off next friday.
-lights,basement,off,turn off basement lights in two hours,basement lights will be turned off in two hours.
+lights,basement,off,turn off basement lights in 2 hours,basement lights will be turned off in 2 hours.
 lights,basement,off,"switch off basement lights ""this evening, 7 pm""",basement lights will be turned off this evening.
 lights,basement,on,turn on basement lights in 20 minutes,basement lights will be turned on in 20 minutes.
 lights,basement,on,activate basement lights at 9 pm,basement lights will be turned on at 9 pm.
@@ -4508,12 +4507,12 @@ lights,bathroom,on,"activate bathroom lights ""tomorrow, june 7""",bathroom ligh
 lights,cellar,off,switch off cellar lights in 15 minutes,cellar lights will be turned off in 15 minutes.
 lights,cellar,off,turn off cellar lights at 7 pm,cellar lights will be turned off at 7 pm.
 lights,cellar,off,"disable cellar lights ""next thursday, june 12""",cellar lights will be turned off next thursday.
-lights,cellar,off,turn off cellar lights in two hours,cellar lights will be turned off in two hours.
+lights,cellar,off,turn off cellar lights in 2 hours,cellar lights will be turned off in 2 hours.
 lights,cellar,off,"switch off cellar lights ""this afternoon, 4 pm""",cellar lights will be turned off this afternoon.
 lights,cellar,on,turn on cellar lights in 20 minutes,cellar lights will be turned on in 20 minutes.
 lights,cellar,on,activate cellar lights at 8 pm,cellar lights will be turned on at 8 pm.
 lights,cellar,on,"enable cellar lights ""next friday, june 13""",cellar lights will be turned on next friday.
-lights,cellar,on,turn on cellar lights at six o'clock,cellar lights will be turned on at six o'clock.
+lights,cellar,on,turn on cellar lights at 6 o'clock,cellar lights will be turned on at 6 o'clock.
 lights,cellar,on,"activate cellar lights ""this evening, 7 pm""",cellar lights will be turned on this evening.
 lights,dining room,statusquery,keep dining room lights unchanged in 25 minutes,dining room lights will remain unchanged in 25 minutes.
 lights,dining room,statusquery,don't adjust dining room lights at 9 pm,dining room lights will not be adjusted at 9 pm.
@@ -4533,7 +4532,7 @@ lights,dining room,on,"activate dining room lights ""this evening, 8 pm""",dinin
 lights,kitchen,off,switch off kitchen lights in 20 minutes,kitchen lights will be turned off in 20 minutes.
 lights,kitchen,off,turn off kitchen lights at 7 pm,kitchen lights will be turned off at 7 pm.
 lights,kitchen,off,"disable kitchen lights ""next thursday, june 12""",kitchen lights will be turned off next thursday.
-lights,kitchen,off,turn off kitchen lights in two hours,kitchen lights will be turned off in two hours.
+lights,kitchen,off,turn off kitchen lights in 2 hours,kitchen lights will be turned off in 2 hours.
 lights,kitchen,off,"switch off kitchen lights ""this afternoon, 4 pm""",kitchen lights will be turned off this afternoon.
 lights,kitchen,on,turn on kitchen lights in 25 minutes,kitchen lights will be turned on in 25 minutes.
 lights,kitchen,on,activate kitchen lights at 8 pm,kitchen lights will be turned on at 8 pm.
@@ -4548,12 +4547,12 @@ lights,library,off,"switch off library lights ""this evening, 7 pm""",library li
 lights,library,on,turn on library lights in 15 minutes,library lights will be turned on in 15 minutes.
 lights,library,on,activate library lights at 10 pm,library lights will be turned on at 10 pm.
 lights,library,on,"enable library lights ""next tuesday, june 10""",library lights will be turned on next tuesday.
-lights,library,on,turn on library lights at six o'clock,library lights will be turned on at six o'clock.
+lights,library,on,turn on library lights at 6 o'clock,library lights will be turned on at 6 o'clock.
 lights,library,on,"activate library lights ""this afternoon, 3 pm""",library lights will be turned on this afternoon.
 lights,living room,off,turn off living room lights in 20 minutes,living room lights will be turned off in 20 minutes.
 lights,living room,off,switch off living room lights at 6 pm,living room lights will be turned off at 6 pm.
 lights,living room,off,"disable living room lights ""next wednesday, june 11""",living room lights will be turned off next wednesday.
-lights,living room,off,turn off living room lights in two hours,living room lights will be turned off in two hours.
+lights,living room,off,turn off living room lights in 2 hours,living room lights will be turned off in 2 hours.
 lights,living room,off,"switch off living room lights ""this evening, 8 pm""",living room lights will be turned off this evening.
 lights,living room,on,turn on living room lights in 25 minutes,living room lights will be turned on in 25 minutes.
 lights,living room,on,activate living room lights at 7 pm,living room lights will be turned on at 7 pm.
@@ -4578,12 +4577,12 @@ lights,none,on,"activate all lights ""tomorrow, june 7""",all lights will be tur
 lights,random,off,turn off random lights in 25 minutes,random lights will be turned off in 25 minutes.
 lights,random,off,switch off random lights at 6 pm,random lights will be turned off at 6 pm.
 lights,random,off,"disable random lights ""next wednesday, june 11""",random lights will be turned off next wednesday.
-lights,random,off,turn off random lights in two hours,random lights will be turned off in two hours.
+lights,random,off,turn off random lights in 2 hours,random lights will be turned off in 2 hours.
 lights,random,off,"switch off random lights ""this evening, 8 pm""",random lights will be turned off this evening.
 lights,random,on,turn on random lights in 10 minutes,random lights will be turned on in 10 minutes.
 lights,random,on,activate random lights at 7 pm,random lights will be turned on at 7 pm.
 lights,random,on,"enable random lights ""next thursday, june 12""",random lights will be turned on next thursday.
-lights,random,on,turn on random lights at six o'clock,random lights will be turned on at six o'clock.
+lights,random,on,turn on random lights at 6 o'clock,random lights will be turned on at 6 o'clock.
 lights,random,on,"activate random lights ""this afternoon, 3 pm""",random lights will be turned on this afternoon.
 lights,toilet,off,turn off toilet lights in 15 minutes,toilet lights will be turned off in 15 minutes.
 lights,toilet,off,switch off toilet lights at 8 pm,toilet lights will be turned off at 8 pm.
@@ -4755,7 +4754,6 @@ camera,attic,on,initiate attic monitoring,monitoring engaged now
 camera,attic,on,turn attic camera on,monitoring engaged now
 camera,attic,on,activate attic camera,monitoring engaged now
 camera,attic,on,engage monitoring in attic now,monitoring engaged now
-Category,Subcategory,Action,sentence,response
 camera,attic,on,turn on attic camera,monitoring turn on now
 camera,attic,on,activate attic monitoring,monitoring activated now
 camera,attic,on,engage attic camera now,monitoring activated now
