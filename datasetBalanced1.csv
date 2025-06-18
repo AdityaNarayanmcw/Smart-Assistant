@@ -158,7 +158,7 @@ music,volume,check,check volume level,volume level retrieved
 music,volume,check,what's the volume?,volume status shown
 music,volume,check,show volume level,volume retrieved
 music,volume,mute,mute music,music muted
-music,volume,mute,turn off sound,sound muted
+music,volume,mute,turn off sound,sound turn off.
 music,volume,mute,silence music,music is turned off.
 music,volume,unmute,unmute music,music unmuted
 music,volume,unmute,restore sound,sound restored
@@ -174,11 +174,11 @@ camera,all,on,activate camera system,camera system activated
 camera,attic,statusquery,check attic camera status,attic camera status retrieved
 camera,attic,statusquery,show attic camera,attic camera status shown
 camera,attic,statusquery,what's the attic camera status?,attic camera details retrieved
-camera,attic,statusquery,attic camera check,status checked
+camera,attic,statusquery,attic camera check,status retrieved
 camera,attic,statusquery,view attic camera,attic camera view active
 camera,attic,statusquery,monitor attic camera,camera monitored
 camera,attic,statusquery,display attic camera,attic camera retrieved
-camera,attic,statusquery,check attic camera feed,feed checked
+camera,attic,statusquery,check attic camera feed,feed retrieved
 camera,attic,statusquery,show attic camera feed,attic feed shown
 camera,attic,statusquery,attic camera status check,status retrieved
 camera,attic,on,turn on attic camera,attic camera turn on
@@ -194,7 +194,7 @@ camera,attic,on,enable attic monitoring,monitoring enabled
 camera,backyard,statusquery,check backyard camera status,backyard camera status retrieved
 camera,backyard,statusquery,show backyard camera,backyard camera status shown
 camera,backyard,statusquery,what's the backyard camera status?,backyard camera details retrieved
-camera,backyard,statusquery,backyard camera check,status checked
+camera,backyard,statusquery,backyard camera check,status retrieved
 camera,backyard,statusquery,view backyard camera,backyard camera view active
 camera,backyard,statusquery,monitor backyard camera,camera monitored
 camera,backyard,on,turn on backyard camera,backyard camera turn on
@@ -209,11 +209,11 @@ camera,backyard,on,start backyard surveillance,surveillance started
 camera,basement,statusquery,check basement camera status,basement camera status retrieved
 camera,basement,statusquery,show basement camera,basement camera status shown
 camera,basement,statusquery,what's the basement camera status?,basement camera details retrieved
-camera,basement,statusquery,basement camera check,status checked
+camera,basement,statusquery,basement camera check,status retrieved
 camera,basement,statusquery,view basement camera,basement camera view active
 camera,basement,statusquery,monitor basement camera,basement camera monitoring.
 camera,basement,statusquery,display basement camera,basement camera retrieved
-camera,basement,statusquery,check basement camera feed,feed checked
+camera,basement,statusquery,check basement camera feed,feed retrieved
 camera,basement,statusquery,show basement camera feed,basement feed shown
 camera,basement,statusquery,basement camera status check,status retrieved
 camera,basement,on,turn on bathroom basement camera,bathroom basement camera turn on
@@ -225,11 +225,11 @@ camera,basement,on,switch on basement camera,basement camera switched on
 camera,bathroom,statusquery,check bathroom camera status,bathroom camera status retrieved
 camera,bathroom,statusquery,show bathroom camera,bathroom camera status shown
 camera,bathroom,statusquery,what's the bathroom camera status?,bathroom camera details retrieved
-camera,bathroom,statusquery,bathroom camera check,status checked
+camera,bathroom,statusquery,bathroom camera check,status retrieved
 camera,bathroom,statusquery,view bathroom camera,bathroom camera view active
 camera,bathroom,statusquery,monitor bathroom camera,camera monitored
 camera,bathroom,statusquery,display bathroom camera,bathroom camera retrieved
-camera,bathroom,statusquery,check bathroom camera feed,feed checked
+camera,bathroom,statusquery,check bathroom camera feed,feed retrieved
 camera,bathroom,statusquery,show bathroom camera feed,bathroom feed shown
 camera,bathroom,on,turn on bathroom camera,bathroom camera turn on.
 camera,bathroom,on,activate bathroom camera,bathroom camera turned on
@@ -244,7 +244,7 @@ camera,bathroom,on,enable bathroom monitoring,monitoring enabled
 camera,cellar,statusquery,check cellar camera status,cellar camera status retrieved
 camera,cellar,statusquery,show cellar camera,cellar camera status shown
 camera,cellar,statusquery,what's the cellar camera status?,cellar camera details retrieved
-camera,cellar,statusquery,cellar camera check,status checked
+camera,cellar,statusquery,cellar camera check,status retrieved
 camera,cellar,statusquery,view cellar camera,cellar camera view active
 camera,cellar,statusquery,monitor cellar camera,camera monitored
 camera,cellar,statusquery,display cellar camera,cellar camera retrieved
@@ -262,18 +262,18 @@ camera,cellar,on,start cellar surveillance,surveillance started
 camera,dining room,statusquery,check dining room camera status,dining room camera status retrieved
 camera,dining room,statusquery,show dining room camera,dining room camera status shown
 camera,dining room,statusquery,what's the dining room camera status?,dining room camera details retrieved
-camera,dining room,statusquery,dining room camera check,status checked
+camera,dining room,statusquery,dining room camera check,status retrieved
 camera,dining room,statusquery,view dining room camera,dining room camera view active
 camera,dining room,statusquery,monitor dining room camera,camera monitored
 camera,dining room,statusquery,display dining room camera,dining room camera retrieved
-camera,dining room,statusquery,check dining room camera feed,feed checked
+camera,dining room,statusquery,check dining room camera feed,feed retrieved
 camera,dining room,statusquery,show dining room camera feed,dining room feed shown
 camera,dining room,statusquery,dining room camera status check,status retrieved
 camera,dining room,statusquery,view dining room surveillance,surveillance view active
 camera,kitchen,statusquery,check kitchen camera status,kitchen camera status retrieved
 camera,kitchen,statusquery,show kitchen camera,kitchen camera status shown
 camera,kitchen,statusquery,what's the kitchen camera status?,kitchen camera details retrieved
-camera,kitchen,statusquery,kitchen camera check,status checked
+camera,kitchen,statusquery,kitchen camera check,status retrieved
 camera,kitchen,statusquery,view kitchen camera,kitchen camera view active
 camera,kitchen,statusquery,monitor kitchen camera,camera monitored
 camera,kitchen,statusquery,display kitchen camera,kitchen camera retrieved
@@ -288,7 +288,7 @@ camera,kitchen,on,activate kitchen camera system,kitchen camera system activated
 camera,library,statusquery,check library camera status,library camera status retrieved
 camera,library,statusquery,show library camera,library camera status shown
 camera,library,statusquery,what's the library camera status?,library camera details retrieved
-camera,library,statusquery,library camera check,status checked
+camera,library,statusquery,library camera check,status retrieved
 camera,library,statusquery,view library camera,library camera view active
 camera,library,statusquery,monitor library camera,library camera monitoring
 camera,library,statusquery,display library camera,library camera displaying
@@ -307,7 +307,7 @@ camera,library,on,start library surveillance,surveillance started in the library
 camera,library,on,enable library monitoring,monitoring enabled
 camera,living room,statusquery,show living room camera,living room camera status shown
 camera,living room,statusquery,what's the living room camera status?,living room camera details retrieved
-camera,living room,statusquery,living room camera check,status checked
+camera,living room,statusquery,living room camera check,status retrieved
 camera,living room,statusquery,view living room camera,living room camera view active
 camera,living room,statusquery,monitor living room camera,camera monitoring living room
 camera,living room,statusquery,display living room camera,living room camera retrieved
@@ -324,7 +324,7 @@ camera,living room,on,enable living room monitoring,monitoring enabled
 camera,none,statusquery,check camera system status,camera system status retrieved
 camera,none,statusquery,show all cameras,all cameras status shown
 camera,none,statusquery,what's the camera system status?,camera system details retrieved
-camera,none,statusquery,camera system check,status checked
+camera,none,statusquery,camera system check,status retrieved
 camera,none,statusquery,view all cameras,all cameras view active
 camera,none,on,turn on camera system,camera system turn on
 camera,none,on,activate all cameras,all cameras turned on
@@ -528,24 +528,24 @@ lights,cellar,on,activate entire cellar lighting,entire cellar lighting activate
 lights,dining room,statusquery,check dining room lights status,dining room lights status retrieved
 lights,dining room,statusquery,show dining room lights,dining room lights status shown
 lights,dining room,statusquery,what's the dining room lights status?,dining room lights details retrieved
-lights,dining room,statusquery,dining room lights check,status checked
+lights,dining room,statusquery,dining room lights check,status retrieved
 lights,dining room,statusquery,view dining room lights,dining room lights view active
 lights,dining room,statusquery,monitor dining room lights,lights monitored
 lights,dining room,statusquery,display dining room lights,dining room lights retrieved
-lights,dining room,statusquery,check dining room lighting,lights checked
+lights,dining room,statusquery,check dining room lighting,lights retrieved
 lights,dining room,statusquery,show dining room lighting,dining room lighting shown
-lights,dining room,statusquery,dining room lights status check,lights status checked.
+lights,dining room,statusquery,dining room lights status check,lights status retrieved.
 lights,dining room,statusquery,view dining room lighting,lighting view active
 lights,dining room,statusquery,monitor dining room lighting,lighting monitored
-lights,dining room,statusquery,check dining room lights feed,feed checked
+lights,dining room,statusquery,check dining room lights feed,dining room lights feed retrieved
 lights,dining room,statusquery,show dining room lights feed,lights feed shown
 lights,dining room,statusquery,dining room lighting status check,status retrieved
 lights,dining room,statusquery,view dining room lights status,lights status view active
 lights,dining room,statusquery,monitor dining room lights status,lights status monitored
 lights,dining room,statusquery,display dining room lights status,lights status retrieved
-lights,dining room,statusquery,check dining room lighting status,lighting status checked
+lights,dining room,statusquery,check dining room lighting status,lighting status retrieved
 lights,dining room,statusquery,show dining room lighting status,dining room lighting status shown
-lights,dining room,statusquery,dining room lights check status,status checked.
+lights,dining room,statusquery,dining room lights check status,status retrieved.
 lights,dining room,statusquery,verify dining room lights status,dining room lights status verified
 lights,dining room,off,turn off dining room lights,dining room lights turned off
 lights,dining room,off,switch off dining room lights,dining room lights switched off
@@ -584,23 +584,23 @@ lights,dining room,on,power on all dining room lights,all dining room lights pow
 lights,kitchen,statusquery,check kitchen lights status,kitchen lights status retrieved
 lights,kitchen,statusquery,show kitchen lights,kitchen lights status shown
 lights,kitchen,statusquery,what's the kitchen lights status?,kitchen lights details retrieved
-lights,kitchen,statusquery,kitchen lights check,status checked
+lights,kitchen,statusquery,kitchen lights check,status retrieved
 lights,kitchen,statusquery,view kitchen lights,kitchen lights view active
 lights,kitchen,statusquery,monitor kitchen lights,lights monitored
 lights,kitchen,statusquery,display kitchen lights,kitchen lights retrieved
-lights,kitchen,statusquery,check kitchen lighting,lights checked
+lights,kitchen,statusquery,check kitchen lighting,lights retrieved
 lights,kitchen,statusquery,show kitchen lighting,kitchen lighting shown
 lights,kitchen,statusquery,kitchen lights status check,status retrieved
 lights,kitchen,statusquery,view kitchen lighting,lighting view active
 lights,kitchen,statusquery,monitor kitchen lighting,lighting monitored
 lights,kitchen,statusquery,display kitchen lighting,kitchen lighting retrieved
-lights,kitchen,statusquery,check kitchen lights feed,feed checked
+lights,kitchen,statusquery,check kitchen lights feed,feed retrieved
 lights,kitchen,statusquery,show kitchen lights feed,lights feed shown
 lights,kitchen,statusquery,kitchen lighting status check,status retrieved for kitchen lighting.
 lights,kitchen,statusquery,view kitchen lights status,lights status view active
 lights,kitchen,statusquery,monitor kitchen lights status,lights status monitored
 lights,kitchen,statusquery,display kitchen lights status,lights status retrieved
-lights,kitchen,statusquery,check kitchen lighting status,lighting status checked
+lights,kitchen,statusquery,check kitchen lighting status,lighting status retrieved
 lights,kitchen,statusquery,show kitchen lighting status,kitchen lighting status shown
 lights,kitchen,statusquery,kitchen lights check status,kitchen lights status checking
 lights,kitchen,off,turn off kitchen lights,kitchen lights turned off
@@ -726,13 +726,13 @@ lights,none,statusquery,lights system check,lights system details retrieved.
 lights,none,statusquery,view all lights,lights view active
 lights,none,statusquery,monitor lights system,lights monitored
 lights,none,statusquery,display lights system,lights system retrieved
-lights,none,statusquery,check lighting status,lighting status checked
+lights,none,statusquery,check lighting status,lighting status retrieved
 lights,none,statusquery,show lighting status,lights status shown
 lights,none,statusquery,lights status check,status retrieved
 lights,none,statusquery,view lights status,lights status view active
 lights,none,statusquery,monitor lighting status,lighting status monitored
 lights,none,statusquery,display lighting status,lights status retrieved
-lights,none,statusquery,check lights system status,system status checked
+lights,none,statusquery,check lights system status,system status retrieved
 lights,none,statusquery,show lights system status,system status shown
 lights,none,statusquery,lights system status check,status retrieved
 lights,none,statusquery,view lights system,lights system view active
@@ -861,7 +861,7 @@ shutters,cellar,down,shut cellar shutters,cellar shutters shut
 shutters,cellar,statusquery,check cellar shutters status,cellar shutters status retrieved
 shutters,cellar,statusquery,show cellar shutters status,cellar shutters status shown
 shutters,cellar,statusquery,what's the cellar shutters status?,cellar shutters details retrieved
-shutters,cellar,statusquery,cellar shutters check,status checked
+shutters,cellar,statusquery,cellar shutters check,status retrieved
 shutters,cellar,up,raise cellar shutters,cellar shutters raised
 shutters,cellar,up,lift cellar shutters,cellar shutters lifted
 shutters,cellar,up,open cellar shutters,cellar shutters opened
@@ -1296,7 +1296,7 @@ camera,bathroom,on,switch on the camera in bathroom,camera switched on
 camera,bathroom,on,enable the camera in bathroom,camera enabled in bathroom
 camera,bathroom,on,i want the bathroom camera turned on,camera turning on
 camera,cellar,statusquery,was there motion in the cellar yesterday?,yes there was motion detected yesterday
-camera,cellar,statusquery,check for activity in the cellar,cellar activity status checked
+camera,cellar,statusquery,check for activity in the cellar,cellar activity status retrieved
 camera,cellar,statusquery,can you display the cellar camera?,displaying cellar camera
 camera,cellar,statusquery,review cellar camera footage,footage reviewed
 camera,cellar,statusquery,is the cellar camera active?,yes cellar camera is active
@@ -1338,7 +1338,7 @@ camera,kitchen,statusquery,review kitchen footage,footage reviewed
 camera,kitchen,statusquery,kitchen surveillance check,surveillance reviewed
 camera,kitchen,statusquery,retrieve kitchen camera logs,logs retrieved
 camera,kitchen,statusquery,watch kitchen camera,camera in view
-camera,kitchen,statusquery,kitchen activity detection,motion alert checked
+camera,kitchen,statusquery,kitchen activity detection,motion alert retrieved
 camera,kitchen,on,turn on the kitchen monitoring,kitchen monitoring turned on
 camera,kitchen,on,enable kitchen surveillance system,surveillance enabled
 camera,kitchen,on,power up the kitchen camera,camera powered up
@@ -1407,9 +1407,9 @@ camera,none,statusquery,monitor all camera feeds,all camera feeds monitored
 camera,none,statusquery,inspect entire camera system,entire camera system inspected
 camera,none,statusquery,evaluate camera system status,camera system status evaluated
 camera,none,statusquery,review all camera activity,all camera activity reviewed
-camera,none,statusquery,check system camera operations,camera operations checked
+camera,none,statusquery,check system camera operations,camera operations retrieved
 camera,none,statusquery,observe camera system performance,camera system performance observed
-camera,none,statusquery,check camera activity for yesterday,camera activity checked for yesterday.
+camera,none,statusquery,check camera activity for yesterday,camera activity retrieved for yesterday.
 camera,none,on,restart camera system after 30 minutes,camera system will restart in 30 minutes
 camera,none,on,turn on all cameras at 7 pm,all cameras will turn on at 7 pm
 camera,none,on,activate all cameras after 90 minutes,all cameras will be activated after 90 minutes
@@ -1438,7 +1438,7 @@ camera,outside,statusquery,was there movement outside during the weekend?,yes mo
 camera,outside,statusquery,how was the outside camera activity from 2023 to 2024?,activity summary from 2023 to 2024 retrieved
 camera,outside,statusquery,inspect external camera footage,external footage under inspection
 camera,outside,statusquery,show last 24-hour feed of outside camera,24-hour feed retrieved
-camera,outside,statusquery,check camera near the main entrance,main entrance camera checked
+camera,outside,statusquery,check camera near the main entrance,main entrance camera retrieved
 camera,outside,statusquery,show who passed by the outside camera today,pass-by data retrieved for today
 camera,outside,on,turn on outside camera after 10 minutes,outside camera will activate in 10 minutes
 camera,outside,on,activate exterior camera at 6 pm,exterior camera will activate at 6 pm
@@ -1517,9 +1517,9 @@ lights,cellar,on,power on cellar lights tomorrow evening,cellar lights will powe
 lights,cellar,on,turn on cellar lighting for the next 3 hours,cellar lighting turn on for 3 hours
 lights,dining room,statusquery,what was the dining room light status in 2023?,dining room lighting status from 2023 retrieved
 lights,dining room,statusquery,is the dining room light scheduled for tonight?,dining room light schedule for tonight confirmed
-lights,dining room,statusquery,check dining room lights at 9 pm,dining room lights will be checked at 9 pm
+lights,dining room,statusquery,check dining room lights at 9 pm,dining room lights will be retrieved at 9 pm
 lights,dining room,statusquery,show dining room light history from 2022 to 2023,dining room light usage from 2022 to 2023 retrieved
-lights,dining room,statusquery,is the dining room light active after 30 minutes?,status will be checked after 30 minutes
+lights,dining room,statusquery,is the dining room light active after 30 minutes?,status will be retrieved after 30 minutes
 lights,dining room,off,turn off dining room lights after 45 minutes,dining room lights will turn off in 45 minutes
 lights,dining room,off,switch off dining room lighting at 11 pm,dining room lighting will be off at 11 pm
 lights,dining room,off,disable dining room lights next weekend,dining room lights scheduled to turn off next weekend
@@ -1531,12 +1531,12 @@ lights,dining room,on,switch on dining lights next friday,dining lights will act
 lights,dining room,on,power on dining room lights from 2021 to 2022,dining room lights were powered on from 2021 to 2022
 lights,dining room,on,turn on dining room lights tomorrow night,dining room lights scheduled to activate tomorrow night
 lights,kitchen,statusquery,check kitchen light status from 2023,kitchen light status for 2023 retrieved
-lights,kitchen,statusquery,was kitchen light on last night?,kitchen lighting log from last night checked
+lights,kitchen,statusquery,was kitchen light on last night?,kitchen lighting log from last night retrieved
 lights,kitchen,statusquery,verify kitchen lights at 10:30 pm,kitchen light verification scheduled at 10:30 pm
 lights,kitchen,statusquery,check kitchen light activity for the past week,kitchen light usage history retrieved
-lights,kitchen,statusquery,is the kitchen light active after 15 minutes?,kitchen light will be checked in 15 minutes.
-lights,kitchen,statusquery,is the kitchen light active after 30 minutes?,kitchen light will be checked in 30 minutes
-lights,kitchen,statusquery,is the kitchen light active after 15 hours?,kitchen light will be checked in 1 hours
+lights,kitchen,statusquery,is the kitchen light active after 15 minutes?,kitchen light will be retrieved in 15 minutes.
+lights,kitchen,statusquery,is the kitchen light active after 30 minutes?,kitchen light will be retrieved in 30 minutes
+lights,kitchen,statusquery,is the kitchen light active after 15 hours?,kitchen light will be retrieved in 1 hours
 lights,kitchen,off,turn off kitchen lights in 30 minutes,kitchen lights will turn off in 30 minutes
 lights,kitchen,off,disable kitchen lighting tomorrow morning,kitchen lighting will be disabled tomorrow morning
 lights,kitchen,off,switch off kitchen light at 5:45 am,kitchen light will be turned off at 5:45 am
@@ -1571,7 +1571,7 @@ lights,none,statusquery,check global light status from 2022 to 2023,all light st
 lights,none,statusquery,what's the system-wide light status this evening?,system-wide status for this evening fetched
 lights,none,statusquery,monitor all lights tomorrow morning,all lights will be monitored tomorrow morning
 lights,none,statusquery,view overall lighting next weekend,lighting system view scheduled for next weekend
-lights,none,statusquery,check light system at 9:30 pm,light system will be checked at 9:30 pm
+lights,none,statusquery,check light system at 9:30 pm,light system will be retrieved at 9:30 pm
 lights,none,off,turn off all lights after 60 minutes,all lights will turn off in 60 minutes
 lights,none,off,switch off lights system tomorrow,lights system will be switched off tomorrow
 lights,none,off,disable lights across the home at 11 pm,home lighting will be disabled at 11 pm
@@ -2028,12 +2028,12 @@ music,playbackspeed,check,current speed,current speed retrieved.
 music,playbackspeed,check,playback tempo,tempo info shown.
 music,playbackspeed,check,speed status,speed status shown.
 music,playbackspeed,check,what's the current speed?,speed retrieved.
-music,playbackspeed,check,speed check,speed checked.
+music,playbackspeed,check,speed check,speed retrieved.
 music,playbackspeed,check,display playback speed,speed retrieved.
 music,playbackspeed,check,playback speed info,info retrieved.
 music,playbackspeed,check,show speed,speed shown.
 music,playbackspeed,check,current playback tempo,tempo retrieved.
-music,playbackspeed,check,check speed now,speed checked.
+music,playbackspeed,check,check speed now,speed retrieved.
 music,playbackspeed,check,playback speed info at 2 pm,speed info at 2 pm.
 music,playbackspeed,resetspeed,restore music speed,music speed restored
 music,playbackspeed,resetspeed,normalize playback speed,playback speed normalized
@@ -2089,10 +2089,10 @@ music,playlist,check,inspect playlist immediately,playlist inspected immediately
 music,playlist,check,verify playlist today,playlist verified today
 music,playlist,check,examine playlist now,playlist examined now
 music,playlist,check,assess playlist immediately,playlist assessed immediately
-music,playlist,check,check playlist yesterday,playlist status checked for yesterday. 
+music,playlist,check,check playlist yesterday,playlist status retrieved for yesterday. 
 music,playlist,check,review playlist at 7 pm,playlist will be reviewed at 7 pm. 
 music,playlist,check,inspect playlist for today,playlist inspected for today. 
-music,playlist,check,check playlist after 20 minutes,playlist will be checked after 20 minutes. 
+music,playlist,check,check playlist after 20 minutes,playlist will be retrieved after 20 minutes. 
 music,playlist,check,verify playlist at 9 pm,playlist will be verified at 9 pm. 
 music,playlist,create,initiate new playlist,new playlist initiated
 music,playlist,create,build new playlist,new playlist built
@@ -2325,12 +2325,12 @@ music,queue,check,review queue now,queue reviewed now
 music,queue,check,inspect queue immediately,queue inspected immediately
 music,queue,check,verify queue today,queue verified today
 music,queue,check,examine queue now,queue examined now
-music,queue,check,check queue yesterday,queue checked for yesterday.
+music,queue,check,check queue yesterday,queue retrieved for yesterday.
 music,queue,check,review queue at 7 pm,queue will be reviewed at 7 pm.
 music,queue,check,inspect queue for today,queue inspected for today.
 music,queue,check,inspect queue for tomorrow,queue inspected for tomorrow.
 music,queue,check,inspect queue for day after tomorrow,queue inspected for day after tomorrow.
-music,queue,check,check queue after 15 minutes,queue will be checked after 15 minutes.
+music,queue,check,check queue after 15 minutes,queue will be retrieved after 15 minutes.
 music,queue,check,verify queue at 8 pm,queue will be verified at 8 pm.
 music,queue,clear,remove queue contents,queue contents removed
 music,queue,clear,empty music queue,music queue emptied
@@ -2403,10 +2403,10 @@ music,schedule,check,review schedule now,schedule reviewed now
 music,schedule,check,inspect schedule immediately,schedule inspected immediately
 music,schedule,check,verify schedule today,schedule verified today
 music,schedule,check,examine schedule now,schedule examined now
-music,schedule,check,check schedule yesterday,schedule checked for yesterday.
+music,schedule,check,check schedule yesterday,schedule retrieved for yesterday.
 music,schedule,check,review schedule at 6 pm,schedule will be reviewed at 6 pm.
 music,schedule,check,inspect schedule for today,schedule inspected for today.
-music,schedule,check,check schedule after 15 minutes,schedule will be checked after 15 minutes.
+music,schedule,check,check schedule after 15 minutes,schedule will be retrieved after 15 minutes.
 music,schedule,check,verify schedule at 7 pm,schedule will be verified at 7 pm.
 music,schedule,play,start scheduled music,scheduled music started
 music,schedule,play,begin music schedule,music schedule began
@@ -2460,10 +2460,10 @@ music,sleeptimer,check,review timer now,timer reviewed now
 music,sleeptimer,check,inspect timer immediately,timer inspected immediately
 music,sleeptimer,check,verify timer today,sleep timer verified today
 music,sleeptimer,check,examine timer now,sleep timer examined now
-music,sleeptimer,check,check timer yesterday,sleep timer checked for yesterday.
+music,sleeptimer,check,check timer yesterday,sleep timer retrieved for yesterday.
 music,sleeptimer,check,review timer at 8 pm,sleep timer will be reviewed at 8 pm.
 music,sleeptimer,check,inspect timer for today,sleep timer inspected for today.
-music,sleeptimer,check,sleep timer check after 10 minutes,sleep timer will be checked after 10 minutes.
+music,sleeptimer,check,sleep timer check after 10 minutes,sleep timer will be retrieved after 10 minutes.
 music,sleeptimer,check,verify timer at 9 pm,sleep timer will be verified at 9 pm.
 music,sleeptimer,set,enable sleep timer,sleep timer enabled
 music,sleeptimer,set,configure sleep timer,sleep timer configured
@@ -2499,10 +2499,10 @@ music,song,check,review song now,song reviewed now
 music,song,check,inspect song immediately,song inspected immediately
 music,song,check,verify song today,song verified today
 music,song,check,examine song now,song examined now
-music,song,check,check song yesterday,song checked for yesterday.
+music,song,check,check song yesterday,song retrieved for yesterday.
 music,song,check,review song at 7 pm,song will be reviewed at 7 pm.
 music,song,check,inspect song for today,song inspected for today.
-music,song,check,check song after 15 minutes,song will be checked after 15 minutes.
+music,song,check,check song after 15 minutes,song will be retrieved after 15 minutes.
 music,song,check,verify song at 8 pm,song will be verified at 8 pm.
 music,song,play,start song playback,song playback started
 music,song,play,begin song,song began
@@ -2537,10 +2537,10 @@ music,source,check,review source now,source reviewed now
 music,source,check,inspect source immediately,source inspected immediately
 music,source,check,verify source today,source verified today
 music,source,check,examine source now,source examined now
-music,source,check,check source yesterday,source checked for yesterday.
+music,source,check,check source yesterday,source retrieved for yesterday.
 music,source,check,review source at 8 pm,source will be reviewed at 8 pm.
 music,source,check,inspect source for today,source inspected for today.
-music,source,check,check source after 10 minutes,source will be checked after 10 minutes.
+music,source,check,check source after 10 minutes,source will be retrieved after 10 minutes.
 music,source,check,verify source at 9 pm,source will be verified at 9 pm.
 music,source,switchsource,change audio source,audio source changed
 music,source,switchsource,select new source,new source selected
@@ -2575,10 +2575,10 @@ music,status,check,review status now,status reviewed now
 music,status,check,inspect status immediately,status inspected immediately
 music,status,check,verify status today,status verified today
 music,status,check,examine status now,status examined now
-music,status,check,check status yesterday,status checked for yesterday.
+music,status,check,check status yesterday,status retrieved for yesterday.
 music,status,check,review status at 6 pm,status will be reviewed at 6 pm.
 music,status,check,inspect status for today,status inspected for today.
-music,status,check,check status after 15 minutes,status will be checked after 15 minutes.
+music,status,check,check status after 15 minutes,status will be retrieved after 15 minutes.
 music,status,check,verify status at 7 pm,status will be verified at 7 pm.
 music,voicecontrol,check,review voice control status,voice control status reviewed
 music,voicecontrol,check,inspect voice control,voice control inspected
@@ -2594,10 +2594,10 @@ music,voicecontrol,check,review voice control now,voice control reviewed now
 music,voicecontrol,check,inspect voice control immediately,voice control inspected immediately
 music,voicecontrol,check,verify voice control today,voice control verified today
 music,voicecontrol,check,examine voice control now,voice control examined now
-music,voicecontrol,check,check voice control yesterday,voice control checked for yesterday.
+music,voicecontrol,check,check voice control yesterday,voice control retrieved for yesterday.
 music,voicecontrol,check,review voice control at 8 pm,voice control will be reviewed at 8 pm.
 music,voicecontrol,check,inspect voice control for today,voice control inspected for today.
-music,voicecontrol,check,check voice control after 10 minutes,voice control will be checked after 10 minutes.
+music,voicecontrol,check,check voice control after 10 minutes,voice control will be retrieved after 10 minutes.
 music,voicecontrol,check,verify voice control at 9 pm,voice control will be verified at 9 pm.
 music,voicecontrol,disable,turn off voice control,voice control turned off
 music,voicecontrol,disable,deactivate voice control,voice control deactivated
@@ -2651,10 +2651,10 @@ music,volume,check,inspect volume now,volume inspected now
 music,volume,check,review volume immediately,volume reviewed immediately
 music,volume,check,verify volume today,volume verified today
 music,volume,check,examine volume now,volume examined now
-music,volume,check,check volume yesterday,volume checked for yesterday.
+music,volume,check,check volume yesterday,volume retrieved for yesterday.
 music,volume,check,review volume at 8 pm,volume will be reviewed at 8 pm.
 music,volume,check,inspect volume for today,volume inspected for today.
-music,volume,check,check volume after 10 minutes,volume will be checked after 10 minutes.
+music,volume,check,check volume after 10 minutes,volume will be retrieved after 10 minutes.
 music,volume,check,verify volume at 9 pm,volume will be verified at 9 pm.
 music,volume,mute,deactivate music sound,sound deactivated
 music,volume,mute,silence audio,audio silenced
@@ -2719,7 +2719,7 @@ shutters,basement,up,lift basement blinds,blinds lifted
 shutters,basement,up,open basement shades,shades opened
 shutters,basement,up,raise basement blinds,blinds raised
 shutters,basement,up,lift basement curtains,curtains lifted
-shutters,basement,up,open basement blinds,blinds opened
+shutters,basement,up,open basement blinds,blinds opened for the basement
 shutters,basement,up,raise shades now,shades raised now
 shutters,basement,up,lift blinds immediately,blinds lifted immediately
 shutters,basement,up,open shutters now,shutters opened now
@@ -2765,7 +2765,7 @@ shutters,bathroom,statusquery,review shades immediately,shades reviewed now
 shutters,bathroom,statusquery,verify blinds now,blinds verified now
 shutters,bathroom,statusquery,examine shutters today,shutters examined today
 shutters,bathroom,statusquery,assess shades now,shades assessed now
-shutters,bathroom,statusquery,check shutter status yesterday,shutter status checked for yesterday.
+shutters,bathroom,statusquery,check shutter status yesterday,shutter status retrieved for yesterday.
 shutters,bathroom,statusquery,review shades at 8 pm,shades will be reviewed at 8 pm.
 shutters,bathroom,statusquery,inspect blinds for today,blinds inspected for today.
 shutters,bathroom,statusquery,verify shutter status at 9 pm,shutter status will be verified at 9 pm.
@@ -2822,7 +2822,7 @@ shutters,cellar,statusquery,review shades immediately,shades reviewed now
 shutters,cellar,statusquery,verify blinds now,blinds verified now
 shutters,cellar,statusquery,examine shutters today,shutters examined today
 shutters,cellar,statusquery,assess shades now,shades assessed now
-shutters,cellar,statusquery,check shutter status yesterday,shutter status checked for yesterday.
+shutters,cellar,statusquery,check shutter status yesterday,shutter status retrieved for yesterday.
 shutters,cellar,statusquery,review shades at 6 pm,shades will be reviewed at 6 pm.
 shutters,cellar,statusquery,inspect blinds for today,blinds inspected for today.
 shutters,cellar,statusquery,verify shutter status at 9 pm,shutter status will be verified at 9 pm.
@@ -2879,7 +2879,7 @@ shutters,kitchen,statusquery,review shades immediately,shades reviewed now
 shutters,kitchen,statusquery,verify blinds now,blinds verified now
 shutters,kitchen,statusquery,examine shutters today,shutters examined today
 shutters,kitchen,statusquery,assess shades now,shades assessed now
-shutters,kitchen,statusquery,check shutter status yesterday,shutter status checked for yesterday.
+shutters,kitchen,statusquery,check shutter status yesterday,shutter status retrieved for yesterday.
 shutters,kitchen,statusquery,review shades at 8 pm,shades will be reviewed at 8 pm.
 shutters,kitchen,statusquery,inspect blinds for today,blinds inspected for today.
 shutters,kitchen,statusquery,verify shutter status at 9 pm,shutter status will be verified at 9 pm.
@@ -2937,7 +2937,7 @@ shutters,kitchen,statusquery,verify blinds now,blinds verified now
 shutters,kitchen,statusquery,examine shutters today,shutters examined today
 shutters,kitchen,statusquery,assess shades now,shades assessed now
 shutters,kitchen,statusquery,monitor blinds immediately,blinds monitored immediately
-shutters,kitchen,statusquery,check shutter status yesterday,shutter status checked for yesterday.
+shutters,kitchen,statusquery,check shutter status yesterday,shutter status retrieved for yesterday.
 shutters,kitchen,statusquery,review shades at 8 pm,shades will be reviewed at 8 pm.
 shutters,kitchen,statusquery,inspect blinds for today,blinds inspected for today.
 shutters,kitchen,statusquery,verify shutter status at 9 pm,shutter status will be verified at 9 pm.
@@ -3070,7 +3070,7 @@ shutters,none,statusquery,review shades immediately,shades reviewed now
 shutters,none,statusquery,verify blinds now,blinds verified now
 shutters,none,statusquery,examine shutters today,shutters examined today
 shutters,none,statusquery,assess shades now,shades assessed now
-shutters,none,statusquery,check all shutter status yesterday,all shutter status checked for yesterday.
+shutters,none,statusquery,check all shutter status yesterday,all shutter status retrieved for yesterday.
 shutters,none,statusquery,review all shades at 8 pm,all shades will be reviewed at 8 pm.
 shutters,none,statusquery,inspect all blinds for today,all blinds inspected for today.
 shutters,none,statusquery,verify all shutter status at 9 pm,all shutter status will be verified at 9 pm.
@@ -3128,7 +3128,7 @@ shutters,toilet,statusquery,review shades immediately,shades reviewed now
 shutters,toilet,statusquery,verify blinds now,blinds verified now
 shutters,toilet,statusquery,examine shutters today,shutters examined today
 shutters,toilet,statusquery,assess shades now,shades assessed now
-shutters,toilet,statusquery,check shutter status yesterday,shutter status checked for yesterday.
+shutters,toilet,statusquery,check shutter status yesterday,shutter status retrieved for yesterday.
 shutters,toilet,statusquery,review shades at 8 pm,shades will be reviewed at 8 pm.
 shutters,toilet,statusquery,inspect blinds for today,blinds inspected for today.
 shutters,toilet,statusquery,verify shutter status at 9 pm,shutter status will be verified at 9 pm.
@@ -3166,7 +3166,7 @@ camera,all,statusquery,review feeds immediately,feeds reviewed immediately
 camera,all,statusquery,verify operations now,operations verified now
 camera,all,statusquery,examine surveillance today,surveillance examined today
 camera,all,statusquery,assess conditions now,conditions assessed now
-camera,all,statusquery,monitor activity yesterday,activity checked for yesterday.
+camera,all,statusquery,monitor activity yesterday,activity retrieved for yesterday.
 camera,all,statusquery,review feeds at 9 pm,feeds will be reviewed at 9 pm.
 camera,all,statusquery,inspect cameras for today,cameras inspected for today.
 camera,all,statusquery,verify status at 10 pm,status will be verified at 10 pm.
@@ -3204,7 +3204,7 @@ camera,attic,statusquery,review feed immediately,feed reviewed immediately
 camera,attic,statusquery,verify operation now,operation verified now
 camera,attic,statusquery,examine surveillance today,surveillance examined today.
 camera,attic,statusquery,assess camera condition now,condition of camera assessed now.
-camera,attic,statusquery,monitor activity yesterday,activity checked for yesterday.
+camera,attic,statusquery,monitor activity yesterday,activity retrieved for yesterday.
 camera,attic,statusquery,review feed at 9 pm,feed will be reviewed at 9 pm.
 camera,attic,statusquery,inspect camera for today,camera inspected for today.
 camera,attic,statusquery,verify status at 10 pm,status will be verified at 10 pm.
@@ -3508,7 +3508,7 @@ camera,living room,on,launch living room camera,camera launched
 camera,living room,on,initiate living room surveillance,surveillance initiated
 camera,living room,on,engage living room camera system,system engaged
 camera,living room,on,start living room monitoring,monitoring started
-camera,living room,on,begin living room camera feed,feed begun
+camera,living room,on,begin living room camera feed,living room feed started.
 camera,living room,on,deploy living room surveillance,surveillance deployed
 camera,living room,on,launch camera now,camera launched now
 camera,living room,on,initiate system immediately,system initiated immediately
@@ -3672,7 +3672,7 @@ camera,basement,on,activate basement surveillance in 2 hours,basement camera wil
 music,multisource,sync,synchronize music across all devices now,sources synchronized.
 music,multisource,sync,align audio sources in 10 minutes,sources will be synchronized in 10 minutes.
 music,multisource,sync,sync music sources at 6 pm,sources will be synchronized at 6 pm.
-music,multisource,sync,unify music devices in fifteen minutes,sources will be synchronized in fifteen minutes.
+music,multisource,sync,unify music devices in 15 minutes,sources will be synchronized in 15 minutes.
 music,multisource,sync,synchronize audio in 10 minutes,sources will be synchronized in 10 minutes
 music,multisource,sync,align music sources at 2 pm,sources will be synchronized at 2 pm
 music,multisource,sync,sync devices next friday june 13,sources will be synchronized next friday
@@ -3698,15 +3698,15 @@ music,queue,add,add song to queue in 2 hours,song will be added to queue in 2 ho
 music,queue,add,include track in queue at 6 o'clock,song will be added to queue at 6 o'clock.
 music,queue,add,"add song to queue tomorrow, june 7",song will be added to queue tomorrow.
 music,queue,add,"insert track into queue next week, june 12",song will be added to queue next week.
-camera,bathroom,statusquery,check bathroom camera feed now,feed checked.
+camera,bathroom,statusquery,check bathroom camera feed now,feed retrieved.
 camera,bathroom,statusquery,inspect bathroom camera in 15 minutes,feed will be inspected in 15 minutes.
 camera,bathroom,statusquery,review bathroom camera at 9 pm,feed will be reviewed at 9 pm.
 camera,bathroom,statusquery,monitor bathroom feed in 30 minutes,feed will be monitored in 30 minutes.
-camera,bathroom,statusquery,"check bathroom camera next wednesday, june 11",feed will be checked next wednesday.
+camera,bathroom,statusquery,"check bathroom camera next wednesday, june 11",feed will be retrieved next wednesday.
 camera,bathroom,statusquery,"inspect bathroom feed this evening, 8 pm",feed will be inspected this evening.
 camera,bathroom,statusquery,review bathroom camera in 1 day,feed will be reviewed in 1 day.
 camera,bathroom,statusquery,monitor bathroom feed at 8 pm,feed will be monitored at 8 pm.
-camera,bathroom,statusquery,"check bathroom camera tomorrow, june 7",feed will be checked tomorrow.
+camera,bathroom,statusquery,"check bathroom camera tomorrow, june 7",feed will be retrieved tomorrow.
 camera,bathroom,statusquery,"inspect bathroom feed next week, june 12",feed will be inspected next week.
 camera,kitchen,on,turn on kitchen camera now,kitchen camera turned on.
 camera,kitchen,on,activate kitchen surveillance in 10 minutes,kitchen camera will start in 10 minutes.
@@ -3748,15 +3748,15 @@ lights,none,statusquery,keep lights unchanged in 2 hours,lights will remain unch
 lights,none,statusquery,don't change lights at 7 o'clock,lights will not be changed at 7 o'clock.
 lights,none,statusquery,"avoid adjusting lights tomorrow, june 7",lights will not be adjusted tomorrow.
 lights,none,statusquery,"keep lights as they are next week, june 12",lights will remain unchanged next week.
-camera,attic,statusquery,check attic camera status now,attic camera status checked.
+camera,attic,statusquery,check attic camera status now,attic camera status retrieved.
 camera,attic,statusquery,review attic feed in 5 minutes,attic feed will be reviewed in 5 minutes.
 camera,attic,statusquery,inspect attic camera at 10 pm,attic feed will be inspected at 10 pm.
 camera,attic,statusquery,monitor attic feed in 20 minutes,attic feed will be monitored in 20 minutes.
-camera,attic,statusquery,"check attic camera next wednesday, june 11",attic feed will be checked next wednesday.
+camera,attic,statusquery,"check attic camera next wednesday, june 11",attic feed will be retrieved next wednesday.
 camera,attic,statusquery,"review attic feed this afternoon, 2 pm",attic feed will be reviewed this afternoon.
 camera,attic,statusquery,inspect attic camera in 1 day,attic feed will be inspected in 1 day.
 camera,attic,statusquery,monitor attic feed at 8 pm,attic feed will be monitored at 8 pm.
-camera,attic,statusquery,"check attic camera tomorrow, june 7",attic feed will be checked tomorrow.
+camera,attic,statusquery,"check attic camera tomorrow, june 7",attic feed will be retrieved tomorrow.
 camera,attic,statusquery,"review attic feed next week, june 12",attic feed will be reviewed next week.
 camera,cellar,on,start cellar camera now,cellar camera started.
 camera,cellar,on,activate cellar surveillance in 30 minutes,cellar camera will start in 30 minutes.
@@ -3821,22 +3821,22 @@ camera,backyard,on,"activate backyard surveillance next week, june 12",backyard 
 shutters,none,statusquery,keep all shutters unchanged now,shutters unchanged.
 shutters,none,statusquery,don't adjust shutters in 5 minutes,shutters will not be adjusted in 5 minutes.
 shutters,none,statusquery,avoid changing shutters at 10 pm,shutters will not be changed at 10 pm.
-shutters,none,statusquery,keep shades as they are in fifteen minutes,shutters will remain unchanged in fifteen minutes.
+shutters,none,statusquery,keep shades as they are in 15 minutes,shutters will remain unchanged in 15 minutes.
 shutters,none,statusquery,"don't touch shutters next wednesday, june 11",shutters will not be touched next wednesday.
 shutters,none,statusquery,"avoid adjusting shades this evening, 7 pm",shutters will not be adjusted this evening.
 shutters,none,statusquery,keep shutters unchanged in 2 hours,shutters will remain unchanged in 2 hours.
 shutters,none,statusquery,don't change shades at 7 o'clock,shutters will not be changed at 7 o'clock.
 shutters,none,statusquery,"avoid adjusting shutters tomorrow, june 7",shutters will not be adjusted tomorrow.
 shutters,none,statusquery,"keep shades as they are next week, june 12",shutters will remain unchanged next week.
-camera,dining room,statusquery,check dining room camera now,dining room camera checked.
+camera,dining room,statusquery,check dining room camera now,dining room camera retrieved.
 camera,dining room,statusquery,review dining room feed in 30 minutes,dining room feed will be reviewed in 30 minutes.
 camera,dining room,statusquery,inspect dining room camera at 7 pm,dining room feed will be inspected at 7 pm.
 camera,dining room,statusquery,monitor dining room feed in 40 minutes,dining room feed will be monitored in 40 minutes.
-camera,dining room,statusquery,"check dining room camera next tuesday, june 10",dining room feed will be checked next tuesday.
+camera,dining room,statusquery,"check dining room camera next tuesday, june 10",dining room feed will be retrieved next tuesday.
 camera,dining room,statusquery,"review dining room feed this afternoon, 3 pm",dining room feed will be reviewed this afternoon.
 camera,dining room,statusquery,inspect dining room camera in 1 day,dining room feed will be inspected in 1 day.
 camera,dining room,statusquery,monitor dining room feed at 8 pm,dining room feed will be monitored at 8 pm.
-camera,dining room,statusquery,"check dining room camera tomorrow, june 7",dining room feed will be checked tomorrow.
+camera,dining room,statusquery,"check dining room camera tomorrow, june 7",dining room feed will be retrieved tomorrow.
 camera,dining room,statusquery,"review dining room feed next week, june 12",dining room feed will be reviewed next week.
 music,podcast,play,start podcast now,podcast started.
 music,podcast,play,play podcast episode in 15 minutes,podcast episode will start in 15 minutes.
@@ -3861,7 +3861,7 @@ music,device,volumesync,"sync volume next week, june 12",volume will be synchron
 shutters,bathroom,down,close bathroom shutters now,bathroom shutters closed.
 shutters,bathroom,down,lower bathroom shades in 5 minutes,bathroom shades will be lowered in 5 minutes.
 shutters,bathroom,down,shut bathroom shutters at 10 pm,bathroom shutters will be closed at 10 pm.
-shutters,bathroom,down,close bathroom shades in fifteen minutes,bathroom shades will be closed in fifteen minutes.
+shutters,bathroom,down,close bathroom shades in 15 minutes,bathroom shades will be closed in 15 minutes.
 shutters,bathroom,down,"lower bathroom shutters next tuesday, june 10",bathroom shutters will be closed next tuesday.
 shutters,bathroom,down,"shut bathroom shades this evening, 7 pm",bathroom shades will be closed this evening.
 shutters,bathroom,down,close bathroom shutters in 1 day,bathroom shutters will be closed in 1 day.
@@ -3878,7 +3878,7 @@ music,device,multiroom,start multi room playback in 1 day,multi room music will 
 music,device,multiroom,enable multi room music at 8 pm,multi room music will start at 8 pm.
 music,device,multiroom,"play multi room music tomorrow, june 7",multi room music will start tomorrow.
 music,device,multiroom,"start multi room playback next week, june 12",multi room music will start next week.
-lights,kitchen,statusquery,check kitchen lights now,kitchen lights status checked.
+lights,kitchen,statusquery,check kitchen lights now,kitchen lights status retrieved.
 lights,kitchen,statusquery,don't turn off kitchen lights in 10 minutes,kitchen lights will remain on in 10 minutes.
 lights,kitchen,statusquery,avoid dimming kitchen lights at 9 pm,kitchen lights will not be dimmed at 9 pm.
 lights,kitchen,statusquery,keep kitchen lights on in 20 minutes,kitchen lights will remain on in 20 minutes.
@@ -3923,22 +3923,22 @@ music,voicecontrol,enable,"enable voice control this afternoon, 2 pm",voice cont
 music,voicecontrol,enable,turn on voice control in 10 minutes,voice control will be enabled in 10 minutes.
 music,voicecontrol,enable,activate voice control at 7 pm,voice control will be enabled at 7 pm.
 music,voicecontrol,enable,"enable voice control tomorrow, june 7",voice control will be enabled tomorrow.
-music,voicecontrol,enable,turn on voice control in fifteen minutes,voice control will be enabled in fifteen minutes.
-music,voicecontrol,check,"check voice control status next monday, june 9",voice control status will be checked next monday.
-music,voicecontrol,check,verify voice control in 20 minutes,voice control status will be checked in 20 minutes.
-music,voicecontrol,check,inspect voice control at 8 pm,voice control status will be checked at 8 pm.
-music,voicecontrol,check,"check voice control this evening, 7 pm",voice control status will be checked this evening.
-music,voicecontrol,check,confirm voice control in 30 minutes,voice control status will be checked in 30 minutes.
+music,voicecontrol,enable,turn on voice control in 15 minutes,voice control will be enabled in 15 minutes.
+music,voicecontrol,check,"check voice control status next monday, june 9",voice control status will be retrieved next monday.
+music,voicecontrol,check,verify voice control in 20 minutes,voice control status will be retrieved in 20 minutes.
+music,voicecontrol,check,inspect voice control at 8 pm,voice control status will be retrieved at 8 pm.
+music,voicecontrol,check,"check voice control this evening, 7 pm",voice control status will be retrieved this evening.
+music,voicecontrol,check,confirm voice control in 30 minutes,voice control status will be retrieved in 30 minutes.
 music,voicecontrol,disable,"disable voice control next tuesday, june 10",voice control will be disabled next tuesday.
 music,voicecontrol,disable,turn off voice control in 15 minutes,voice control will be disabled in 15 minutes.
 music,voicecontrol,disable,deactivate voice control at 9 pm,voice control will be disabled at 9 pm.
 music,voicecontrol,disable,"disable voice control tomorrow, june 7",voice control will be disabled tomorrow.
 music,voicecontrol,disable,turn off voice control in 1 hour,voice control will be disabled in 1 hour.
-music,ambient,check,"check ambient music status this afternoon, 3 pm",ambient music status will be checked this afternoon.
-music,ambient,check,verify ambient music in 25 minutes,ambient music status will be checked in 25 minutes.
-music,ambient,check,inspect ambient music at 6 pm,ambient music status will be checked at 6 pm.
-music,ambient,check,check ambient music next wednesday june 11,ambient music status will be checked next wednesday.
-music,ambient,check,confirm ambient music in 40 minutes,ambient music status will be checked in 40 minutes.
+music,ambient,check,"check ambient music status this afternoon, 3 pm",ambient music status will be retrieved this afternoon.
+music,ambient,check,verify ambient music in 25 minutes,ambient music status will be retrieved in 25 minutes.
+music,ambient,check,inspect ambient music at 6 pm,ambient music status will be retrieved at 6 pm.
+music,ambient,check,check ambient music next wednesday june 11,ambient music status will be retrieved next wednesday.
+music,ambient,check,confirm ambient music in 40 minutes,ambient music status will be retrieved in 40 minutes.
 music,ambient,play,"play ambient music ""tomorrow, june 7""",ambient music will start tomorrow.
 music,ambient,play,start ambient music in 10 minutes,ambient music will start in 10 minutes.
 music,ambient,play,launch ambient music at 6 pm,ambient music will start at 6 pm.
@@ -3952,21 +3952,21 @@ music,ambient,stop,halt ambient music in 15 minutes,ambient music will stop in 1
 music,ambient,stop,end ambient music at 9 pm,ambient music will stop at 9 pm.
 music,ambient,stop,"cease ambient music ""this afternoon, 2 pm""",ambient music will stop this afternoon.
 music,ambient,stop,stop ambient music in 30 minutes,ambient music will stop in 30 minutes.
-music,artist,check,"check artist playlist status ""tomorrow, june 7""",artist playlist status will be checked tomorrow.
-music,artist,check,verify artist playback in 20 minutes,artist playback status will be checked in 20 minutes.
-music,artist,check,inspect artist music at 8 pm,artist playback status will be checked at 8 pm.
-music,artist,check,"check artist status ""next tuesday, june 10""",artist playback status will be checked next tuesday.
-music,artist,check,confirm artist music in 1 hour,artist playback status will be checked in 1 hour.
+music,artist,check,"check artist playlist status ""tomorrow, june 7""",artist playlist status will be retrieved tomorrow.
+music,artist,check,verify artist playback in 20 minutes,artist playback status will be retrieved in 20 minutes.
+music,artist,check,inspect artist music at 8 pm,artist playback status will be retrieved at 8 pm.
+music,artist,check,"check artist status ""next tuesday, june 10""",artist playback status will be retrieved next tuesday.
+music,artist,check,confirm artist music in 1 hour,artist playback status will be retrieved in 1 hour.
 music,artist,play,"play songs by queen ""this evening, 7 pm""",playing songs by queen this evening.
 music,artist,play,start music by the beatles in 10 minutes,playing songs by the beatles in 10 minutes.
 music,artist,play,launch songs by nirvana at 6 pm,playing songs by nirvana at 6 pm.
 music,artist,play,"play music by pink floyd ""next monday, june 9""",playing songs by pink floyd next monday.
 music,artist,play,begin artist playback in 15 minutes,playing artist songs in 15 minutes.
-music,device,check,"check device status ""tomorrow, june 7""",device status will be checked tomorrow.
-music,device,check,verify music devices in 25 minutes,device status will be checked in 25 minutes.
-music,device,check,inspect devices at 9 pm,device status will be checked at 9 pm.
-music,device,check,"check device connectivity ""next wednesday, june 11""",device status will be checked next wednesday.
-music,device,check,confirm device status in 40 minutes,device status will be checked in 40 minutes.
+music,device,check,"check device status ""tomorrow, june 7""",device status will be retrieved tomorrow.
+music,device,check,verify music devices in 25 minutes,device status will be retrieved in 25 minutes.
+music,device,check,inspect devices at 9 pm,device status will be retrieved at 9 pm.
+music,device,check,"check device connectivity ""next wednesday, june 11""",device status will be retrieved next wednesday.
+music,device,check,confirm device status in 40 minutes,device status will be retrieved in 40 minutes.
 music,device,multiroom,"enable multi room music ""this afternoon, 3 pm""",multi room music will start this afternoon.
 music,device,multiroom,start multi room playback in 20 minutes,multi room music will start in 20 minutes.
 music,device,multiroom,play multi room music at 7 pm,multi room music will start at 7 pm.
@@ -3986,12 +3986,12 @@ music,equalizer,adjust,"adjust equalizer settings ""tomorrow, june 15""",equaliz
 music,equalizer,adjust,tune equalizer in 10 minutes,equalizer settings will be adjusted in 10 minutes.
 music,equalizer,adjust,modify equalizer at 7 pm,equalizer settings will be adjusted at 7 pm.
 music,equalizer,adjust,"fine-tune equalizer ""next tuesday, june 10""",equalizer settings will be adjusted next tuesday.
-music,equalizer,adjust,change equalizer settings in fifteen minutes,equalizer settings will be adjusted in fifteen minutes.
-music,multisource,check,"check multi source playback ""this evening, 8 pm""",multi source status will be checked this evening.
-music,multisource,check,verify source status in 25 minutes,multi source status will be checked in 25 minutes.
-music,multisource,check,inspect multi source at 9 pm,multi source status will be checked at 9 pm.
-music,multisource,check,"check multi source music ""next wednesday, june 11""",multi source status will be checked next wednesday.
-music,multisource,check,confirm multi source status in 1 hour,multi source status will be checked in 1 hour.
+music,equalizer,adjust,change equalizer settings in 15 minutes,equalizer settings will be adjusted in 15 minutes.
+music,multisource,check,"check multi source playback ""this evening, 8 pm""",multi source status will be retrieved this evening.
+music,multisource,check,verify source status in 25 minutes,multi source status will be retrieved in 25 minutes.
+music,multisource,check,inspect multi source at 9 pm,multi source status will be retrieved at 9 pm.
+music,multisource,check,"check multi source music ""next wednesday, june 11""",multi source status will be retrieved next wednesday.
+music,multisource,check,confirm multi source status in 1 hour,multi source status will be retrieved in 1 hour.
 music,multisource,play,"play music from all sources ""tomorrow, june 7""",all sources will play tomorrow.
 music,multisource,play,start multi source playback in 20 minutes,all sources will play in 20 minutes.
 music,multisource,play,launch multi source music at 6 pm,all sources will play at 6 pm.
@@ -4006,12 +4006,12 @@ music,none,off,"turn off all music playback ""next tuesday, june 10""",all music
 music,none,off,stop all audio in 10 minutes,all music will be turned off in 10 minutes.
 music,none,off,halt all playback at 9 pm,all music will be turned off at 9 pm.
 music,none,off,"shut down music ""tomorrow, june 7""",all music will be turned off tomorrow.
-music,none,off,end all music in fifteen minutes,all music will be turned off in fifteen minutes.
-music,playback,check,"check playback status ""this afternoon, 2 pm""",playback status will be checked this afternoon.
-music,playback,check,verify playback in 25 minutes,playback status will be checked in 25 minutes.
-music,playback,check,inspect playback at 8 pm,playback status will be checked at 8 pm.
-music,playback,check,"check playback status ""next wednesday, june 11""",playback status will be checked next wednesday.
-music,playback,check,confirm playback in 1 hour,playback status will be checked in 1 hour.
+music,none,off,end all music in 15 minutes,all music will be turned off in 15 minutes.
+music,playback,check,"check playback status ""this afternoon, 2 pm""",playback status will be retrieved this afternoon.
+music,playback,check,verify playback in 25 minutes,playback status will be retrieved in 25 minutes.
+music,playback,check,inspect playback at 8 pm,playback status will be retrieved at 8 pm.
+music,playback,check,"check playback status ""next wednesday, june 11""",playback status will be retrieved next wednesday.
+music,playback,check,confirm playback in 1 hour,playback status will be retrieved in 1 hour.
 music,playback,loop,"enable loop playback ""tomorrow, june 7""",playback loop will be enabled tomorrow.
 music,playback,loop,start looping music in 20 minutes,playback loop will be enabled in 20 minutes.
 music,playback,loop,turn on loop at 6 pm,playback loop will be enabled at 6 pm.
@@ -4026,7 +4026,7 @@ music,playback,play,"start music playback ""tomorrow, june 7""",playback will st
 music,playback,play,begin playing music in 10 minutes,playback will start in 10 minutes.
 music,playback,play,play music at 8 pm,playback will start at 8 pm.
 music,playback,play,"launch playback ""next tuesday, june 10""",playback will start next tuesday.
-music,playback,play,start music in fifteen minutes,playback will start in fifteen minutes.
+music,playback,play,start music in 15 minutes,playback will start in 15 minutes.
 music,playback,previous,"play previous track ""this evening, 7 pm""",previous track will play this evening.
 music,playback,previous,go to previous song in 20 minutes,previous track will play in 20 minutes.
 music,playback,previous,play last track at 9 pm,previous track will play at 9 pm.
@@ -4038,7 +4038,7 @@ music,playback,repeat,activate repeat at 6 pm,repeat playback will be enabled at
 music,playback,repeat,"set repeat playback ""this afternoon, 2 pm""",repeat playback will be enabled this afternoon.
 music,playback,repeat,enable repeat mode in 30 minutes,repeat playback will be enabled in 30 minutes.
 music,playback,restart,"restart current song ""next monday, june 9""",current song will restart next monday.
-music,playback,restart,replay song from start in 15 minutes,current song will restart in fifteen minutes.
+music,playback,restart,replay song from start in 15 minutes,current song will restart in 15 minutes.
 music,playback,restart,restart track at 7 pm,current song will restart at 7 pm.
 music,playback,restart,"begin song again ""this evening, june 3 pm""",current song will restart this evening.
 music,playback,restart,restart music in 20 minutes,current song will restart in 20 minutes.
@@ -4046,13 +4046,13 @@ music,playback,resume,"resume music playback ""next tuesday, june 10""",playback
 music,playback,resume,resume paused song in 10 minutes,playback will resume in 10 minutes.
 music,playback,resume,continue playback at 8 pm,playback will resume at 8 pm.
 music,playback,resume,"resume music resume ""tomorrow, this evening""",playback will resume tomorrow evening.
-music,playback,resume,resume song in fifteen minutes,playback will resume in fifteen minutes.
+music,playback,resume,resume song in 15 minutes,playback will resume in 15 minutes.
 music,playback,skip,"skip to next song ""this afternoon, june 3 pm""",next song will play this afternoon.
 music,playback,skip,advance to next track in 25 minutes,next song will play in 25 minutes.
 music,playback,skip,play next song at 6 pm,next song will play at 6 pm.
 music,playback,skip,"move to next track ""next wednesday, june 11""",next song will play next wednesday.
 music,playback,stop,"stop music playback ""tomorrow, june 7""",music stopped.
-music,playback,stop,halt playback in 15 minutes,playback will stop in fifteen minutes.
+music,playback,stop,halt playback in 15 minutes,playback will stop in 15 minutes.
 music,playback,stop,halt playback; end music at 9 pm,playback stopped at 9 pm. stop.
 music,playback,stop,"hplay; cease; stop music ""this evening, 7 pm""",playback stopped this evening.
 music,playback,stop,turn off playback in 1 hour,playback will stop in 1 hour.
@@ -4062,11 +4062,11 @@ music,voicecontrol,enable,turn on voice control at 2 pm,voice control will be en
 music,voicecontrol,enable,"activate voice control ""tomorrow, june 7""",voice control will be enabled tomorrow.
 music,voicecontrol,enable,enable music voice control at 7 o'clock,voice control will be enabled at 7 o'clock.
 music,voicecontrol,enable,"turn on voice control ""next monday, june 9""",voice control will be enabled next monday.
-music,ambient,check,check ambient music status in 15 minutes,ambient music status will be checked in 15 minutes.
-music,ambient,check,verify ambient music at 3 pm,ambient music status will be checked at 3 pm.
-music,ambient,check,"inspect ambient music settings ""next tuesday, june 10""",ambient music status will be checked next tuesday.
-music,ambient,check,check ambient music in 1 hour,ambient music status will be checked in 1 hour.
-music,ambient,check,"review ambient music ""this afternoon, 4 pm""",ambient music status will be checked this afternoon.
+music,ambient,check,check ambient music status in 15 minutes,ambient music status will be retrieved in 15 minutes.
+music,ambient,check,verify ambient music at 3 pm,ambient music status will be retrieved at 3 pm.
+music,ambient,check,"inspect ambient music settings ""next tuesday, june 10""",ambient music status will be retrieved next tuesday.
+music,ambient,check,check ambient music in 1 hour,ambient music status will be retrieved in 1 hour.
+music,ambient,check,"review ambient music ""this afternoon, 4 pm""",ambient music status will be retrieved this afternoon.
 music,ambient,play,start ambient music in 20 minutes,ambient music will start in 20 minutes.
 music,ambient,play,play ambient music at 5 pm,ambient music will start at 5 pm.
 music,ambient,play,"launch ambient music ""next wednesday, june 11""",ambient music will start next wednesday.
@@ -4077,21 +4077,21 @@ music,ambient,stop,halt ambient music at 6 pm,ambient music will stop at 6 pm.
 music,ambient,stop,"end ambient music ""next thursday, june 12""",ambient music will stop next thursday.
 music,ambient,stop,cease ambient music in 2 hours,ambient music will stop in 2 hours.
 music,ambient,stop,"stop ambient music ""this evening, 7 pm""",ambient music will stop this evening.
-music,artist,check,check artist playlist status now,artist playlist status checked.
-music,artist,check,verify artist songs in 30 minutes,artist playlist status will be checked in 30 minutes.
-music,artist,check,inspect artist music at 8 pm,artist playlist status will be checked at 8 pm.
-music,artist,check,"review artist tracks ""next friday, june 13""",artist playlist status will be checked next friday.
-music,artist,check,"check artist status ""tomorrow, june 7""",artist playlist status will be checked tomorrow.
+music,artist,check,check artist playlist status now,artist playlist status retrieved.
+music,artist,check,verify artist songs in 30 minutes,artist playlist status will be retrieved in 30 minutes.
+music,artist,check,inspect artist music at 8 pm,artist playlist status will be retrieved at 8 pm.
+music,artist,check,"review artist tracks ""next friday, june 13""",artist playlist status will be retrieved next friday.
+music,artist,check,"check artist status ""tomorrow, june 7""",artist playlist status will be retrieved tomorrow.
 music,artist,play,play artist songs in 10 minutes,artist songs will start in 10 minutes.
 music,artist,play,start artist music at 9 pm,artist songs will start at 9 pm.
 music,artist,play,"launch artist tracks ""next monday, june 9""",artist songs will start next monday.
 music,artist,play,play artist songs at 6 o'clock,artist songs will start at 6 o'clock.
 music,artist,play,"begin artist music ""this afternoon, 2 pm""",artist songs will start this afternoon.
-music,device,check,check music device status in 15 minutes,device status will be checked in 15 minutes.
-music,device,check,verify device connection at 10 pm,device status will be checked at 10 pm.
-music,device,check,"inspect music devices ""next tuesday, june 10""",device status will be checked next tuesday.
-music,device,check,review device status in 1 hour,device status will be checked in 1 hour.
-music,device,check,"check devices ""this evening, 8 pm""",device status will be checked this evening.
+music,device,check,check music device status in 15 minutes,device status will be retrieved in 15 minutes.
+music,device,check,verify device connection at 10 pm,device status will be retrieved at 10 pm.
+music,device,check,"inspect music devices ""next tuesday, june 10""",device status will be retrieved next tuesday.
+music,device,check,review device status in 1 hour,device status will be retrieved in 1 hour.
+music,device,check,"check devices ""this evening, 8 pm""",device status will be retrieved this evening.
 music,device,multiroom,enable multi room music in 20 minutes,multi room music will start in 20 minutes.
 music,device,multiroom,start multi room playback at 7 pm,multi room music will start at 7 pm.
 music,device,multiroom,"activate multi room music ""next wednesday, june 11""",multi room music will start next wednesday.
@@ -4108,11 +4108,11 @@ music,equalizer,adjust,tweak equalizer at 8 pm,equalizer settings will be adjust
 music,equalizer,adjust,"modify equalizer ""next friday, june 13""",equalizer settings will be adjusted next friday.
 music,equalizer,adjust,adjust equalizer in 1 hour,equalizer settings will be adjusted in 1 hour.
 music,equalizer,adjust,"change equalizer ""this evening, 7 pm""",equalizer settings will be adjusted this evening.
-music,multisource,check,check multi source status in 15 minutes,multi source status will be checked in 15 minutes.
-music,multisource,check,verify multi source at 9 pm,multi source status will be checked at 9 pm.
-music,multisource,check,"inspect multi source settings ""next monday, june 9""",multi source status will be checked next monday.
-music,multisource,check,review multi source in 2 hours,multi source status will be checked in 2 hours.
-music,multisource,check,"check multi source ""tomorrow, june 7""",multi source status will be checked tomorrow.
+music,multisource,check,check multi source status in 15 minutes,multi source status will be retrieved in 15 minutes.
+music,multisource,check,verify multi source at 9 pm,multi source status will be retrieved at 9 pm.
+music,multisource,check,"inspect multi source settings ""next monday, june 9""",multi source status will be retrieved next monday.
+music,multisource,check,review multi source in 2 hours,multi source status will be retrieved in 2 hours.
+music,multisource,check,"check multi source ""tomorrow, june 7""",multi source status will be retrieved tomorrow.
 music,multisource,play,play multi source music in 20 minutes,multi source music will start in 20 minutes.
 music,multisource,play,start multi source playback at 10 pm,multi source music will start at 10 pm.
 music,multisource,play,"launch multi source music ""next tuesday, june 10""",multi source music will start next tuesday.
@@ -4128,11 +4128,11 @@ music,none,off,stop all music at 7 pm,music will be turned off at 7 pm.
 music,none,off,"shut off music ""next thursday, june 12""",music will be turned off next thursday.
 music,none,off,turn off music in 2 hours,music will be turned off in 2 hours.
 music,none,off,"end music ""tomorrow, june 7""",music will be turned off tomorrow.
-music,playback,check,check playback status in 15 minutes,playback status will be checked in 15 minutes.
-music,playback,check,verify playback at 8 pm,playback status will be checked at 8 pm.
-music,playback,check,"inspect playback ""next friday, june 13""",playback status will be checked next friday.
-music,playback,check,review playback in 1 hour,playback status will be checked in 1 hour.
-music,playback,check,"check playback ""this afternoon, 2 pm""",playback status will be checked this afternoon.
+music,playback,check,check playback status in 15 minutes,playback status will be retrieved in 15 minutes.
+music,playback,check,verify playback at 8 pm,playback status will be retrieved at 8 pm.
+music,playback,check,"inspect playback ""next friday, june 13""",playback status will be retrieved next friday.
+music,playback,check,review playback in 1 hour,playback status will be retrieved in 1 hour.
+music,playback,check,"check playback ""this afternoon, 2 pm""",playback status will be retrieved this afternoon.
 music,playback,loop,enable loop playback in 20 minutes,loop playback will be enabled in 20 minutes.
 music,playback,loop,turn on loop at 9 pm,loop playback will be enabled at 9 pm.
 music,playback,loop,"activate loop ""next monday, june 9""",loop playback will be enabled next monday.
@@ -4174,11 +4174,11 @@ music,playbackspeed,adjustspeed,change speed at 10 pm,playback speed will be adj
 music,playbackspeed,adjustspeed,"modify playback speed ""next thursday, june 12""",playback speed will be adjusted next thursday.
 music,playbackspeed,adjustspeed,tweak speed in 1 hour,playback speed will be adjusted in 1 hour.
 music,playbackspeed,adjustspeed,"adjust speed ""this evening, 7 pm""",playback speed will be adjusted this evening.
-music,playbackspeed,check,check playback speed in 25 minutes,playback speed status will be checked in 25 minutes.
-music,playbackspeed,check,verify speed at 6 pm,playback speed status will be checked at 6 pm.
-music,playbackspeed,check,"inspect playback speed ""next friday, june 13""",playback speed status will be checked next friday.
-music,playbackspeed,check,review speed in 2 hours,playback speed status will be checked in 2 hours.
-music,playbackspeed,check,"check speed ""this afternoon, 3 pm""",playback speed status will be checked this afternoon.
+music,playbackspeed,check,check playback speed in 25 minutes,playback speed status will be retrieved in 25 minutes.
+music,playbackspeed,check,verify speed at 6 pm,playback speed status will be retrieved at 6 pm.
+music,playbackspeed,check,"inspect playback speed ""next friday, june 13""",playback speed status will be retrieved next friday.
+music,playbackspeed,check,review speed in 2 hours,playback speed status will be retrieved in 2 hours.
+music,playbackspeed,check,"check speed ""this afternoon, 3 pm""",playback speed status will be retrieved this afternoon.
 music,playbackspeed,resetspeed,reset playback speed in 10 minutes,playback speed will be reset in 10 minutes.
 music,playbackspeed,resetspeed,restore default speed at 7 pm,playback speed will be reset at 7 pm.
 music,playbackspeed,resetspeed,"reset speed ""next monday, june 9""",playback speed will be reset next monday.
@@ -4189,11 +4189,11 @@ music,playlist,addsong,include track in playlist at 8 pm,song will be added to p
 music,playlist,addsong,"insert song ""next tuesday, june 10""",song will be added to playlist next tuesday.
 music,playlist,addsong,add track at 9 o'clock,song will be added to playlist at 9 o'clock.
 music,playlist,addsong,"include song ""this afternoon, 2 pm""",song will be added to playlist this afternoon.
-music,playlist,check,check playlist status in 20 minutes,playlist status will be checked in 20 minutes.
-music,playlist,check,verify playlist at 9 pm,playlist status will be checked at 9 pm.
-music,playlist,check,"inspect playlist ""next wednesday, june 11""",playlist status will be checked next wednesday.
-music,playlist,check,review playlist in 1 hour,playlist status will be checked in 1 hour.
-music,playlist,check,"check playlist ""this evening, 7 pm""",playlist status will be checked this evening.
+music,playlist,check,check playlist status in 20 minutes,playlist status will be retrieved in 20 minutes.
+music,playlist,check,verify playlist at 9 pm,playlist status will be retrieved at 9 pm.
+music,playlist,check,"inspect playlist ""next wednesday, june 11""",playlist status will be retrieved next wednesday.
+music,playlist,check,review playlist in 1 hour,playlist status will be retrieved in 1 hour.
+music,playlist,check,"check playlist ""this evening, 7 pm""",playlist status will be retrieved this evening.
 music,playlist,create,create new playlist in 25 minutes,new playlist will be created in 25 minutes.
 music,playlist,create,make playlist at 10 pm,new playlist will be created at 10 pm.
 music,playlist,create,"start new playlist ""next thursday, june 12""",new playlist will be created next thursday.
@@ -4249,11 +4249,11 @@ music,queue,add,insert track in queue at 7 pm,song will be added to queue at 7 p
 music,queue,add,"add song ""next thursday, june 12""",song will be added to queue next thursday.
 music,queue,add,include track at 8 pm,song will be added to queue at 8 pm.
 music,queue,add,"add song ""this afternoon, 3 pm""",song will be added to queue this afternoon.
-music,queue,check,check queue status in 20 minutes,queue status will be checked in 20 minutes.
-music,queue,check,verify queue at 8 pm,queue status will be checked at 8 pm.
-music,queue,check,"inspect queue ""next friday, june 13""",queue status will be checked next friday.
-music,queue,check,review queue in 2 hours,queue status will be checked in 2 hours.
-music,queue,check,"check queue ""this evening, 7 pm""",queue status will be checked this evening.
+music,queue,check,check queue status in 20 minutes,queue status will be retrieved in 20 minutes.
+music,queue,check,verify queue at 8 pm,queue status will be retrieved at 8 pm.
+music,queue,check,"inspect queue ""next friday, june 13""",queue status will be retrieved next friday.
+music,queue,check,review queue in 2 hours,queue status will be retrieved in 2 hours.
+music,queue,check,"check queue ""this evening, 7 pm""",queue status will be retrieved this evening.
 music,queue,clear,clear queue in 25 minutes,queue will be cleared in 25 minutes.
 music,queue,clear,empty queue at 9 pm,queue will be cleared at 9 pm.
 music,queue,clear,"reset queue ""next monday, june 9""",queue will be cleared next monday.
@@ -4269,10 +4269,10 @@ music,schedule,cancel,remove schedule at 6 pm,schedule will be canceled at 6 pm.
 music,schedule,cancel,"stop schedule ""next wednesday, june 11""",schedule will be canceled next wednesday.
 music,schedule,cancel,cancel schedule in 1 hour,schedule will be canceled in 1 hour.
 music,schedule,cancel,"remove music schedule ""this evening, 8 pm""",schedule will be canceled this evening.
-music,schedule,check,check music schedule in 20 minutes,schedule status will be checked in 20 minutes.
-music,schedule,check,verify schedule at 7 pm,schedule status will be checked at 7 pm.
-music,schedule,check,"inspect schedule ""next thursday, june 12""",schedule status will be checked next thursday.
-music,schedule,check,review schedule in 2 hours,schedule status will be checked in 2 hours.
+music,schedule,check,check music schedule in 20 minutes,schedule status will be retrieved in 20 minutes.
+music,schedule,check,verify schedule at 7 pm,schedule status will be retrieved at 7 pm.
+music,schedule,check,"inspect schedule ""next thursday, june 12""",schedule status will be retrieved next thursday.
+music,schedule,check,review schedule in 2 hours,schedule status will be retrieved in 2 hours.
 music,schedule,check,"check schedule ""tomorrow, june 7""",schedule status tomorrow june 7 showing.
 music,schedule,play,schedule music to play in 25 minutes,music will be scheduled to play in 25 minutes.
 music,schedule,play,set music to play at 8 pm,music will be scheduled to play at 8 pm.
@@ -4284,46 +4284,46 @@ music,schedule,stop,cancel music schedule at 9 pm,scheduled music will be stoppe
 music,schedule,stop,"end schedule ""next monday, june 9""",scheduled music will be stopped next monday.
 music,schedule,stop,stop schedule at 6 o'clock,scheduled music will be stopped at 6 o'clock.
 music,schedule,stop,"cancel scheduled music ""this evening, 7 pm""",scheduled music will be stopped this evening.
-music,sleeptimer,check,check sleep timer in 15 minutes,sleep timer status will be checked in 15 minutes.
-music,sleeptimer,check,verify sleep timer at 10 pm,sleep timer status will be checked at 10 pm.
-music,sleeptimer,check,"inspect sleep timer ""next tuesday, june 10""",sleep timer status will be checked next tuesday.
-music,sleeptimer,check,review sleep timer in 1 hour,sleep timer status will be checked in 1 hour.
-music,sleeptimer,check,"check sleep timer ""this afternoon, 3 pm""",sleep timer status will be checked this afternoon.
+music,sleeptimer,check,check sleep timer in 15 minutes,sleep timer status will be retrieved in 15 minutes.
+music,sleeptimer,check,verify sleep timer at 10 pm,sleep timer status will be retrieved at 10 pm.
+music,sleeptimer,check,"inspect sleep timer ""next tuesday, june 10""",sleep timer status will be retrieved next tuesday.
+music,sleeptimer,check,review sleep timer in 1 hour,sleep timer status will be retrieved in 1 hour.
+music,sleeptimer,check,"check sleep timer ""this afternoon, 3 pm""",sleep timer status will be retrieved this afternoon.
 music,sleeptimer,set,set sleep timer in 20 minutes,sleep timer will be set in 20 minutes.
 music,sleeptimer,set,activate sleep timer at 6 pm,sleep timer will be set at 6 pm.
 music,sleeptimer,set,"enable sleep timer ""next wednesday, june 11""",sleep timer will be set next wednesday.
 music,sleeptimer,set,set sleep timer at 8 pm,sleep timer will be set at 8 pm.
 music,sleeptimer,set,"activate sleep timer ""tomorrow, june 7""",sleep timer will be set tomorrow.
-music,song,check,check song status in 25 minutes,song status will be checked in 25 minutes.
-music,song,check,verify current song at 7 pm,song status will be checked at 7 pm.
-music,song,check,"inspect song ""next thursday, june 12""",song status will be checked next thursday.
-music,song,check,review song in 2 hours,song status will be checked in 2 hours.
-music,song,check,"check song ""this evening, 8 pm""",song status will be checked this evening.
+music,song,check,check song status in 25 minutes,song status will be retrieved in 25 minutes.
+music,song,check,verify current song at 7 pm,song status will be retrieved at 7 pm.
+music,song,check,"inspect song ""next thursday, june 12""",song status will be retrieved next thursday.
+music,song,check,review song in 2 hours,song status will be retrieved in 2 hours.
+music,song,check,"check song ""this evening, 8 pm""",song status will be retrieved this evening.
 music,song,play,play song in 10 minutes,song will start in 10 minutes.
 music,song,play,start song at 8 pm,song will start at 8 pm.
 music,song,play,"launch song ""next friday, june 13""",song will start next friday.
 music,song,play,play song at 9 o'clock,song will start at 9 o'clock.
 music,song,play,"begin song ""this afternoon, 4 pm""",song will start this afternoon.
-music,source,check,check music source in 15 minutes,source status will be checked in 15 minutes.
-music,source,check,verify source at 9 pm,source status will be checked at 9 pm.
-music,source,check,"inspect source ""next monday, june 9""",source status will be checked next monday.
-music,source,check,review source in 1 hour,source status will be checked in 1 hour.
-music,source,check,"check source ""tomorrow, june 7""",source status will be checked tomorrow.
+music,source,check,check music source in 15 minutes,source status will be retrieved in 15 minutes.
+music,source,check,verify source at 9 pm,source status will be retrieved at 9 pm.
+music,source,check,"inspect source ""next monday, june 9""",source status will be retrieved next monday.
+music,source,check,review source in 1 hour,source status will be retrieved in 1 hour.
+music,source,check,"check source ""tomorrow, june 7""",source status will be retrieved tomorrow.
 music,source,switchsource,switch music source in 20 minutes,source will be switched in 20 minutes.
 music,source,switchsource,change source at 10 pm,source will be switched at 10 pm.
 music,source,switchsource,"swap source ""next tuesday, june 10""",source will be switched next tuesday.
 music,source,switchsource,switch source at 6 o'clock,source will be switched at 6 o'clock.
 music,source,switchsource,"change music source ""this afternoon, 2 pm""",source will be switched this afternoon.
-music,status,check,check music status in 25 minutes,music status will be checked in 25 minutes.
-music,status,check,verify music status at 6 pm,music status will be checked at 6 pm.
-music,status,check,"inspect music status ""next wednesday, june 11""",music status will be checked next wednesday.
-music,status,check,review music status in 2 hours,music status will be checked in 2 hours.
-music,status,check,"check music status ""this evening, 7 pm""",music status will be checked this evening.
-music,voicecontrol,check,check voice control status in 10 minutes,voice control status will be checked in 10 minutes.
-music,voicecontrol,check,verify voice control at 7 pm,voice control status will be checked at 7 pm.
-music,voicecontrol,check,"inspect voice control ""next thursday, june 12""",voice control status will be checked next thursday.
-music,voicecontrol,check,review voice control in 1 hour,voice control status will be checked in 1 hour.
-music,voicecontrol,check,"check voice control ""this afternoon, 3 pm""",voice control status will be checked this afternoon.
+music,status,check,check music status in 25 minutes,music status will be retrieved in 25 minutes.
+music,status,check,verify music status at 6 pm,music status will be retrieved at 6 pm.
+music,status,check,"inspect music status ""next wednesday, june 11""",music status will be retrieved next wednesday.
+music,status,check,review music status in 2 hours,music status will be retrieved in 2 hours.
+music,status,check,"check music status ""this evening, 7 pm""",music status will be retrieved this evening.
+music,voicecontrol,check,check voice control status in 10 minutes,voice control status will be retrieved in 10 minutes.
+music,voicecontrol,check,verify voice control at 7 pm,voice control status will be retrieved at 7 pm.
+music,voicecontrol,check,"inspect voice control ""next thursday, june 12""",voice control status will be retrieved next thursday.
+music,voicecontrol,check,review voice control in 1 hour,voice control status will be retrieved in 1 hour.
+music,voicecontrol,check,"check voice control ""this afternoon, 3 pm""",voice control status will be retrieved this afternoon.
 music,voicecontrol,disable,disable voice control in 15 minutes,voice control will be disabled in 15 minutes.
 music,voicecontrol,disable,turn off voice control at 8 pm,voice control will be disabled at 8 pm.
 music,voicecontrol,disable,"deactivate voice control ""next friday, june 13""",voice control will be disabled next friday.
@@ -4334,13 +4334,13 @@ music,volume,adjustvolume,change volume at 9 pm,volume will be adjusted at 9 pm.
 music,volume,adjustvolume,"modify volume ""next monday, june 9""",volume will be adjusted next monday.
 music,volume,adjustvolume,tweak volume in 2 hours,volume will be adjusted in 2 hours.
 music,volume,adjustvolume,"adjust volume ""this evening, 8 pm""",volume will be adjusted this evening.
-music,volume,check,check volume level in 25 minutes,volume level will be checked in 25 minutes.
-music,volume,check,verify volume at 10 pm,volume level will be checked at 10 pm.
-music,volume,check,"inspect volume ""next tuesday, june 10""",volume level will be checked next tuesday.
-music,volume,check,review volume in 1 hour,volume level will be checked in 1 hour.
-music,volume,check,"check volume ""this afternoon, 4 pm""",volume level will be checked this afternoon.
+music,volume,check,check volume level in 25 minutes,volume level will be retrieved in 25 minutes.
+music,volume,check,verify volume at 10 pm,volume level will be retrieved at 10 pm.
+music,volume,check,"inspect volume ""next tuesday, june 10""",volume level will be retrieved next tuesday.
+music,volume,check,review volume in 1 hour,volume level will be retrieved in 1 hour.
+music,volume,check,"check volume ""this afternoon, 4 pm""",volume level will be retrieved this afternoon.
 music,volume,mute,mute music in 10 minutes,music will be muted in 10 minutes.
-music,volume,mute,turn off sound at 6 pm,music will be muted at 6 pm.
+music,volume,mute,turn off sound at 6 pm,music will be turn off at 6 pm.
 music,volume,mute,"mute audio ""next wednesday, june 11""",music will be muted next wednesday.
 music,volume,mute,silence music at 7 o'clock,music will be muted at 7 o'clock.
 music,volume,mute,"mute music ""tomorrow, june 7""",music will be muted tomorrow.
@@ -4439,26 +4439,26 @@ shutters,toilet,up,open toilet shutters at 9 am,toilet shutters will be opened a
 shutters,toilet,up,"lift toilet shutters ""next tuesday, june 10""",toilet shutters will be opened next tuesday.
 shutters,toilet,up,raise shutters at 7 o'clock,toilet shutters will be opened at 7 o'clock.
 shutters,toilet,up,"open toilet shutters ""tomorrow, june 7""",toilet shutters will be opened tomorrow.
-camera,all,statusquery,check all cameras in 10 minutes,all camera feeds will be checked in 10 minutes.
-camera,all,statusquery,verify all camera feeds at 2 pm,all camera feeds will be checked at 2 pm.
-camera,all,statusquery,"inspect all cameras ""next monday, june 9""",all camera feeds will be checked next monday.
-camera,all,statusquery,monitor all camera feeds at 7 o'clock,all camera feeds will be checked at 7 o'clock.
-camera,all,statusquery,"review all cameras ""tomorrow, june 7""",all camera feeds will be checked tomorrow.
-camera,none,statusquery,check camera system status in 15 minutes,camera system status will be checked in 15 minutes.
-camera,none,statusquery,verify camera network at 3 pm,camera system status will be checked at 3 pm.
-camera,none,statusquery,"inspect camera settings ""next tuesday, june 10""",camera system status will be checked next tuesday.
-camera,none,statusquery,review camera status in 1 hour,camera system status will be checked in 1 hour.
-camera,none,statusquery,"check cameras ""this afternoon, 4 pm""",camera system status will be checked this afternoon.
+camera,all,statusquery,check all cameras in 10 minutes,all camera feeds will be retrieved in 10 minutes.
+camera,all,statusquery,verify all camera feeds at 2 pm,all camera feeds will be retrieved at 2 pm.
+camera,all,statusquery,"inspect all cameras ""next monday, june 9""",all camera feeds will be retrieved next monday.
+camera,all,statusquery,monitor all camera feeds at 7 o'clock,all camera feeds will be retrieved at 7 o'clock.
+camera,all,statusquery,"review all cameras ""tomorrow, june 7""",all camera feeds will be retrieved tomorrow.
+camera,none,statusquery,check camera system status in 15 minutes,camera system status will be retrieved in 15 minutes.
+camera,none,statusquery,verify camera network at 3 pm,camera system status will be retrieved at 3 pm.
+camera,none,statusquery,"inspect camera settings ""next tuesday, june 10""",camera system status will be retrieved next tuesday.
+camera,none,statusquery,review camera status in 1 hour,camera system status will be retrieved in 1 hour.
+camera,none,statusquery,"check cameras ""this afternoon, 4 pm""",camera system status will be retrieved this afternoon.
 camera,none,on,turn on all cameras in 20 minutes,all cameras will be turned on in 20 minutes.
 camera,none,on,activate all cameras at 5 pm,all cameras will be turned on at 5 pm.
 camera,none,on,"start all cameras ""next wednesday, june 11""",all cameras will be turned on next wednesday.
 camera,none,on,enable all cameras at 8 pm,all cameras will be turned on at 8 pm.
 camera,none,on,"turn on cameras ""tomorrow, june 7""",all cameras will be turned on tomorrow.
-camera,outside,statusquery,check outside camera feeds in 25 minutes,outside camera feeds will be checked in 25 minutes.
-camera,outside,statusquery,verify outside cameras at 6 pm,outside camera feeds will be checked at 6 pm.
-camera,outside,statusquery,"inspect outside cameras ""next thursday, june 12""",outside camera feeds will be checked next thursday.
-camera,outside,statusquery,monitor outside feeds in 2 hours,outside camera feeds will be checked in 2 hours.
-camera,outside,statusquery,"review outside cameras ""this evening, 7 pm""",outside camera feeds will be checked this evening.
+camera,outside,statusquery,check outside camera feeds in 25 minutes,outside camera feeds will be retrieved in 25 minutes.
+camera,outside,statusquery,verify outside cameras at 6 pm,outside camera feeds will be retrieved at 6 pm.
+camera,outside,statusquery,"inspect outside cameras ""next thursday, june 12""",outside camera feeds will be retrieved next thursday.
+camera,outside,statusquery,monitor outside feeds in 2 hours,outside camera feeds will be retrieved in 2 hours.
+camera,outside,statusquery,"review outside cameras ""this evening, 7 pm""",outside camera feeds will be retrieved this evening.
 camera,outside,on,activate outside cameras in 10 minutes,outside cameras will be turned on in 10 minutes.
 camera,outside,on,turn on outside cameras at 8 pm,outside cameras will be turned on at 8 pm.
 camera,outside,on,"start outside cameras ""next friday, june 13""",outside cameras will be turned on next friday.
@@ -4634,16 +4634,16 @@ music,artist,play,launch artist tracks,artist music playing
 music,artist,play,play artist’s songs,artist music playing
 music,artist,play,stream artist playlist,artist music playing
 music,artist,play,begin artist music,artist music playing
-music,device,check,check device status,device status checked
-music,device,check,verify device operation,device status checked
-music,device,check,assess device state,device status checked
-music,device,check,review device condition,device status checked
-music,device,check,inspect device activity,device status checked
-music,device,check,query device status,device status checked
-music,device,check,examine device operation,device status checked
-music,device,check,check device functionality,device status checked
-music,device,check,validate device state,device status checked
-music,device,check,monitor device status,device status checked
+music,device,check,check device status,device status retrieved
+music,device,check,verify device operation,device status retrieved
+music,device,check,assess device state,device status retrieved
+music,device,check,review device condition,device status retrieved
+music,device,check,inspect device activity,device status retrieved
+music,device,check,query device status,device status retrieved
+music,device,check,examine device operation,device status retrieved
+music,device,check,check device functionality,device status retrieved
+music,device,check,validate device state,device status retrieved
+music,device,check,monitor device status,device status retrieved
 music,device,multiroom,enable multiroom audio,multiroom audio enabled
 music,device,multiroom,activate multiroom music,multiroom audio enabled
 music,device,multiroom,start multiroom playback,multiroom audio enabled
@@ -4674,16 +4674,16 @@ music,multisource,play,launch multisource audio,multisource audio playing
 music,multisource,play,play multisource playlist,multisource audio playing
 music,multisource,play,stream multisource music,multisource audio playing
 music,multisource,play,begin multisource songs,multisource audio playing
-music,playback,check,check playback status,playback status checked
-music,playback,check,verify playback state,playback status checked
-music,playback,check,assess playback condition,playback status checked
-music,playback,check,review playback activity,playback status checked
-music,playback,check,inspect playback status,playback status checked
-music,playback,check,query playback state,playback status checked
-music,playback,check,examine playback operation,playback status checked
-music,playback,check,check playback functionality,playback status checked
-music,playback,check,validate playback status,playback status checked
-music,playback,check,monitor playback state,playback status checked
+music,playback,check,check playback status,playback status retrieved
+music,playback,check,verify playback state,playback status retrieved
+music,playback,check,assess playback condition,playback status retrieved
+music,playback,check,review playback activity,playback status retrieved
+music,playback,check,inspect playback status,playback status retrieved
+music,playback,check,query playback state,playback status retrieved
+music,playback,check,examine playback operation,playback status retrieved
+music,playback,check,check playback functionality,playback status retrieved
+music,playback,check,validate playback status,playback status retrieved
+music,playback,check,monitor playback state,playback status retrieved
 music,playback,skip,skip current track,track skipped
 music,playback,skip,advance to next song,track skipped
 music,playback,skip,move to next track,track skipped
@@ -4704,16 +4704,16 @@ music,playback,stop,terminate track playback,playback stopped
 music,playback,stop,stop audio stream,playback stopped
 music,playback,stop,halt music stream,playback stopped
 music,playback,stop,end current playback,playback stopped
-music,playbackspeed,check,check playback speed,speed checked
-music,playbackspeed,check,verify playback speed,speed checked
-music,playbackspeed,check,assess playback speed,speed checked
-music,playbackspeed,check,review playback speed,speed checked
-music,playbackspeed,check,inspect playback speed,speed checked
-music,playbackspeed,check,query playback speed,speed checked
-music,playbackspeed,check,examine playback speed,speed checked
-music,playbackspeed,check,check speed setting,speed checked
-music,playbackspeed,check,validate playback speed,speed checked
-music,playbackspeed,check,monitor playback speed,speed checked
+music,playbackspeed,check,check playback speed,speed retrieved
+music,playbackspeed,check,verify playback speed,speed retrieved
+music,playbackspeed,check,assess playback speed,speed retrieved
+music,playbackspeed,check,review playback speed,speed retrieved
+music,playbackspeed,check,inspect playback speed,speed retrieved
+music,playbackspeed,check,query playback speed,speed retrieved
+music,playbackspeed,check,examine playback speed,speed retrieved
+music,playbackspeed,check,check speed setting,speed retrieved
+music,playbackspeed,check,validate playback speed,speed retrieved
+music,playbackspeed,check,monitor playback speed,speed retrieved
 music,schedule,cancel,cancel music schedule,schedule canceled
 music,schedule,cancel,remove scheduled playback,schedule canceled
 music,schedule,cancel,stop scheduled music,schedule canceled
@@ -4778,7 +4778,7 @@ camera,living room,statusquery,check living room camera,status reviewed
 camera,living room,statusquery,verify living room camera status,status reviewed
 camera,living room,statusquery,assess living room camera,status reviewed
 camera,living room,statusquery,review living room camera state,status reviewed
-camera,living room,statusquery,query living room camera,status reviewed
+camera,living room,statusquery,query living room camera,living room camera status shown
 camera,none,statusquery,check camera status,status reviewed
 camera,none,statusquery,verify camera operation,status reviewed
 camera,none,statusquery,assess camera state,status reviewed
