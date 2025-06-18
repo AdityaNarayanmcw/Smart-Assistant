@@ -10,3 +10,5 @@ scikit-learn>=1.2.0
 evaluate>=0.4.0
 rouge_score>=0.1.2
 peft
+editdistance
+spaCy

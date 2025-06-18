@@ -1,0 +1,141 @@
+Memory at After batch evaluation: Allocated=6.50GiB, Reserved=6.62GiB, Free=4.85GiB
+Average ROUGE-L Score: 88.75%
+Average Cosine Similarity: 99.05%
+Number of results: 133
+Sample result: [{'Category': 'camera', 'Subcategory': 'all', 'Action': 'on', 'Count': 4, 'ROUGE-L (%)': np.float64(86.54), 'Cosine Similarity (%)': np.float32(100.0)}]
+
+Metrics by Category, Subcategory, and Action:
+Category   Subcategory         Action  Count  ROUGE-L (%)  Cosine Similarity (%)
+  camera           all             on      4        86.54             100.000000
+  camera           all    statusquery      3        75.00             100.000000
+  camera         attic             on      5        83.33             100.000000
+  camera         attic    statusquery      6        95.83             100.000000
+  camera      backyard             on      5       100.00             100.000000
+  camera      backyard    statusquery      5        73.10             100.000000
+  camera      basement             on      6        94.64             100.000000
+  camera      basement    statusquery      4        91.43             100.000000
+  camera      bathroom             on      5        84.89              95.540001
+  camera      bathroom    statusquery      5        89.33             100.000000
+  camera        cellar             on      6        80.00             100.000000
+  camera        cellar    statusquery      4        93.75             100.000000
+  camera   dining room    statusquery      5        77.33             100.000000
+  camera       kitchen             on      6        70.00             100.000000
+  camera       kitchen    statusquery      5        74.93             100.000000
+  camera       library             on      4       100.00              94.550003
+  camera       library    statusquery      4        83.33             100.000000
+  camera   living room             on      4        66.37             100.000000
+  camera   living room    statusquery      5        63.33             100.000000
+  camera          none             on      3       100.00             100.000000
+  camera          none    statusquery      4        91.67             100.000000
+  camera       outside             on      4        76.19             100.000000
+  camera       outside    statusquery      4        72.37             100.000000
+  camera        toilet             on      3        87.50              92.330002
+  lights           all             on      3       100.00             100.000000
+  lights         attic            off      3       100.00             100.000000
+  lights         attic             on      4        77.14              94.339996
+  lights      basement            off      4        95.75              95.230003
+  lights      basement             on      3       100.00             100.000000
+  lights      bathroom            off      3       100.00             100.000000
+  lights      bathroom             on      3        88.64              92.730003
+  lights        cellar            off      3        98.04              93.639999
+  lights        cellar             on      4        95.83             100.000000
+  lights   dining room            off      3        71.46              92.940002
+  lights   dining room             on      3        98.25              91.940002
+  lights   dining room    statusquery      3        80.00             100.000000
+  lights       kitchen            off      3       100.00             100.000000
+  lights       kitchen             on      3       100.00             100.000000
+  lights       kitchen    statusquery      5        89.64             100.000000
+  lights       library            off      3       100.00             100.000000
+  lights       library             on      3       100.00             100.000000
+  lights   living room            off      3       100.00             100.000000
+  lights   living room             on      3       100.00             100.000000
+  lights          none            off      3        81.55              93.930000
+  lights          none             on      5        78.99              95.930000
+  lights          none    statusquery      4        81.53             100.000000
+  lights        random            off      3        90.48             100.000000
+  lights        random             on      3        83.01             100.000000
+  lights        toilet            off      3       100.00             100.000000
+  lights        toilet             on      3       100.00             100.000000
+   music       ambient          check      3        75.46             100.000000
+   music       ambient           play      4       100.00             100.000000
+   music       ambient           stop      3       100.00             100.000000
+   music        artist          check      3        64.81             100.000000
+   music        artist           play      6        74.07             100.000000
+   music        device          check      4        68.57             100.000000
+   music        device      multiroom      5        77.62              95.589996
+   music        device   switchdevice      3        71.52             100.000000
+   music        device     volumesync      6        75.19             100.000000
+   music     equalizer         adjust      3        91.67             100.000000
+   music         genre           play      4        93.18             100.000000
+   music   multisource          check      3        90.41             100.000000
+   music   multisource           play      4        73.68              94.449997
+   music   multisource           sync      4        95.00             100.000000
+   music          none            off      3        70.31             100.000000
+   music      playback          check      4        59.97             100.000000
+   music      playback           loop      3        82.05              92.769997
+   music      playback          pause      3        86.32             100.000000
+   music      playback           play      3        94.44             100.000000
+   music      playback       previous      3        95.56              86.440002
+   music      playback         repeat      3        93.33             100.000000
+   music      playback        restart      3        87.55             100.000000
+   music      playback         resume      3       100.00             100.000000
+   music      playback           skip      5        76.00             100.000000
+   music      playback           stop      4        71.43             100.000000
+   music playbackspeed    adjustspeed      3        93.33             100.000000
+   music playbackspeed          check      4        67.22             100.000000
+   music playbackspeed     resetspeed      3        74.60             100.000000
+   music      playlist        addsong      4        95.00             100.000000
+   music      playlist          check      3        93.33             100.000000
+   music      playlist         create      3        93.33             100.000000
+   music      playlist         delete      3        91.67             100.000000
+   music      playlist     removesong      3        95.24             100.000000
+   music      playlist        reorder      3        74.44             100.000000
+   music      playlist selectplaylist      3       100.00             100.000000
+   music      playlist        shuffle      3        94.44             100.000000
+   music       podcast           play      4        95.00             100.000000
+   music       podcast           skip      4       100.00             100.000000
+   music         power        turnoff      3        85.71             100.000000
+   music         power         turnon      4        98.08              94.300003
+   music         queue            add      4       100.00             100.000000
+   music         queue          check      3       100.00             100.000000
+   music         queue          clear      3        95.24             100.000000
+   music         radio           play      3        81.11              92.459999
+   music      schedule         cancel      4        45.00             100.000000
+   music      schedule          check      3       100.00             100.000000
+   music      schedule           play      3        82.05              92.160004
+   music      schedule           stop      3       100.00             100.000000
+   music    sleeptimer          check      3        85.00             100.000000
+   music    sleeptimer            set      3        65.81              92.680000
+   music          song          check      3        91.07             100.000000
+   music          song           play      4       100.00             100.000000
+   music        source          check      3        93.33             100.000000
+   music        source   switchsource      4        96.43             100.000000
+   music        status          check      3        90.48             100.000000
+   music  voicecontrol          check      3        75.93             100.000000
+   music  voicecontrol        disable      3       100.00             100.000000
+   music  voicecontrol         enable      3        79.29             100.000000
+   music        volume   adjustvolume      3        91.67             100.000000
+   music        volume          check      3        93.33             100.000000
+   music        volume           mute      3        74.12             100.000000
+   music        volume         unmute      3       100.00             100.000000
+shutters      basement           down      4       100.00             100.000000
+shutters      basement             up      4        78.57             100.000000
+shutters      bathroom           down      4        96.88             100.000000
+shutters      bathroom    statusquery      3       100.00             100.000000
+shutters      bathroom             up      3       100.00             100.000000
+shutters        cellar           down      3       100.00             100.000000
+shutters        cellar    statusquery      3       100.00             100.000000
+shutters        cellar             up      3        88.89             100.000000
+shutters       kitchen           down      4       100.00             100.000000
+shutters       kitchen    statusquery      4       100.00             100.000000
+shutters       kitchen             up      4       100.00             100.000000
+shutters       library           down      3       100.00             100.000000
+shutters       library             up      3        96.30             100.000000
+shutters   living room           down      3       100.00             100.000000
+shutters   living room             up      3       100.00             100.000000
+shutters          none           down      4       100.00             100.000000
+shutters          none    statusquery      4        91.67             100.000000
+shutters          none             up      3        95.24             100.000000
+shutters        toilet           down      3        85.71             100.000000
+shutters        toilet    statusquery      3       100.00             100.000000
+shutters        toilet             up      4        89.48             100.000000
