@@ -734,7 +734,7 @@ except Exception as e:
     test_dataset = Dataset.from_pandas(test_df[columns_to_keep])
 
 # Load model and tokenizer
-model_name = "./Llama-3.2-3B"  # Update to valid path or Hugging Face model ID
+model_name = "./Llama-3.2-1B"  # Update to valid path or Hugging Face model ID
 try:
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.pad_token = tokenizer.eos_token
@@ -868,8 +868,8 @@ except Exception as e:
 
 # Save model and tokenizer
 try:
-    model.save_pretrained("./finetuned_llama/final_model")
-    tokenizer.save_pretrained("./finetuned_llama/final_model")
+    model.save_pretrained("./finetuned_llama321/final_model")
+    tokenizer.save_pretrained("./finetuned_llama321/final_model")
     print("Model and tokenizer saved to ./finetuned_llama/final_model")
 except Exception as e:
     print(f"Error saving model: {e}")

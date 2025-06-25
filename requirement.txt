@@ -12,3 +12,4 @@ rouge_score>=0.1.2
 peft
 editdistance
 spaCy
+huggingface_hub
